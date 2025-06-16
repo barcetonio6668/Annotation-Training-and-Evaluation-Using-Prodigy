@@ -12,7 +12,7 @@ source venv/bin/activate
 
 2️⃣ Start Annotation Interface
 
-prodigy ner.correct golden_standard_dataset en_core_web_sm "/Users/liuxduan/Desktop/Prodigy/Alphine_Journal_Latest_2020-2022/merged_alpine_journal_2020-2022_simple.txt" --label PERSON,MOUNTAIN,VALLEY,CITY,GPE,DATE
+prodigy ner.correct golden_standard_dataset en_core_web_sm "path/to/your/annotation/data.txt" --label PERSON,MOUNTAIN,VALLEY,CITY,GPE,DATE
 
 # This will launch Prodigy at http://localhost:8080.
 # en_core_web_sm is a base model from SpaCy for English
