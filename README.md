@@ -4,13 +4,13 @@ This project uses [Prodigy](https://prodi.gy/) for annotating and training a cus
 
 ## 🚀 Workflow Summary
 
-### 1️⃣ Activate the Virtual Environment
+1️⃣ Activate the Virtual Environment
 
 ```bash
 cd /path/to/project-folder
 source venv/bin/activate
 
-### 2️⃣ Start Annotation Interface
+2️⃣ Start Annotation Interface
 
 prodigy ner.correct golden_standard_dataset en_core_web_sm "/Users/liuxduan/Desktop/Prodigy/Alphine_Journal_Latest_2020-2022/merged_alpine_journal_2020-2022_simple.txt" --label PERSON,MOUNTAIN,VALLEY,CITY,GPE,DATE
 
@@ -18,7 +18,7 @@ prodigy ner.correct golden_standard_dataset en_core_web_sm "/Users/liuxduan/Desk
 # en_core_web_sm is a base model from SpaCy for English
 # When you're done annotating, press Ctrl+C in the terminal to safely exit and save your work.
 
-### 3️⃣ Export the Annotations (JSONL format)
+3️⃣ Export the Annotations (JSONL format)
 ## If you have not configured anything specifically, 
 ## Prodigy defaults to using an SQLite database located 
 ## in your working directory, at the following path:
@@ -29,11 +29,11 @@ prodigy ner.correct golden_standard_dataset en_core_web_sm "/Users/liuxduan/Desk
 
 prodigy db-out your_dataset_name > annotations.jsonl
 
-### 4️⃣ Train a Custom NER Model with Prodigy
+4️⃣ Train a Custom NER Model with Prodigy
 
 prodigy train model_name_of_your_choice --ner golden_standard_dataset --base-model path_to_your_baseline_model
 
-### 5️⃣ Use the Trained Model (Inference Example)
+5️⃣ Use the Trained Model (Inference Example)
 
 import spacy
 
