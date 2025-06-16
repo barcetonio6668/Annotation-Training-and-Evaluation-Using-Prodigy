@@ -2,17 +2,6 @@
 
 This project uses [Prodigy](https://prodi.gy/) for annotating and training a custom Named Entity Recognition (NER) model on texts from the **British Alpine Journal (mainly 2020–2022)**. The goal is to extract entities such as mountain names, valleys, cities, people, countries, and dates.
 
-## 📁 Recommended Project Structure
-project-folder/
-│
-├── venv/ # Virtual environment
-├── merged_alpine_journal_2020-2022_simple.txt # Raw text file
-├── golden_data.jsonl # Exported annotations
-├── models/ # Trained model
-└── README.md # This file
-
----
-
 ## 🚀 Workflow Summary
 
 ### 1️⃣ Activate the Virtual Environment
