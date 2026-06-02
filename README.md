@@ -110,7 +110,7 @@ for ent in doc.ents:
    * Generated using:
 
      * `convert_corrected_jsonl_to_tei.py`
-     Intended for corpus publication, interoperability, and digital humanities applications.
+     * Intended for corpus publication, interoperability, and digital humanities applications.
 
 The corrected JSONL files remain the authoritative annotation source used for model development and evaluation.
 
