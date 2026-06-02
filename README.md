@@ -1,3 +1,6 @@
+Repository Release:
+https://github.com/barcetonio6668/Annotation-Training-and-Evaluation-Using-Prodigy/releases/tag/v1.0
+
 # 🏔️ Named Entity Recognition with Prodigy — Alpine Journal Project
 
 This project uses [Prodigy](https://prodi.gy/) for annotating and training a custom Named Entity Recognition (NER) model on texts from the **British Alpine Journal (mainly 2020–2022)**. The goal is to identify and extract six domain-specific entity types: PERSON, MOUNTAIN, VALLEY, CITY, GPE, and DATE. The TEI exports are derived from the corrected JSONL annotations and are intended for publication, preservation, and interoperability purposes. TEI exports were validated for common conversion issues, including residual annotation helper text, malformed XML entities, and unconverted annotation tags. Validation did not identify any such issues in the final TEI files.
@@ -72,29 +75,29 @@ for ent in doc.ents:
    * Automatically cleaned versions of the original annotations.
    * Generated using:
 
-     * `analyze_jsonl_conservative.py`
+     * `analyze_jsonl_conservative.py` 
 
-3. **Review files (`*.cleaned.review.csv`)**
-
-   * Spreadsheet files generated for manual inspection and correction.
-   * Generated using:
-
-     * `create_review_spreadsheet.py`
-
-4. **Corrected annotations (`*.corrected.jsonl`)**
-
-   * Manually reviewed and corrected annotation files.
-   * Updated using:
-
-     * `update_jsonl_from_csv.py`
-   * These files serve as the final gold-standard annotation dataset.
-
-5. **Analysis reports (`*.analysis.txt`)**
+3. **Analysis reports (`*.analysis.txt`)**
 
    * Annotation analysis and validation reports generated during the review process.
    * Generated using:
 
      * `analyze_jsonl_conservative.py`
+
+4. **Review files (`*.cleaned.review.csv`)**
+
+   * Spreadsheet files generated for manual inspection and correction.
+   * Generated using:
+
+     * `create_review_spreadsheet.py`
+    
+5. **Corrected annotations (`*.corrected.jsonl`)**
+
+   * Manually reviewed and corrected annotation files.
+   * Updated using:
+
+     * `update_jsonl_from_csv.py`
+     These files serve as the final gold-standard annotation dataset.
 
 6. **XML exports (`*.xml`, `*.corrected.xml`)**
 
@@ -110,7 +113,7 @@ for ent in doc.ents:
    * Generated using:
 
      * `convert_corrected_jsonl_to_tei.py`
-   * Intended for corpus publication, interoperability, and digital humanities applications.
+     Intended for corpus publication, interoperability, and digital humanities applications.
 
 The corrected JSONL files remain the authoritative annotation source used for model development and evaluation.
 
