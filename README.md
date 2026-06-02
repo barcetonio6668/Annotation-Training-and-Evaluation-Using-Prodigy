@@ -72,29 +72,29 @@ for ent in doc.ents:
    * Automatically cleaned versions of the original annotations.
    * Generated using:
 
+     * `analyze_jsonl_conservative.py` 
+
+3. **Analysis reports (`*.analysis.txt`)**
+
+   * Annotation analysis and validation reports generated during the review process.
+   * Generated using:
+
      * `analyze_jsonl_conservative.py`
 
-3. **Review files (`*.cleaned.review.csv`)**
+4. **Review files (`*.cleaned.review.csv`)**
 
    * Spreadsheet files generated for manual inspection and correction.
    * Generated using:
 
      * `create_review_spreadsheet.py`
-
-4. **Corrected annotations (`*.corrected.jsonl`)**
+    
+5. **Corrected annotations (`*.corrected.jsonl`)**
 
    * Manually reviewed and corrected annotation files.
    * Updated using:
 
      * `update_jsonl_from_csv.py`
    * These files serve as the final gold-standard annotation dataset.
-
-5. **Analysis reports (`*.analysis.txt`)**
-
-   * Annotation analysis and validation reports generated during the review process.
-   * Generated using:
-
-     * `analyze_jsonl_conservative.py`
 
 6. **XML exports (`*.xml`, `*.corrected.xml`)**
 
