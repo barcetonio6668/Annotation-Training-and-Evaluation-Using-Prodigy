@@ -1,6 +1,6 @@
 # 🏔️ Named Entity Recognition with Prodigy — Alpine Journal Project
 
-This project uses [Prodigy](https://prodi.gy/) for annotating and training a custom Named Entity Recognition (NER) model on texts from the **British Alpine Journal (mainly 2020–2022)**. The goal is to identify and extract six domain-specific entity types: PERSON, MOUNTAIN, VALLEY, CITY, GPE, and DATE. The TEI exports are derived from the corrected JSONL annotations and are intended for publication, preservation, and interoperability purposes. TEI exports were validated for common conversion issues, including residual annotation helper text, malformed XML entities, and unconverted annotation tags. Validation did not identify any such issues in the final TEI files.
+This project uses [Prodigy](https://prodi.gy/) for annotating and training a custom Named Entity Recognition (NER) model on texts from the **British Alpine Journal (mainly 2020–2022)**. The goal is to identify and extract six domain-specific entity types: PERSON, MOUNTAIN, VALLEY, CITY, GPE, and DATE. The TEI exports are derived from the corrected JSONL annotations and are intended for publication, preservation, and interoperability purposes. TEI exports were checked for common conversion issues, including residual annotation helper text, malformed XML entities, and unconverted annotation tags. Validation did not identify any such issues in the final TEI files.
 
 ## Corpus Preparation Scripts
 
