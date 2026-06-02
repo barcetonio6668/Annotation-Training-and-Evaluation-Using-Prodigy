@@ -1,0 +1,520 @@
+JSONL Analysis Report
+====================================================================================================
+
+Lines processed: 2301
+No control characters found
+Suspicious lines found: 333
+
+====================================================================================================
+SUSPICIOUS LINES (Need manual review):
+====================================================================================================
+
+
+Line 8
+Text: Swenson originally attempted the route in 2001 with George Lowe, Joe Terravecchia, Steve Larson, Andy Tuthill and Eric W
+Issues found:
+  - Position 106: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 56
+Text: Even so, the nature of the climbing gave the team little confidence in their ability to reach the summit, though it loom
+Issues found:
+  - Position 79: 'ili' -> possible OCR: multiple l/i/|/I in a row
+
+Line 67
+Text: Finally, it is important to note that the expedition was undertaken adhering to strict environmental standards, deep res
+Issues found:
+  - Position 245: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 69
+Text: The team would like to first and foremost thank their families and friends for supporting them in the endeavour to climb
+Issues found:
+  - Position 57: 'ili' -> possible OCR: multiple l/i/|/I in a row
+
+Line 96
+Text: The rest of the range is almost completely neglected despite being full of tempting possibilities.
+Issues found:
+  - Position 90: 'ili' -> possible OCR: multiple l/i/|/I in a row
+
+Line 103
+Text: We flew onto the North Baird glacier from the fishing village of Petersburg on 30 April.
+Issues found:
+  - Position 55: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 120
+Text: The sun was now rising quickly in the sky and the stability of the slope was about to deteriorate fast.
+Issues found:
+  - Position 54: 'ili' -> possible OCR: multiple l/i/|/I in a row
+
+Line 143
+Text: Mount Phillips
+Issues found:
+  - Position 8: 'illi' -> possible OCR: multiple l/i/|/I in a row
+
+Line 146
+Text: Conditions were challenging: few routes were in nick and just surviving on the hill was a challenge in itself.
+Issues found:
+  - Position 80: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 164
+Text: I'd recently come across John Scurlock’s beautiful image of the north side of Mount Phillips in the Canadian Rockies on 
+Issues found:
+  - Position 86: 'illi' -> possible OCR: multiple l/i/|/I in a row
+
+Line 165
+Text: A quick Google search revealed that Mount Phillips was a 3,246m peak just to the north of Mount Robson.
+Issues found:
+  - Position 44: 'illi' -> possible OCR: multiple l/i/|/I in a row
+
+Line 166
+Text: Even better, Phillips’ 600m north face appeared to be unclimbed.
+Issues found:
+  - Position 15: 'illi' -> possible OCR: multiple l/i/|/I in a row
+
+Line 167
+Text: The sharp-cut north spur dividing the north-east and north-west faces of the mountain was a compelling feature that simp
+Issues found:
+  - Position 97: 'lli' -> possible OCR: multiple l/i/|/I in a row
+
+Line 172
+Text: Scree and snow slopes led to a comfortable bivouac on the right flank of the Phillips glacier.
+Issues found:
+  - Position 79: 'illi' -> possible OCR: multiple l/i/|/I in a row
+
+Line 186
+Text: The avalanches will stop once the snowpack has had time to stabilise and adjust to the warming.'
+Issues found:
+  - Position 16: 'ill' -> possible OCR: multiple l/i/|/I in a row
+  - Position 63: 'ili' -> possible OCR: multiple l/i/|/I in a row
+
+Line 191
+Text: I marvelled at his skill placing knife blades.
+Issues found:
+  - Position 21: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 198
+Text: Steep and jagged peaks stretched all the way to the horizon holding countless possibilities for more adventures to come.
+Issues found:
+  - Position 84: 'ili' -> possible OCR: multiple l/i/|/I in a row
+
+Line 204
+Text: The avalanches will stop once the snowpack has had time to stabilise and adjust to the warming.
+Issues found:
+  - Position 16: 'ill' -> possible OCR: multiple l/i/|/I in a row
+  - Position 63: 'ili' -> possible OCR: multiple l/i/|/I in a row
+
+Line 213
+Text: Don and Phyllis Munday’s pioneering route up Waddington climbed the lower 3.5km of the west ridge to 3,300m and then fol
+Issues found:
+  - Position 11: 'lli' -> possible OCR: multiple l/i/|/I in a row
+
+Line 215
+Text: Unfortunately the Mundays did not have the firepower to continue to the main summit, which had to wait until 1936 when B
+Issues found:
+  - Position 120: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 219
+Text: Two weeks after our ascent of Mount Phillips, the rain stopped, the clouds cleared and the weather was finally good enou
+Issues found:
+  - Position 38: 'illi' -> possible OCR: multiple l/i/|/I in a row
+
+Line 228
+Text: Next day we traversed over the two Men-At-Arms summits and followed a spectacular corniced ridge over Bodyguard and Coun
+Issues found:
+  - Position 121: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 243
+Text: Day four was another beautiful day but we were nearly turned back on the Summit Tower due to falling rime ice.
+Issues found:
+  - Position 95: 'lli' -> possible OCR: multiple l/i/|/I in a row
+
+Line 263
+Text: First ascent of North Spur, Mount Phillips (3246m), Canadian Rockies.
+Issues found:
+  - Position 36: 'illi' -> possible OCR: multiple l/i/|/I in a row
+
+Line 266
+Text: (Ian Welsted and Simon Richardson, 3 to 7 August 2019)
+Issues found:
+  - Position 0: '(Ia' -> possible OCR: "({letter}" might be something else
+
+Line 271
+Text: Ally and I sat in an empty hotel restaurant, the morning silence lingering peacefully under the high-vaulted ceiling.
+Issues found:
+  - Position 111: 'ili' -> possible OCR: multiple l/i/|/I in a row
+
+Line 272
+Text: I looked around: empty tables and half-tucked chairs filled the room.
+Issues found:
+  - Position 54: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 278
+Text: I could still smell it on my clothes.
+Issues found:
+  - Position 10: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 288
+Text: Will Sim had ‘re-discovered’ the Hindu Raj region.
+Issues found:
+  - Position 1: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 289
+Text: Years of political instability and tension had closed this mountainous, and remote area to foreigners.
+Issues found:
+  - Position 25: 'ili' -> possible OCR: multiple l/i/|/I in a row
+
+Line 292
+Text: But Will’s curiosity and research secured a permit for autumn 2019, and he invited John Crook, Uisdean Hawthorn, Ally Sw
+Issues found:
+  - Position 5: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 304
+Text: As we journeyed further into the mountains, villages shrank in size and frequency to isolated hamlets.
+Issues found:
+  - Position 45: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 333
+Text: Unfortunately, Will and Uisdean were il and stayed at base camp.
+Issues found:
+  - Position 16: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 334
+Text: It was almost inevitable that some of our team would get sick, but we still felt for them; it was unfortunate to miss ou
+Issues found:
+  - Position 72: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 344
+Text: Will and Ally passed a book back and forth.
+Issues found:
+  - Position 1: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 354
+Text: During acclimatisation, you’re still learning the mountain’s moods: you watch how clouds boil around the peak; you see w
+Issues found:
+  - Position 33: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 362
+Text: Ally and I were motivated for the right-hand line but the climbing looked tricky: there was a possibility it was simply 
+Issues found:
+  - Position 100: 'ili' -> possible OCR: multiple l/i/|/I in a row
+
+Line 365
+Text: Will, John and Uisdean chose the left-hand, north-east ridge: it looked fantastic, it would hopefully be easier and it w
+Issues found:
+  - Position 1: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 366
+Text: I shared Will’s views about wanting to climb something.
+Issues found:
+  - Position 10: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 381
+Text: Although the sun had spilled onto the face, I still grit- ted my teeth as blood returned to my toes.
+Issues found:
+  - Position 23: 'ill' -> possible OCR: multiple l/i/|/I in a row
+  - Position 48: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 384
+Text: On the second day, Ally led several brilliant mixed pitches up a chim- ney-gully system.
+Issues found:
+  - Position 38: 'illi' -> possible OCR: multiple l/i/|/I in a row
+
+Line 385
+Text: Piece by piece, pitch by pitch, we answered more of our questions, filling in the blanks we’d noted when scanning the fa
+Issues found:
+  - Position 68: 'illi' -> possible OCR: multiple l/i/|/I in a row
+
+Line 410
+Text: It felt like climbing at Gogarth’s Main Cliff, a place I'm very fond of, and Ibegan to relish our wild yet somehow famil
+Issues found:
+  - Position 118: 'ili' -> possible OCR: multiple l/i/|/I in a row
+
+Line 424
+Text: We enjoyed the easier ground but were still a long way from the true summit, which was further back from the peak we’d s
+Issues found:
+  - Position 40: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 428
+Text: It was as if the sky was tearing itself apart, huge white explosions illuminating thunder- heads and boiling clouds.
+Issues found:
+  - Position 69: 'ill' -> possible OCR: multiple l/i/|/I in a row
+  - Position 103: 'ili' -> possible OCR: multiple l/i/|/I in a row
+
+Line 431
+Text: Hoping to see the tracks of Will, Uisdean and John, we pushed on, but figured they must have turned back when we found n
+Issues found:
+  - Position 29: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 442
+Text: I held my breath in nervous expectation of suddenly falling into a slot; these crevasses looked like monstrous, soulless
+Issues found:
+  - Position 54: 'lli' -> possible OCR: multiple l/i/|/I in a row
+
+Line 464
+Text: I knew Ally needed more medical attention than the single bandage and painkillers Icould offer him.
+Issues found:
+  - Position 75: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 476
+Text: The Pakistani helicopter crew loaded Ally on board at around 1pm and then came back for me 45 minutes later, flying to a
+Issues found:
+  - Position 128: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 479
+Text: We enjoyed a final meal with our agent and team, recounting wild stories of helicopters and hospitals, of Will and John 
+Issues found:
+  - Position 107: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 481
+Text: As we spilled onto the street, the moon shone over the city, a full lunar cycle completed during our month in the mounta
+Issues found:
+  - Position 8: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 483
+Text: Attempt on north-east ridge of Koyo Zom (6877m), four days to 6,000m, Will Sim, Uisdean Hawthorn and John Crook.
+Issues found:
+  - Position 71: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 493
+Text: Like a fifth or so of the buildings in the small village of Thangu, his hotel was indeed very broken.
+Issues found:
+  - Position 50: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 500
+Text: The deep, jungle-covered and winding valleys of the foothills made for a grand and varied approach to the mountains.
+Issues found:
+  - Position 57: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 509
+Text: The highest point thus far, still a long way from the summit, was reached by a Japanese team in 1992.
+Issues found:
+  - Position 30: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 524
+Text: The local people were much more interested in searching for caterpillar fungus, the famous yartsa gunbu much in demand i
+Issues found:
+  - Position 66: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 536
+Text: Suggestions that it was built for military purposes or to take yaks up to a yak racing ground were dismissed in favour o
+Issues found:
+  - Position 35: 'ili' -> possible OCR: multiple l/i/|/I in a row
+
+Line 551
+Text: The next day dawned the same but, feeling the need to be in position at the foot of our intended line, we trudged up thr
+Issues found:
+  - Position 131: 'lli' -> possible OCR: multiple l/i/|/I in a row
+
+Line 553
+Text: In the early hours it was still snowing and the temperature was clearly too warm for a good freeze.
+Issues found:
+  - Position 28: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 563
+Text: With endless hours to waste we whiled away the time discussing laughable possibilities interminably.
+Issues found:
+  - Position 79: 'ili' -> possible OCR: multiple l/i/|/I in a row
+
+Line 564
+Text: The weather still wasn't getting any better.
+Issues found:
+  - Position 14: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 577
+Text: The expedition was dead in the water if we couldn’t reach the village of Thangu and getting foreigners there when Indian
+Issues found:
+  - Position 63: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 585
+Text: Approval from yet another senior official was secured, a special pass of some sort was granted, the guard at the army ca
+Issues found:
+  - Position 152: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 630
+Text: Much as the climbing itself had been a million miles away from the technical ground I love, we had reached 6,100m.
+Issues found:
+  - Position 40: 'illi' -> possible OCR: multiple l/i/|/I in a row
+
+Line 660
+Text: Remarkably the pool was emptied with minimum spillage but in my enthusiasm to apply a new bag, I quickly wasted several 
+Issues found:
+  - Position 47: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 679
+Text: We discussed various possibilities but in truth we didn’t dither long.
+Issues found:
+  - Position 27: 'ili' -> possible OCR: multiple l/i/|/I in a row
+
+Line 682
+Text: Particularly after the health challenges of the last couple of years,I had wanted to prove to myself that I could still 
+Issues found:
+  - Position 116: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 684
+Text: I was very aware of all the effort medical professionals had put into getting me back in good condition, not to mention 
+Issues found:
+  - Position 128: 'ili' -> possible OCR: multiple l/i/|/I in a row
+
+Line 707
+Text: (Jerry Gore)
+Issues found:
+  - Position 0: '(Je' -> possible OCR: "({letter}" might be something else
+
+Line 720
+Text: My head and shoulders dropped, as my familiar low self-esteem fermented inside me.
+Issues found:
+  - Position 40: 'ili' -> possible OCR: multiple l/i/|/I in a row
+
+Line 734
+Text: It extends around the walls from floor to ceiling and when you walk in you feel totally enveloped in gloom.
+Issues found:
+  - Position 44: 'ili' -> possible OCR: multiple l/i/|/I in a row
+
+Line 756
+Text: The normal time to climb the north face is still two days, or even more, and consequently most climbers take bivy gear.
+Issues found:
+  - Position 45: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 763
+Text: His maturity must have something to do with the death of his younger brother, who had been killed in a car crash some ye
+Issues found:
+  - Position 92: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 767
+Text: I waited for questions about fitness, route conditions and partner ability (i.e. me).
+Issues found:
+  - Position 69: 'ili' -> possible OCR: multiple l/i/|/I in a row
+
+Line 771
+Text: but it's still cold on the face to reduce rock fall and there's still sufficient snow and ice to make the climbing easie
+Issues found:
+  - Position 11: 'ill' -> possible OCR: multiple l/i/|/I in a row
+  - Position 66: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 781
+Text: I wasn't fit, conditions were uncertain and I still had to learn the technicalities of 'speed climbing' rather than just
+Issues found:
+  - Position 48: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 794
+Text: He made a huge difference to our attempt and I still feel deeply honoured that he gave me so much of his valuable time i
+Issues found:
+  - Position 49: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 804
+Text: Simplistically it is about ascending steep hills involving vertical height gains of 800m or more but over short horizont
+Issues found:
+  - Position 44: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 812
+Text: My long-suffering wife Jackie got on with the day-to-day business of running our company while dealing with my mood swin
+Issues found:
+  - Position 154: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 826
+Text: My body was already com- plaining and injury is a real possibility for the over 50s.
+Issues found:
+  - Position 61: 'ili' -> possible OCR: multiple l/i/|/I in a row
+
+Line 866
+Text: It was already early evening and we still had a lot of prep before we could sleep.
+Issues found:
+  - Position 38: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 891
+Text: Now it was approaching that time and we all knew the sun would be hitting the upper snowfields releasing its deadly fusi
+Issues found:
+  - Position 119: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 901
+Text: Was I still good enough to do this game?
+Issues found:
+  - Position 8: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 912
+Text: Then I reflected on why I was here in the first place: raising money to help impoverished families with children who had
+Issues found:
+  - Position 93: 'ili' -> possible OCR: multiple l/i/|/I in a row
+
+Line 916
+Text: He was an eight-year-old boy I had met at a diabetes camp in the Philippines a year earlier.
+Issues found:
+  - Position 67: 'ili' -> possible OCR: multiple l/i/|/I in a row
+
+Line 919
+Text: Insulin med- ication in many parts of south-east Asia is often beyond the reach of most households and without it a newl
+Issues found:
+  - Position 146: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 923
+Text: His blood sugars were over 400mg/dL, or milligrams per decilitre: a death sentence given that the average for a non-diab
+Issues found:
+  - Position 41: 'illi' -> possible OCR: multiple l/i/|/I in a row
+  - Position 58: 'ili' -> possible OCR: multiple l/i/|/I in a row
+
+Line 925
+Text: By day four his sugars had dropped significantly and starting to stabilise.
+Issues found:
+  - Position 69: 'ili' -> possible OCR: multiple l/i/|/I in a row
+
+Line 940
+Text: He knew we had the tech- nical skills to tackle anything on the face.
+Issues found:
+  - Position 33: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 949
+Text: This was still a little low but it was rising fast and I knew that my carb-rich breakfast would counter the effect of th
+Issues found:
+  - Position 11: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 951
+Text: The black sky was a million tiny shards of light and I gulped it in as we raced across the base of the beast.
+Issues found:
+  - Position 21: 'illi' -> possible OCR: multiple l/i/|/I in a row
+
+Line 955
+Text: Soon we were pulling ourselves across the legendary Hinterstoisser Traverse and I saw the sun for the first time: a smok
+Issues found:
+  - Position 15: 'lli' -> possible OCR: multiple l/i/|/I in a row
+
+Line 960
+Text: Unluckily for us its magic veneer of ice had gone and we were forced to take turns dry tooling technical sections of bla
+Issues found:
+  - Position 131: 'lli' -> possible OCR: multiple l/i/|/I in a row
+  - Position 165: 'illi' -> possible OCR: multiple l/i/|/I in a row
+
+Line 999
+Text: We were now in the sun and it was still only early afternoon.
+Issues found:
+  - Position 36: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 1022
+Text: Calum had gone, racing off down the hill, eager to be reunited with his car so he could get back to Chamonix in time for
+Issues found:
+  - Position 37: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 1027
+Text: The north face of the Alguille des Pelerins (3318m) in winter, seamed with ice runnels.
+Issues found:
+  - Position 26: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 1029
+Text: The temperature was falling, and the gusty frigid winds penetrated right through to the bone.
+Issues found:
+  - Position 22: 'lli' -> possible OCR: multiple l/i/|/I in a row
+
+Line 1031
+Text: Al Powell, that gnarly and incredibly understated British alpinist of the 1990s and 2000s, was dragging me up a winter a
+Issues found:
+  - Position 178: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 1045
+Text: But I don't despair; the optimist will always win I tell myself.
+Issues found:
+  - Position 35: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 1051
+Text: My regular climbing partner Matt Helliker never needs persuading and we included in the party the Derbyshire lad Pete Wh
+Issues found:
+  - Position 35: 'lli' -> possible OCR: multiple l/i/|/I in a row
+
+... and 233 more suspicious lines

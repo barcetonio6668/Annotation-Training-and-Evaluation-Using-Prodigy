@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>annotations_449_Latest.corrected</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Generated from Prodigy/spaCy NER annotations.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>British Alpine Corpus annotation export.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p n="1"><name type="person">MARK RICHEY</name> &amp; <name type="person">STEVE SWENSON</name></p>
+      <p n="2">The First Ascent of <placeName type="mountain">Link Sar</placeName></p>
+      <p n="3">The south-east face of <name type="person">Link Sar</name> (7041m).</p>
+      <p n="4">(<name type="person">Graham Zimmerman</name>)</p>
+      <p n="5">From <date>31 July</date> to <date>8 August 2019</date>, <name type="person">Graham Zimmerman</name>, <date>Steve Swen- son</date>, <name type="person">Chris Wright</name> and <name type="person">Mark Richey</name> made the first ascent of <placeName type="mountain">Link Sar</placeName> (7041m) in the central <placeName type="mountain">Pakistani Karakoram</placeName> via its 3,400m south-east face.</p>
+      <p n="6">Having been the objective of at least nine expeditions, the first ascent of this peak has been a highly sought-after prize for the climbing community.</p>
+      <p n="7">The team called their route the South-east Face and graded it M6+, WI 4, 90°, 2300m, although the grade does a poor job of portraying a challenge that the <placeName type="mountain">Karakoram</placeName> veteran <name type="person">Swenson</name> called ‘one of the most complex and difficult routes Ihave ever climbed.’</p>
+      <p n="8"><name type="person">Swenson</name> originally attempted the route in <date>2001</date> with <name type="person">George Lowe</name>, <name type="person">Joe Terravecchia</name>, <name type="person">Steve Larson</name>, <name type="person">Andy Tuthill</name> and <name type="person">Eric Winkelman</name>.</p>
+      <p n="9">It was an amazing opportunity for the team since the face lies very near the contested border between <placeName type="gpe">Pakistan</placeName> and <placeName type="gpe">India</placeName> (known as the Actual Ground Position Line or AGPL), and the eastern aspects of the mountain had not been permitted since <date>the mid 1980s</date> when the Siachen conflict broke out.</p>
+      <p n="10">The team did not make itvery high on the peak but their attempt inspired <name type="person">Swenson</name> to return and he made repeated efforts over <date>the following decade</date> to get another permit for the peak with no success.</p>
+      <p n="11">Approaching via the <placeName type="valley">Kondus</placeName> valley.</p>
+      <p n="12">(<name type="person">Steve Swenson</name>)</p>
+      <p n="13">Over <date>the following years</date>, several attempts were made on the peak’s western aspect via the <placeName type="valley">Charakusa</placeName> valley.</p>
+      <p n="14">And in <date>2015</date>, <name type="person">Swenson</name> and <name type="person">Zimmer- man</name>, along with <name type="person">Scott Bennett</name>, made the first ascent of nearby <placeName type="mountain">Changi Tower</placeName> (6500m) via its North Ridge (M6, <date>5.10</date>, A2, 1200m) and from its summit caught an excellent view of the massive south-east face of <placeName type="mountain">Link Sar</placeName>, supplying better information about the best way to climb the route and further spurring motivation to attempt the mountain.</p>
+      <p n="15">In <date>2017</date>, it looked like the area was once again opening to climbing; <name type="person">Swenson</name> and <name type="person">Zimmerman</name> were finally given a permit to access <placeName type="mountain">Link Sar</placeName>’s south- east face.</p>
+      <p n="16">They also invited <name type="person">Wright</name> on the expedition as he and <name type="person">Zimmerman</name> had formed a strong partnership in the mountains of <placeName type="gpe">Alaska</placeName>.</p>
+      <p n="17">During this two-and-a-half-month expedition, the team experienced atrocious weather and after multiple attempts reached only 5,900m.</p>
+      <p n="18">Despite this failure, the team made a myriad of observations of the face’s immense complexities, providing them with the information they needed to make an ascent safe from the many objective hazards littering the wall.</p>
+      <p n="19">In <date>2019</date>, these three climbers, alongside <name type="person">Mark Richey</name>, with whom <name type="person">Swenson</name> won a Piolet d'Or in <date>2012</date> for the first ascent of <placeName type="mountain">Saser Kangri</placeName> II in the eastern <placeName type="mountain">Karakoram</placeName>, returned to the south-east face.</p>
+      <p n="20">They left home on <date>4 June</date>.</p>
+      <p n="21">The approach to the peak is made via the <placeName type="valley">Kondus</placeName> valley and then up the Kaberi glacier.</p>
+      <p n="22">A road runs adjacent to the glacier up to the location of the same base camp (3600m) used on the <date>2001</date> and <date>2017</date> attempts.</p>
+      <p n="23">They arrived there on <date>10 June</date>.</p>
+      <p n="24">From experience, they knew one of the primary cruxes of the route was acclimatisation.</p>
+      <p n="25">The <placeName type="valley">Kondus</placeName> valley is one of the deepest in the <placeName type="mountain">Karakoram</placeName> and its walls are precipitously steep.</p>
+      <p n="26">On most 7,000m peaks, a nearby easier 6,000m peak would be used to acclimatise before starting on the primary objective.</p>
+      <p n="27">No such peak exists in the <placeName type="valley">Kondus</placeName> so the team was forced to use the lower portions of their route on the south-east face.</p>
+      <p n="28">To help with this, they set up an advance base camp at the top of the meadows that make up the bottom 1,100m of the face, hiring five local porters for whom they established a via ferrata of fixed ropes on a series of easy but exposed low fifth class slabs to ensure their safety while making the ascent to ABC.</p>
+      <p n="29">The team had ABC established by <date>4 July</date> but were then forced to wait for conditions on the mountain to improve.</p>
+      <p n="30">The <date>2018-19</date> winter in the <placeName type="mountain">Karakoram</placeName> was one of the snowiest on record, making the mountain very dangerous, a fact emphasised by a large wet-slab avalanche observed low on the mountain from ABC on <date>7 July</date>.</p>
+      <p n="31">Thankfully, the weather in <date>early to mid July</date> ‘was clear and very warm, allowing for conditions to improve considerably and the team was able to climb to 6,000m on the peak via the route pioneered in <date>2017</date>.</p>
+      <p n="32">After spending a couple of nights at this altitude the team considered themselves sufficiently acclimatised to attempt the route.</p>
+      <p n="33">On the morning of <date>31 July</date>, the team started their alpine-style attempt on the route from advanced base camp at 7.30am.</p>
+      <p n="34">During the cool morning hours, they climbed steep snow and glacial terrain to a camp at 5,100m where they spent the afternoon resting before launching on the lower crux of the route in the early evening.</p>
+      <p n="35">Climbing at night was a necessity due to the intense heat at that altitude on the south-east aspect.</p>
+      <p n="36">The crux section of the route involved 10 sustained pitches of climbing up to M6+ that even in the middle of the night were in very warm, wet and subsequently challenging conditions.</p>
+      <p n="37">Arriving at an excellent and safe bivy at 5,900m around 9.30am, they once again stopped to wait out the heat of <date>the day</date> and recover from climbing through the night.</p>
+      <p n="38">The following morning, they departed just before dawn.</p>
+      <p n="39">Above the second camp was a serac barrier that was both a cause for concern in terms of overhead hazard and a considerable challenge to circumnavigate.</p>
+      <p n="40">It is important here to note that this serac wall had changed significantly from when the team observed it in <date>2017</date> and presented a major surprise.</p>
+      <p n="41">Luckily, the team ‘was able to find a way around the right-hand side of the wall with minimal exposure and well-formed W14 ice climbing.</p>
+      <p n="42">After 100m of easier climbing, the team found themselves at another large and safe bivouac at 6,200m, situated below the final difficult band of mixed rock and ice climbing.</p>
+      <p n="43">At this point, the team hunkered down for a forecasted 36 hours of bad weather that arrived in the mid afternoon of <date>3 August</date>, <date>their third day</date> on the route.</p>
+      <p n="44">On <date>5 August</date>, at 3 am, they departed in poor weather relying on the clearing that was forecast.</p>
+      <p n="45">An hour above camp, they were forced to stop as they were facing technical mixed climbing in weather that had stil not improved.</p>
+      <p n="46">In order to stay warm and get out of the blowing snow, they dug a snow cave where they waited until 9am.</p>
+      <p n="47">When the weather finally cleared and they were able to continue, three excellent pitches of ice and mixed ground led to a large snow fin that involved five pitches of very challenging and unprotectable snow climbing and one pitch of steep but solid serac ice.</p>
+      <p n="48">At sunset, they finally reached a good bivy site at about 6,700m.</p>
+      <p n="49">Starting at sunrise on <date>5 August</date>, the team left their tents in place and launched for the summit.</p>
+      <p n="50">An excellent pitch of alpine ice led to the top of a corniced ridge they started traversing.</p>
+      <p n="51">Two pitches along the ridge, <name type="person">Graham</name> triggered a small slab avalanche, a part of which poured over the belay where the rest of the team 'was standing.</p>
+      <p n="52">The volume of the slide wasn’t large enough to harm the belay but it did sweep <name type="person">Graham</name> off his feet and he fell for about 30m or 40m behind a snow ridge and over a cliff.</p>
+      <p n="53">The lead ropes rope caught him and fortunately he was not hurt, climbing back up to re-join the team.</p>
+      <p n="54">After spending some time to regroup, we decided to continue but <name type="person">Wright</name> took the lead given that <name type="person">Graham</name> was shaken by his fall.</p>
+      <p n="55">Three more pitches of challenging snow climbing intermixed with short sections of ice and mixed terrain and steep unconsolidated snow led to a final belay 50m below the summit.</p>
+      <p n="56">Even so, the nature of the climbing gave the team little confidence in their ability to reach the summit, though it loomed just overhead.</p>
+      <p n="57">In the final few feet to the summit <name type="person">Wright</name> gave the lead to <name type="person">Richey</name> after an excellent effort.</p>
+      <p n="58"><name type="person">Mark</name>, who has a deep background in the steep challenging snow conditions of <placeName type="gpe">Peru</placeName>, then set off up the final metres, packing a deep trench into the steep unconsolidated snow that was over his head.</p>
+      <p n="59">He reached the summit at sunset.</p>
+      <p n="60">As can be imagined, the team was elated.</p>
+      <p n="61">The route had taken six days of hard climbing during which they ascended over 30 technical pitches and covered roughly 8,000ft vertically from their advanced base camp and about 11,300ft from base camp proper.</p>
+      <p n="62">On <date>8 August</date>, nine days after departing, the team arrived back at advanced base camp.</p>
+      <p n="63">The descent off the peak had taken three days because of making anchors in the bad snow conditions and the need to wait out the heat of <date>the day</date>.</p>
+      <p n="64">This first ascent of <placeName type="mountain">Link Sar</placeName> had taken a maximal physical and mental effort from the entire team.</p>
+      <p n="65">It required all their collective experience and strength.</p>
+      <p n="66">They are proud to report that the intense decision making required to make the ascent safely came from a very democratic, discussion-oriented decision-making process without which they do not feel that they would have reached the top of this elusive and beautiful summit.</p>
+      <p n="67">Finally, it is important to note that the expedition was undertaken adhering to strict environmental standards, deep respect for the communities of the <placeName type="mountain">Karakoram</placeName>, and that the carbon footprint incurred by the expedition has been calculated and will be offset with the help of Protect Our Winters.</p>
+      <p n="68">Acknowledgments</p>
+      <p n="69">The team would like to first and foremost thank their families and friends for supporting them in the endeavour to climb this peak.</p>
+      <p n="70">They would also like to thank their sponsors and those who provided them funding for the expedition: American Alpine Club, Mount Everest Foundation, British Mountaineering Council, New Zealand Alpine Club,</p>
+      <p n="71">Additionally, the team would like to thank <name type="person">Jim Woodmency</name> for his excellent weather forecasting.</p>
+      <p n="72">They would also like to thank those in <placeName type="gpe">Pakistan</placeName> who helped them make this trip happen, namely Nazir Sabir Expeditions, Alpine Adventure Guides, Captain Umair Tariq and their dear friends and local staff, <name type="person">Hajji Rasool</name>, <name type="person">Nadeem</name> and <name type="person">Fida Ali</name>.</p>
+      <p n="73"><name type="person">SIMON RICHARDSON</name></p>
+      <p n="74">Coastal Ranging</p>
+      <p n="75"><name type="person">Mark Robson</name> on the summit ridge of <placeName type="mountain">Peak 5910</placeName>.</p>
+      <p n="76">The triangular <placeName type="mountain">Peak 5919</placeName> lies just left of centre.</p>
+      <p n="77">The route of ascent was the east ridge that bounds the left side of the triangular face.</p>
+      <p n="78">(<name type="person">Simon Richardson</name>)</p>
+      <p n="79">You‘ve got a bit of a thing about coastal ranges, <name type="person">Malcolm Bass</name> told me ‘when he heard that <name type="person">Mark Robson</name> and I were off to the Stikine Icecap'.</p>
+      <p n="80">It was aremarkably perceptive comment: sometimes others know you better than you know yourself.</p>
+      <p n="81">I delight in playing on home ground in <placeName type="gpe">Scotland</placeName> where the variable Atlantic weather occasionally results in the elusive perfect <placeName type="gpe">Scottish</placeName> winter conditions.</p>
+      <p n="82">And in recent years I've tended to visit mountains that are close to the sea that have a strong maritime influence such as Senja Island in <placeName type="gpe">Norway</placeName>, the east coast of <placeName type="gpe">Greenland</placeName> and <placeName type="gpe">South Georgia</placeName>.</p>
+      <p n="83">As well as the visual interplay of sea and mountains, I find coastal ranges particularly attractive because of the consistency of the snow.</p>
+      <p n="84">Rapidly changing weather resultsinthaw and freeze and there is nothing more satisfying than climbing perfect névé interspersed with the odd pitch of soft squeaky ice.</p>
+      <p n="85">It is perfect mountain travel: fast, efficient and aesthetic.</p>
+      <p n="86">True to form, my mountaineering adventures in <date>2019</date> followed a coastal theme with memorable trips to south-east <placeName type="gpe">Alaska</placeName> and the Coast Mountains of <placeName type="gpe">British Columbia</placeName> in <placeName type="gpe">Canada</placeName>.</p>
+      <p n="87">In between, and by way of contrast, I also climbed a route in the <placeName type="mountain">Canadian Rockies</placeName>.</p>
+      <p n="88"><placeName type="mountain">Hyder Peak</placeName></p>
+      <p n="89">The Stikine Icecap straddles the <placeName type="gpe">USA</placeName>-<placeName type="gpe">Canada</placeName> border and lies between the Stikine river and the coastal waters of Frederick Sound in south-east <placeName type="gpe">Alaska</placeName>.</p>
+      <p n="90">Spectacular granite peaks rise from a myriad of glaciers that cover an area equivalent in size to <placeName type="gpe">Wales</placeName>.</p>
+      <p n="91">It is one of the wildest and least known mountain ranges in the world and would be the perfect alpinist’s playground if it were not for the weather, which is truly atrocious.</p>
+      <p n="92">To the west lies the Gulf of Alaska: a malevolent, tempestuous sea responsible for most of the precipitation that strikes the Pacific coast of <placeName type="gpe">North America</placeName>.</p>
+      <p n="93">Consequently the <placeName type="gpe">Stikine</placeName> is one of the wettest places on Earth and has been described as a ‘rain icecap’.</p>
+      <p n="94">Unsurprisingly, this makes climbing in the <placeName type="gpe">Stikine</placeName> extremely challenging, and climbers rarely visit.</p>
+      <p n="95">The <placeName type="mountain">Devil’s Thumb</placeName> (9077ft) is the most celebrated mountain in the area, and sees two or three attempts a year.</p>
+      <p n="96">The rest of the range is almost completely neglected despite being full of tempting possibilities.</p>
+      <p n="97">For example, approximately 25km to the north-west of the <placeName type="mountain">Devil’s Thumb</placeName> at the head of the North Baird glacier lies the impressive <placeName type="mountain">Oasis Peak</placeName> (7925ft), an imposing granite monolith that has only been summited once.</p>
+      <p n="98"><name type="person">Mark Robson</name> is the perfect partner for a remote and committing adventure.</p>
+      <p n="99">His understated modesty and quiet confidence hides a remarkable breadth of experience from a <date>one-day</date> ascent of <placeName type="mountain">El Capitan</placeName> to paragliding the length of the <placeName type="mountain">Alps</placeName>, and from pioneering remote sea stacks in <placeName type="gpe">Scotland</placeName> to <date>multi-day</date> adventure races.</p>
+      <p n="100">We have shared many adventures together over the years and were keen to visit the <placeName type="gpe">Stikine</placeName>.</p>
+      <p n="101">Our plan was to make the second ascent of <placeName type="mountain">Oasis Peak</placeName> via a new route from the north.</p>
+      <p n="102">This had been attempted a couple of times in <date>the 1970s</date>, but our tactic was to visit in the spring hoping to find more stable snow, ice and mixed climbing conditions than those encountered by the previous teams in <date>mid summer</date>.</p>
+      <p n="103">We flew onto the North Baird Glacier from the fishing village of <placeName type="city">Petersburg</placeName> on <date>30 April</date>.</p>
+      <p n="104">As far as we could tell, we were the first climbing expedition to visit the glacier for <date>over 40 years</date>.</p>
+      <p n="105">Unfortunately, as soon as we arrived it was immediately clear that any technical climbing was unlikely.</p>
+      <p n="106">All the mountains were heavily snowed up, draped with enormous cornices and unstable snow mushrooms.</p>
+      <p n="107">But more significantly, itwas not freezing at night and there were (literally) hundreds of avalanches: so much for our dreams of hard névé and soft squeaky ice.</p>
+      <p n="108">After <date>a week</date> we abandoned all thoughts of climbing <placeName type="mountain">Oasis Peak</placeName> and moved our camp down to where we could access the north arm of the North Baird glacier.</p>
+      <p n="109">Finally, the weather improved enough for us to climb through the icefall guarding entry to the <placeName type="mountain">North Arm</placeName>.</p>
+      <p n="110">We were probably the first mountaineers ever to visit this part of the icecap and were surrounded by over a dozen unclimbed summits.</p>
+      <p n="111">The big prize was <placeName type="mountain">Hyder Peak</placeName> (7180ft), which lay 8km away at the head of the adjacent Dawes glacier.</p>
+      <p n="112">This massive and isolated mountain, with a steep rocky summit triangle, lies on the western edge of the range and was one of the highest unclimbed peaks in south-east <placeName type="gpe">Alaska</placeName>.</p>
+      <p n="113">We’d spotted <placeName type="mountain">Hyder Peak</placeName> from a distance earlier in the trip and thought it looked low-angled enough to ascend on skis, hich were the only viable form of travel in the bottomless wet snow.</p>
+      <p n="114">Daybreak on <date>10 May</date> found us post holing up steep mountainside with our skis strapped to rucksacks.</p>
+      <p n="115">As we gained altitude the snow finally began to firm up and we wondered why on earth we were carrying skis at all: the lower slopes had been far too steep to ski, whilst up here it was very exposed with a drop of 600m to the glacier below and the crust too icy for skins.</p>
+      <p n="116">Finally, a plateau opened up ahead of us for almost two kilometres.</p>
+      <p n="117">On safer terrain at last, we clipped into our bindings and made rapid progress towards the summit triangle.</p>
+      <p n="118">Having stashed our skis, Itook the lead, punching steps up the steep front face.</p>
+      <p n="119">There was avalanche debris all around us and it felt a spooky place.</p>
+      <p n="120">The sun was now rising quickly in the sky and the stability of the slope was about to deteriorate fast.</p>
+      <p n="121">'What’s our turn around time, <name type="person">Simon</name>?'</p>
+      <p n="122">'Eight o’clock: we’ve got 45 minutes.'</p>
+      <p n="123">I ran out 60m of rope and pushed on further.</p>
+      <p n="124">The summit tower was draped in unstable cornices and I decided that just reaching the final ridge would have to do, but at the last moment for some inexplicable reason, I started climbing directly towards the summit.</p>
+      <p n="125">I led up increasingly steep snow and eventually found a belay on a rocky outcrop.</p>
+      <p n="126"><name type="person">Mark</name> took over and climbed tricky mixed ground onto the summit ridge, which was draped with spectacularly curled snow formations.</p>
+      <p n="127">He was close to the top, but the way ahead looked impossible.</p>
+      <p n="128">We’d passed our 8am time limit and the pressure was on.</p>
+      <p n="129"><name type="person">Mark</name> traversed left across a 30cm blanket of snow that appeared incredibly to be glued to a near-vertical rocky slab, which led to the final section of ridge.</p>
+      <p n="130">Soon after, he was perched on the airy summit.</p>
+      <p n="131">I came up and without hesitating we started our abseil descent.</p>
+      <p n="132">The return across the plateau on skis was fun; the pressure was off momentarily, and in front of us was an endless expanse of unclimbed mountains.</p>
+      <p n="133">The lower section was not so enjoyable.</p>
+      <p n="134">We skied for as long as we dared, and then ploughed a trench through thigh-deep snow that sloughed off and didn’t stop sliding until it hit the glacier hundreds of metres below.</p>
+      <p n="135">By 11.30am we were down.</p>
+      <p n="136">We spent the afternoon relaxing in the sunshine, relieved and delighted to have summited.</p>
+      <p n="137">Overall, we only had three days when it was not raining but we were also successful in making first ascents of <placeName type="mountain">Peak 5910</placeName>, <placeName type="mountain">Peak 5720</placeName>, <placeName type="mountain">Peak 5800</placeName> and the shapely <placeName type="mountain">Peak 5919</placeName>.</p>
+      <p n="138">Snow conditions remained soft throughout, avalanches took place constantly and we experienced considerable cornice difficulties.</p>
+      <p n="139">Despite all of these challenges, itwas an extremely rewarding expedition.</p>
+      <p n="140">The climbing was often very exciting and picking safe lines and negotiating the beautiful corniced summit ridges made it very exacting.</p>
+      <p n="141">We had one huge cornice collapse but fortunately both of us stayed upright on the solid side of the fracture line.</p>
+      <p n="142">And above all, when the rain stopped and the fog lifted, we were treated to some of the most beautiful and pristine mountain landscapes either of us had ever seen.</p>
+      <p n="143"><placeName type="mountain">Mount Phillips</placeName></p>
+      <p n="144">I first met Canadian climber <name type="person">Ian Welsted</name> on the international winter climbing meet in <placeName type="gpe">Scotland</placeName> in <date>January 2016</date>.</p>
+      <p n="145">The weather was typically <placeName type="gpe">Scottish</placeName> with rapidly fluctuating temperatures, high winds and varying amounts of snow.</p>
+      <p n="146">Conditions were challenging: few routes were in nick and just surviving on the hill was a challenge in itself.</p>
+      <p n="147"><name type="person">Ian</name> and his fellow <placeName type="gpe">Canadian</placeName> <name type="person">Raphael Slawinski</name> took this in their stride and made some superb ascents.</p>
+      <p n="148">My already high assessment of <placeName type="gpe">Canadian</placeName> alpinism was considerably enhanced.</p>
+      <p n="149">Roll forward nearly two years to <date>November 2017</date>.</p>
+      <p n="150">I was attending the <placeName type="mountain">Banff Mountain</placeName> Film Festival.</p>
+      <p n="151"><name type="person">Ian</name> was keen to reciprocate the hospitality of the <placeName type="gpe">Scottish</placeName> meet and offered to take me climbing after the event.</p>
+      <p n="152">Needless to say Ijumped at the chance.</p>
+      <p n="153">My track record in the <placeName type="mountain">Canadian Rockies</placeName> was limited to a handful of well-known routes and climbing with <name type="person">Ian</name> was too good an opportunity to miss.</p>
+      <p n="154">It was snowing heavily in town and <date>winter</date> was already in full swing, so we decided to attempt an unclimbed gully on the north flank of <placeName type="mountain">Storm Mountain</placeName> (3158m).</p>
+      <p n="155">It was dark when we reached the top of the 500m route.</p>
+      <p n="156">To our surprise we had come across a nut and couple of pegs in its upper half, so our ‘un-climbed’ gully was not a new climb after all.</p>
+      <p n="157">Halfway up, <name type="person">Ian</name> inadvertently dislodged a huge block that struck me a glancing blow.</p>
+      <p n="158">I was a little shaken but unhurt although <name type="person">Ian</name> was impressed that I wanted to continue.</p>
+      <p n="159">He incorrectly assumed this was toughness, determination and drive, but it was nothing of the sort.</p>
+      <p n="160">I had just been lucky.</p>
+      <p n="161">Our desire to complete the climb together highlighted a quiet confidence and a shared appetite for adventure and commitment.</p>
+      <p n="162">We agreed to climb together in the <placeName type="mountain">Coast Mountains</placeName> in <date>summer 2019</date>.</p>
+      <p n="163">We thought <date>mid July</date> would be the optimum time but before leaving home I became concerned that a large high-pressure system anchored over <placeName type="gpe">Alaska</placeName> was directing unsettled weather over <placeName type="gpe">Canada</placeName>’s western mountains.</p>
+      <p n="164">I’d recently come across <name type="person">John Scurlock</name>’s beautiful image of the north side of <placeName type="mountain">Mount Phillips</placeName> in the <placeName type="mountain">Canadian Rockies</placeName> on the Internet.</p>
+      <p n="165">A quick Google search revealed that <placeName type="mountain">Mount Phillips</placeName> was a 3,246 m peak just to the north of<placeName type="mountain"> Mount Robso</placeName>n.</p>
+      <p n="166">Even better, <placeName type="mountain">Phillips</placeName>’ 600 m north face appeared to be unclimbed.</p>
+      <p n="167">The sharp-cut north spur dividing the north-east and north-west faces of the mountain was a compelling feature that simply had to be climbed.</p>
+      <p n="168">Almost on awhim, Iprinted off the photo hours before Iboarded the plane to <placeName type="city">Calgary</placeName>.</p>
+      <p n="169">When I showed the photo to <name type="person">Ian</name> he was similarly inspired; the route app- eared to be an objectively safe option as the delayed <placeName type="mountain">Rockies</placeName> spring transitioned into <date>summer</date>.</p>
+      <p n="170">The weather had been poor in the <placeName type="mountain">Rockies</placeName> too, but we hoped to take advantage of cool conditions on the back of a passing front.</p>
+      <p n="171">On <date>21 July</date>, loaded with <date>four days</date> of food, we left the Berg Lake trail just above Emperor Falls and bushwhacked through forest that opened out to beautiful meadows of wild flowers with the Emperor ridge of <name type="person">Robson</name> towering behind.</p>
+      <p n="172">Scree and snow slopes led to a comfortable bivouac on the right flank of the Phillips Glacier.</p>
+      <p n="173">We rose at 12.30am, anxious to become established on the route before the snow softened in the morning sun.</p>
+      <p n="174">A two-and-a-half-hour approach over the col east of the mountain saw us crossing the bergschrund at dawn, and we moved quickly up the lower spur on mixed snow and rock.</p>
+      <p n="175">Our pace slowed at two-thirds height where the spur abuts the steep headwall.</p>
+      <p n="176">I had hoped for a hidden ramp leading right to the west ridge.</p>
+      <p n="177">Instead we were forced into the ‘jaws’, a narrow ice gully that cut deeply into the headwall.</p>
+      <p n="178">It appeared to end in an impasse but fortunately a hidden icy gully led left to easier ground.</p>
+      <p n="179">It was now midday and the sun was softening the snow at an alarm- ing rate.</p>
+      <p n="180">Every time we dropped a rock it set off huge, surging wet-slide avalanches down the face below.</p>
+      <p n="181">The snow would accelerate below us like an express train and the roar would reverberate around the glacier cirque.</p>
+      <p n="182">‘Hey <name type="person">Ian</name>, what’s going on?'</p>
+      <p n="183">‘It’s all part of the spring-thaw cycle in the <placeName type="mountain">Rockies</placeName>, <name type="person">Simon</name>.</p>
+      <p n="184">The snow has gone isothermic.</p>
+      <p n="185">It only lasts <date>a couple of days</date>.</p>
+      <p n="186">The avalanches will stop once the snowpack has had time to stabilise and adjust to the warming.</p>
+      <p n="187">It was all rather unnerving.</p>
+      <p n="188">I'd never seen snow behave like that</p>
+      <p n="189">before but we were perfectly safe and thankful for our alpine start.</p>
+      <p n="190">The next pitch across a snow band to reach the final part of the west ridge should have been a straightforward romp across a 45° slope, but instead <name type="person">Ian</name> was forced to make a bold and demanding lead on dark hold-less limestone covered in wet snow.</p>
+      <p n="191">I marvelled at his skill placing knife blades.</p>
+      <p n="192">It all felt a world apart from my world of coastal ranges of predictable snow governed by freeze-thaw.</p>
+      <p n="193">Then, suddenly, it was almost over.</p>
+      <p n="194">A broad ledge on the west ridge gave way to three exposed and intricate pitches up the sharp rock aréte to the summit.</p>
+      <p n="195">It was 5pm, the weather was good and there was no need to hurry.</p>
+      <p n="196"><name type="person">Robson</name> towered 700m above us and behind we could see down the <placeName type="mountain">Rockies</placeName> chain to <placeName type="mountain">Mount Clemencau</placeName> and beyond.</p>
+      <p n="197">To the north the view was even more intriguing.</p>
+      <p n="198">Steep and jagged peaks stretched all the way to the horizon holding countless possibilities for more adventures to come.</p>
+      <p n="199">32 THE ALPINE JOURNAL <date>2020</date></p>
+      <p n="200"><placeName type="mountain">Mount Waddington</placeName> from <placeName type="mountain">Mount Tiedemann</placeName> in <date>August 2000</date>.</p>
+      <p n="201">The upper west ridge is the right crest.</p>
+      <p n="202"><name type="person">Welsted</name> and <name type="person">Richardson</name> traversed the skyline from right to left.</p>
+      <p n="203">‘Hey <name type="person">Ian</name>, what’s going on?"</p>
+      <p n="204">The avalanches will stop once the snowpack has had time to stabilise and adjust to the warming.</p>
+      <p n="205"><placeName type="mountain">Mount Waddington</placeName></p>
+      <p n="206">Over <date>the winter</date>, while discussing objectives for the <placeName type="mountain">Coast Mountains</placeName>, I had came up with various options on attractive, rarely visited peaks deep in the range, but <name type="person">Ian</name> was not convinced.</p>
+      <p n="207">‘Hey <name type="person">Simon</name>, I'd like to go somewhere big like Waddington rather than go rock climbing on obscure spires.'</p>
+      <p n="208">‘Well if it's Waddington you want, let’s go for the complete west ridge,’</p>
+      <p n="209">I suggested.</p>
+      <p n="210">‘It’s one of the biggest unclimbed features in the range.’</p>
+      <p n="211">There it was, <placeName type="mountain">Mount Waddington</placeName>’s upper west ridge marching boldly across a double-page spread in <placeName type="mountain">Don Serl</placeName>’s guidebook: a sharp, 1,500m pinnacle crest rising up to a fine snow aréte and the summit plateau.</p>
+      <p n="212">The central spine of the highest peak in the <placeName type="mountain">Coast Mountains</placeName> should have been climbed <date>years ago</date> but somehow, in the chase for more technical objectives, it had been overlooked.</p>
+      <p n="213"><name type="person">Don</name> and <name type="person">Phyllis</name> <date>Munday</date>’s pioneering route up Waddington climbed the lower 3.5 km of the west ridge to 3,300 m and then followed the natural line of weakness up the Angel Glacier to the north-west summit.</p>
+      <p n="214">It is a logical line and hugely committing for <date>1928</date>.</p>
+      <p n="215">Unfortunately the Mundays did not have the firepower to continue to the main summit, which had to wait until <date>1936</date> when <name type="person">Bill House</name> and <name type="person">Fritz Wiessner</name> summited via the south-west face.</p>
+      <p n="216">This bold and committing undertaking was the most difficult alpine route in North America at the time and comparable with the advances being made in the <placeName type="mountain">European Alps</placeName> on the <placeName type="mountain">Eiger</placeName> and <placeName type="mountain">Grandes Jorasses</placeName>.</p>
+      <p n="217">Our plan was to traverse <placeName type="mountain">Waddington</placeName> starting from <placeName type="valley">Fury Gap</placeName> at its western end.</p>
+      <p n="218">We would follow the <date>Munday</date> route to the foot of the unclimbed upper west ridge, climb this and continue on to bag <placeName type="mountain">False Summit</placeName> (3980m), <placeName type="mountain">Northwest Peak</placeName> (4000m) and <placeName type="mountain">Summit Tower</placeName> (4019m) before descending the Bravo glacier route to complete our 12km journey at the eastern extremity of the mountain at <placeName type="mountain">Rainy Knob</placeName>.</p>
+      <p n="219"><date>Two weeks</date> after our ascent of <placeName type="mountain">Mount Phillips</placeName>, the rain stopped, the clouds cleared and the weather was finally good enough for Waddington.</p>
+      <p n="220"><name type="person">Mike King</name> dropped us off by helicopter at <placeName type="mountain">Fury Gap</placeName> (2500m) on <date>3 August</date>.</p>
+      <p n="221">We felt rather exposed to be in the deep heart of the Waddington range with just light alpine packs but with no further ado we set off up the snow slopes above towards <name type="person">Fireworks Peak</name>, the first minor summit on the lower west ridge.</p>
+      <p n="222">The snow was knee-deep after days of storm and it was slow going.</p>
+      <p n="223"><name type="person">Ian</name>’s famous trail-breaking power saved <date>the day</date> and early that afternoon, a little after <name type="person">Herald Peak</name>, I suggested we stop to bivouac.</p>
+      <p n="224">‘I'm not in the habit of stopping at 3pm when there is good weather in the mountains,' <name type="person">Ian</name> countered.</p>
+      <p n="225">It did feel ridiculously early but we were not going to make the start of the upper west ridge that evening so there was no point in pushing too hard.</p>
+      <p n="226">‘We aren't going to climb the upper ridge <date>tomorrow</date>, so why not let it clean off <date>another day</date>.</p>
+      <p n="227">And this is a perfect camp spot.”</p>
+      <p n="228"><date>Next day</date> we traversed over the two <placeName type="mountain">Men-at-Arms summits</placeName> and followed a spectacular corniced ridge over <placeName type="mountain">Bodyguard</placeName> and <placeName type="mountain">Councillor peaks</placeName>.</p>
+      <p n="229">The going continued to be tough in the deep snow but we were hopeful that the upper west ridge had been scoured and the sun would consolidate the snow and firm up the terrain.</p>
+      <p n="230">Once again we had a leisurely mid-afternoon bivouac, but this time we were perfectly positioned near the start of the ridge.</p>
+      <p n="231">On <date>day three</date> we were up and away before dawn and sure enough, conditions on the upper west ridge were excellent, providing fast climbing on hard snow and easy ice along a ramp running below the south side of the crest.</p>
+      <p n="232">We moved together, with the occasional belayed pitch, until a hidden gully led up onto the previously un-trodden Epaulette glacier that sits astride the central section of the ridge.</p>
+      <p n="233">We couldn’t believe our luck that it had all gone so smoothly but we were soon confronted with the sting in the tail.</p>
+      <p n="234">As we left the glacier, the ensuing snow <name type="person">ridge</name> narrowed to a knife-edge draped in delicate cornices.</p>
+      <p n="235">I traversed &amp; cheval along the wafer-thin crest and belayed by excavating a deep hole in the snow on the east side of the ridge.</p>
+      <p n="236">“If you fall, fall to the left!”</p>
+      <p n="237">I called across to <name type="person">Ian</name>.</p>
+      <p n="238">Ian was precise and sure-footed but our situation was precarious.</p>
+      <p n="239">There was no option other than continuing across the steep and heavily loaded slope on the north side of the crest to gain the upper ramp leading to <placeName type="mountain">Northwest Peak</placeName>.</p>
+      <p n="240"><name type="person">Ian</name> made a long and committing traverse, manfully digging deep to find ice screw runners, but the snow on my pitch was too deep for screws.</p>
+      <p n="241">I ploughed a sideways trench for 30m until a blind three-metre jump into a bergschrund brought us back into contact with more reasonable terrain.</p>
+      <p n="242">That afternoon we tagged the <placeName type="mountain">False Summit</placeName> and <placeName type="mountain">Northwest Peak</placeName> before descending to the broad terrace below the main summit.</p>
+      <p n="243"><date>Day four</date> was another beautiful day but we were nearly turned back on the <placeName type="mountain">Summit Tower</placeName> due to falling rime ice.</p>
+      <p n="244">But as the sun moved behind the Tooth the onslaught abated and we enjoyed a succession of excellent mixed pitches up the icy central chimney.</p>
+      <p n="245">The weather was completely different to when I climbed <placeName type="mountain">Waddington</placeName> in a storm with <name type="person">Dave Hesleden</name> in <date>1997</date> but the climbing was similar, and reminded me of <placeName type="gpe">Scotland</placeName>.</p>
+      <p n="246">On the summit we took in the 360° panorama, looking north to south along the spine of the <placeName type="mountain">Coast Mountains</placeName> and west to the Pacific Ocean, before making a series of abseils back to our bivouac tent.</p>
+      <p n="247">Before the trip, my friend <name type="person">Don Serl</name> had warned me that descending the Bravo glacier might be the crux of the whole route.</p>
+      <p n="248">We woke at 3am and set off down steep névé slopes through the dawn to gain the <placeName type="mountain">Bravo headwall</placeName>.</p>
+      <p n="249">How things had changed in the intervening <date>22 years</date>.</p>
+      <p n="250">Instead of deep snow flutings it was now a broken rocky slope</p>
+      <p n="251">and we carefully abseiled down to the Bravo glacier icefall.</p>
+      <p n="252">Soon we became lost in a maze of huge crevasses and serac walls and after an hour reached an impasse, trying three different routes without success.</p>
+      <p n="253">We were resigned to re-exploring the first option when <name type="person">Ian</name> spotted some old footsteps in the distance on the lower glacier below.</p>
+      <p n="254">This gave us the incentive to force a way through and soon we were following a trail of wands planted by a <placeName type="gpe">US</placeName> team <date>several weeks before</date>.</p>
+      <p n="255">Unfortunately they had been unable to find a way up to the <placeName type="mountain">Bravo headwall</placeName> but their tracks saved <date>our day</date>.</p>
+      <p n="256">We reached <placeName type="mountain">Rainy Knob</placeName> (2120m) at 11am but were not ready to break the spell.</p>
+      <p n="257">We lounged on a huge flat slab of granite drinking coffee and taking in the magnificence of the surroundings and enjoying the deep glow that comes when you achieve something that you have set out to do.</p>
+      <p n="258">Eventually we reached for the radio and within minutes we heard the throb of the helicopter.</p>
+      <p n="259">Our adventure was complete.</p>
+      <p n="260">Summary</p>
+      <p n="261">First ascent of <placeName type="mountain">Hyder Peak</placeName> (7180ft) and four other summits, <placeName type="valley">Stikine Icefield</placeName>, south-east <placeName type="gpe">Alaska</placeName>.</p>
+      <p n="262"><name type="person">Mark Robson</name> and <name type="person">Simon Richardson</name>, <date>May 2019</date></p>
+      <p n="263">First ascent of <placeName type="mountain">North Spur</placeName>, <placeName type="mountain">Mount Phillips</placeName> (3246 m),<placeName type="mountain"> Canadian Rockie</placeName>s.</p>
+      <p n="264">(<name type="person">Tan Welsted</name> and <name type="person">Simon Richardson</name>, <date>22 July 2019</date>)</p>
+      <p n="265">First ascent of Complete West Ridge of <placeName type="mountain">Mount Waddington</placeName> via a 12km traverse from <placeName type="mountain">Fury Gap</placeName> to <placeName type="mountain">Rainy Knob</placeName>.</p>
+      <p n="266">(<name type="person">Ian Welsted</name> and <name type="person">Simon Richardson</name>, 3 to 7 <date>August 2019</date>)</p>
+      <p n="267"><name type="person">TOM LIVINGSTONE</name></p>
+      <p n="268">The Great Game</p>
+      <p n="269">Acclimatising under the immense north wall of <name type="person">Koyo Zom</name> (6872m).</p>
+      <p n="270">(<name type="person">Tom Livingstone</name>)</p>
+      <p n="271"><name type="person">Ally</name> and I sat in an empty hotel restaurant, the morning silence lingering peacefully under the high-vaulted ceiling.</p>
+      <p n="272">I looked around: empty tables and half-tucked chairs filled the room.</p>
+      <p n="273">The space felt overwhelming, like we’d stepped into a cathedral.</p>
+      <p n="274">I shifted in my seat and thought suddenly of our long, cold bivouacs.</p>
+      <p n="275"><date>The day</date> before we’d been surreally teleported to safety from one of the most intense alpine climbing experiences of my life.</p>
+      <p n="276"><date>Eight days</date> in the mountains, a hard new route and then as we descended to base camp, almost home, a sudden accident.</p>
+      <p n="277">The last 28 hours had been spent caring for <name type="person">Ally</name> as the blood on his head dried.</p>
+      <p n="278">I could still smell it on my clothes.</p>
+      <p n="279">Now, we were floating on a sea of empty restaurant tables.</p>
+      <p n="280">I looked around atthe endless space again.</p>
+      <p n="281">How did we get here?</p>
+      <p n="282"><placeName type="gpe">Pakistan</placeName> has a bad reputation.</p>
+      <p n="283">Terrorism is rife and there are riots on the streets, or so people assumed when I told them I was returning to the mountains in the far north.</p>
+      <p n="284">I saw their eyebrows rise and the surprise on their faces.</p>
+      <p n="285">‘Is it safe?’</p>
+      <p n="286">they’d ask.</p>
+      <p n="287">It didn’t help that I’d be within a few miles of the <placeName type="gpe">Afghan</placeName> border.</p>
+      <p n="288"><name type="person">Will Sim</name> had ‘re-discovered’ the <placeName type="mountain">Hindu Raj</placeName> region.</p>
+      <p n="289"><date>Years</date> of political instability and tension had closed this mountainous and remote area to foreigners.</p>
+      <p n="290">Until <date>eight years ago</date>, the <placeName type="gpe">Taliban</placeName> had occupied the nearby <placeName type="valley">Swat</placeName> valley.</p>
+      <p n="291">The <placeName type="mountain">Hindu Raj</placeName> remained hidden, submerged in mystery and a lack of information.</p>
+      <p n="292">But Will’s curiosity and research secured a permit for <date>autumn 2019</date>, and he invited <name type="person">John Crook</name>, <name type="person">Uisdean Hawthorn</name>, <name type="person">Ally Swinton</name>, and me to join.</p>
+      <p n="293">Our objective was the impressive <placeName type="mountain">Koyo Zom</placeName> (6872m).</p>
+      <p n="294">Like a medieval fortress in the wilds of Asia, its bulk looks towards the plains of <placeName type="gpe">Afghanistan</placeName>, <placeName type="gpe">China</placeName> and <placeName type="gpe">Tajikistan</placeName>.</p>
+      <p n="295">An enormous, square north face is capped by seracs, and a snowy summit pyramid sits like a crown.</p>
+      <p n="296">The seracs look ter- rifying, and you can immediately see why the only ascents have climbed the easier, east face.</p>
+      <p n="297">In <date>1968</date>, a team of <placeName type="gpe">Austrians</placeName> made the first ascent; <placeName type="gpe">British</placeName> climbers repeated this route in <date>1974</date>.</p>
+      <p n="298">Since then, the mountain — and region — had remained dormant.</p>
+      <p n="299">Arriving in the heat and hustle of <placeName type="gpe">Islamabad</placeName> on <date>1 September</date>, our team of five <name type="person">Brits</name> was joined by four <name type="person">Pakistanis</name>, who organised the logistics, cooking and life in base camp.</p>
+      <p n="300"><name type="person">Imran</name>, <name type="person">Mohsin</name>, <name type="person">Nabeem</name> and <placeName type="gpe">Eshaan</placeName> were as excited as we were to explore a different region of <placeName type="gpe">Pakistan</placeName> since most of their work was in the <placeName type="mountain">Karakoram range</placeName>.</p>
+      <p n="301">We reached base camp on <date>our sixth day</date>.</p>
+      <p n="302">Lying on the warm, scraggy grass surrounded by porter loads, it was easy to forget the dusty, bumpy days riding in Jeeps.</p>
+      <p n="303">We’d rumbled up desolate valleys, rattling like bags of bones on the rough track.</p>
+      <p n="304">As we journeyed further into the mountains, villages shrank in size and frequency to isolated hamlets.</p>
+      <p n="305">Great fields of abundant crops became strips of simple subsistence farms.</p>
+      <p n="306">We waved to everyone and offered a salaam alaikum.</p>
+      <p n="307">Intense stares instantly cracked into friendly smiles, handshakes offered in return.</p>
+      <p n="308">Every evening we arrived at a local guesthouse and stretched our aching bodies in the sun.</p>
+      <p n="309">But when it suddenly dipped behind the ridgeline, the light and warmth was snuffed out like a thumb on a candle.</p>
+      <p n="310"><name type="person">Dusk</name> rushed up the valley.</p>
+      <p n="311">Stars began to pinprick the sky.</p>
+      <p n="312">The moon, clear and bright, grew fatter every night.</p>
+      <p n="313">It was a sliver when we arrived in <placeName type="city">Islamabad</placeName>.</p>
+      <p n="314">Now it had swelled into a pockmarked disc.</p>
+      <p n="315">On our final day of driving up the remote <placeName type="valley">Yarkhun</placeName> valley a few hours from the <placeName type="gpe">Afghan</placeName> border, we passed tin-roofed houses with mud walls from which children and chickens rushed out as our Jeeps roared by.</p>
+      <p n="316">Weathered men simply watched, emotionless, at the ghostly dust clouds swirling in our wake.</p>
+      <p n="317">At last, we saw our mountain: <placeName type="mountain">Koyo Zom</placeName>.</p>
+      <p n="318">Instantly recognisable, we whooped and then jabbered at the reality after <date>months</date> of anticipation.</p>
+      <p n="319"><name type="person">Seracs</name> loomed over the entire north face, and we al agreed the most attractive option was the right-hand skyline, which rose to a vast, pale yellow headwall.</p>
+      <p n="320">At sunset, as the face melted from blood-orange to gold, we knew we'd found a worthy mountain.</p>
+      <p n="321">It looked ‘nails for breakfast’: bowing walls nearly a mile high, and the headwall glowing, daring us on.</p>
+      <p n="322">We couldn’t stop pointing.</p>
+      <p n="323">‘Wow! Maybe left from the icefield... then up and right, following a ramp-line?”</p>
+      <p n="324">But we were also intimidated at the thought of the summit being over 3,300m higher than our base camp.</p>
+      <p n="325">As the now full moon shim- mered over the summit, we ducked into our tents for the night.</p>
+      <p n="326">I can think of few more exciting, addictive and dangerous things than launching yourself onto an intimidating mountain.</p>
+      <p n="327"><placeName type="mountain">Koyo Zom</placeName> looked just the poison.</p>
+      <p n="328">‘We spent <date>several days</date> lying in a tent with a headache, but our two groups, <name type="person">Ally</name> and I versus the rest, bantered back and forth.</p>
+      <p n="329">Sudoku, chess and the occasional meal broke the monotony.</p>
+      <p n="330">Ideally, for acclimatisation, you want to sleep 1,000m lower than your objective’s summit.</p>
+      <p n="331">Since <name type="person">Koyo Zom</name> was 6,872m and the nearby mountains only 5,500m, we decided to ‘crag’ the start of our planned route on the right-hand skyline, the north-west face.</p>
+      <p n="332">‘We’d sleep at the necessary altitude, get a good idea of the initial icefield and take a closer look at the headwall.</p>
+      <p n="333">Unfortunately, <name type="person">Will</name> and <name type="person">Uisdean</name> were ill and stayed at base camp.</p>
+      <p n="334">It was almost inevitable that some of our team would get sick, but we still felt for them; it was unfortunate to miss out on crucial acclimatisation.</p>
+      <p n="335"><name type="person">John</name>, <name type="person">Ally</name> and I spent a cold night at the top of the icefield, breathing heavily at 5,880m.</p>
+      <p n="336">Since we quickly hit hard ice and rock, we created a snow ledge using a purpose-built hammock to catch debris beneath us.</p>
+      <p n="337">The moon shone like a comforting beacon, so bright in fact that we woke early, thinking itwas dawn.</p>
+      <p n="338">Returning to base camp after several nights away, we gorged on the comforts of ‘home’.</p>
+      <p n="339">The sun warmed our stiff muscles as we stretched out on our mattresses between each meal.</p>
+      <p n="340"><name type="person">Imran</name> changed <name type="person">Ally</name>’s name to ‘Ally Boom Boom’ - best not ask why — and <name type="person">Uisdean</name> became ‘<name type="person">Steve</name>’ because his name was too hard for <name type="person">Imran</name> to pronounce.</p>
+      <p n="341"><name type="person">Mobhsin</name> cooked delicious dishes of curries, dhal, vegetables, chicken and goat.</p>
+      <p n="342">We played cricket, until we lost all the balls.</p>
+      <p n="343"><name type="person">Uisdean</name> took up speed- sudoku.</p>
+      <p n="344"><name type="person">Will</name> and <name type="person">Ally</name> passed a book back and forth.</p>
+      <p n="345"><name type="person">John</name> fumed at his Kindle having deleted the second half of his story.</p>
+      <p n="346">I began cutting labels out of my jackets.</p>
+      <p n="347">We spent hours playing cards.</p>
+      <p n="348">Somehow Iwas ‘shithead” more often than not.</p>
+      <p n="349">The weather remained mostly settled; these were some of the best conditions I'd ever experienced on a trip.</p>
+      <p n="350">But as the leaves on stunted trees began to turn fiery red, we knew cold temperatures and <date>autumn</date> snows were approaching.</p>
+      <p n="351">We could now see the moon during <date>the day</date>, too, arcing faintly through the sky over <placeName type="mountain">Koyo Zom</placeName>.</p>
+      <p n="352">On expeditions, you reach a terrible moment when you know it’s time to climb.</p>
+      <p n="353">In <date>the months</date> before a trip, the concept of alpine climbing is far in the future.</p>
+      <p n="354">During acclimatisation, you’re still learning the mountain’s moods: you watch how clouds boil around the peak; you see where snow sticks to the face; and you stare as sunshine and shadow reveal new features.</p>
+      <p n="355">Climbing is ignored because so much can happen between now and then; the team, weather and conditions all need to align.</p>
+      <p n="356">But eventually, the moment arrives.</p>
+      <p n="357">Five of us sat down for breakfast on <date>Sunday 22 September</date>, and a weather forecast flashed on the Garmin InReach Mini.</p>
+      <p n="358">‘Sunshine and good weather continues.'</p>
+      <p n="359">The carefree atmosphere quietly slipped out the door on the breeze, and our long-buried thoughts of climbing surfaced: who felt acclimatised, the right-hand line and what alternatives existed.</p>
+      <p n="360">A mix of psyche and anxiety began to bubble.</p>
+      <p n="361">The left-hand skyline of <placeName type="mountain">Koyo Zom</placeName> also shone, appearing to have more moderate climbing along a complex ridge.</p>
+      <p n="362"><name type="person">Ally</name> and I were motivated for the right-hand line but the climbing looked tricky: there was a possibility it was simply too hard, or we would be unlucky.</p>
+      <p n="363">I reckoned we had a 50% chance of climbing this line.</p>
+      <p n="364">At least the headwall looked relatively safe from objective hazards.</p>
+      <p n="365"><name type="person">Will</name>, <name type="person">John</name> and <name type="person">Uisdean</name> chose the left-hand, north-east ridge: it looked fantastic, it would hopefully be easier and it would offer them more time to acclimatise.</p>
+      <p n="366">I shared <name type="person">Will</name>’s views about wanting to climb something.</p>
+      <p n="367">We'd been on a trip to the <name type="person">Indian Himalaya</name> <date>the year</date> before and not climbed a single pitch.</p>
+      <p n="368">Base camp resembled a garage sale as we packed, micro-debating for hours what gear to take.</p>
+      <p n="369">We clutched scraps of paper full of scribbled lists and by the evening <name type="person">Ally</name> and Ihad two enormous rucksacks ready.</p>
+      <p n="370">I cursed the weight of our double rack of cams, set-and-a-half of wires, set of pegs, pair of rock shoes, double sleeping bag, single-skin tent and gas stove, but we couldn’t trim anything more.</p>
+      <p n="371">The following day we shouldered our packs and walked to advance base camp, 1,000m higher.</p>
+      <p n="372">We drifted apart, lost in anticipation.</p>
+      <p n="373">Would the route g0?</p>
+      <p n="374">Would the weather hold?</p>
+      <p n="375">What would the climbing be like?</p>
+      <p n="376">The crux of many alpine routes seems to be in the mind and this is often the hardest part to control.</p>
+      <p n="377">Before dawn next morning, after hurriedly wishing the others good luck as they rushed towards the left-hand line, <name type="person">Ally</name> and I slogged up the glacier to the right.</p>
+      <p n="378">We spent several painful hours kicking and punching up the icefield to our previous highpoint and bivy.</p>
+      <p n="379">It was a monstrous 1,300m of altitude gain from ABC, but it was the only way to gain a day with some potential bad weather forecast for <date>the weekend</date>.</p>
+      <p n="380">Our backpacks appeared like fat, red snail-shells, but at least we could eat more to lose weight.</p>
+      <p n="381">Although the sun had spilled onto the face, I still gritted my teeth as blood returned to my toes.</p>
+      <p n="382">At the bivy, our snow ledge had retained its large, undercut sofa-shape from our acclimatisation night here.</p>
+      <p n="383">‘We wrapped the hammock around itagain and snuggled into the double sleeping bag.</p>
+      <p n="384">On <date>the second day</date>, <name type="person">Ally</name> led several brilliant mixed pitches up a chimney-gully system.</p>
+      <p n="385">Piece by piece, pitch by pitch, we answered more of our questions, filling in the blanks we’d noted when scanning the face.</p>
+      <p n="386">Everything climbed differently to how we’d expected.</p>
+      <p n="387"><name type="person">Ally</name> thrutched up granite corners, then hauled the bags, which scraped in protest and caught on every nubbin of rock.</p>
+      <p n="388">Although <name type="person">Ally</name> and I had never climbed together before, we seemed to have an easy, relaxed partnership, based on the necessity of ‘up’.</p>
+      <p n="389">His smooth <placeName type="gpe">Scottish</placeName> accent also gave me confidence.</p>
+      <p n="390">I took over, aiming for a snow ridge.</p>
+      <p n="391">I unpeeled my down jacket and synthetic trousers to climb frozen-in spikes and flakes of rock.</p>
+      <p n="392">‘It’s like dry tooling with your hands!’</p>
+      <p n="393">I shouted down.</p>
+      <p n="394">Convenient holds were like ladder rungs, albeit with a lot of junk pro’, which led to an icy tongue flowing from the ridge.</p>
+      <p n="395">As the sun melted into the horizon, we pitched our tent on the ridge’s narrow spine.</p>
+      <p n="396">I snapped photos of <name type="person">Ally</name> in a truly <placeName type="mountain">Greater Ranges</placeName> setting.</p>
+      <p n="397">It felt like we were the only people on Earth and in the distance, jagged 7,000m mountains jutted up like wonky teeth.</p>
+      <p n="398">Although I was concerned we’d finished late and would burn out, I was too pleased with the bivy and too tired to care.</p>
+      <p n="399">Ally took the breakfast pitches again, front-points screeching against the rock as we chimneyed higher.</p>
+      <p n="400">Finally, we bumped into the headwall’s most impressive and intimidating feature: a 90m section of vertical and overhanging rock dotted with roofs and protruding fins.</p>
+      <p n="401"><name type="person">Ally</name> had dubbed it ‘The Cathedral’.</p>
+      <p n="402">It reminded me of <placeName type="mountain">Mt Alberta</placeName> in the <placeName type="mountain">Canadian Rockies</placeName> and I wasn’t sure which was worse.</p>
+      <p n="403">Like a fox caught in headlights, we froze, hanging on a creaking belay to crane our necks.</p>
+      <p n="404">Without aid-climbing gear and a portaledge, we’d be here <date>all week</date> unless we found an easier way.</p>
+      <p n="405"><name type="person">Ally</name> urged us on and Iwas happy to have a look but also doubtful it would go.</p>
+      <p n="406">I'd only aided a couple of moves before, so a few pitches seemed daunting.</p>
+      <p n="407">But once I'd frigged up a crack to the first belay, my confidence returned and Ieagerly changed into rock shoes.</p>
+      <p n="408">I could see a line of holds leading out right, towards a groove cutting through the top of the headwall.</p>
+      <p n="409">‘I think it'l go,” we shouted to each other.</p>
+      <p n="410">It felt like climbing at <placeName type="mountain">Gogarth’s Main Cliff</placeName>, a place I’m very fond of, and I began to relish our wild yet somehow familiar position.</p>
+      <p n="411">I chucked the occasional rock over my shoul- der, captivated as itspun for seconds before clattering down to the glacier.</p>
+      <p n="412">The sun washed over us now and I tiptoed and smeared in my shoes: this was far better than double boots and crampons.</p>
+      <p n="413">I ripped off my gloves, crimping and pinching and bridging between giant fins, revel- ling at the thought of rock climbing at 6,200m.</p>
+      <p n="414">Before long, however, I was sitting on a cam and breathing heavily.</p>
+      <p n="415">My body had remembered exactly where we were.</p>
+      <p n="416">At the final belay, with easier ground in sight, I whooped with delight.</p>
+      <p n="417">This was alpine climbing at its finest.</p>
+      <p n="418">I hadn’t expected us to make it through the headwall, but we'd been granted a subtle passage to the upper part of the mountain.</p>
+      <p n="419">It was a pure joy to climb.</p>
+      <p n="420">A few hours later, we’d chopped a small snow ledge and began to spoon as dusk overtook us.</p>
+      <p n="421">It was another long, cold night, but the stars and moon kept spinning around us.</p>
+      <p n="422">eventually fading into another dawn.</p>
+      <p n="423"><name type="person">Ally</name> led off, and soon we’d popped out above the headwall.</p>
+      <p n="424">We enjoyed the easier ground but were still a long way from the true summit, which was further back from the peak we’d seen from base camp.</p>
+      <p n="425">We both checked into our altitude pain caves.</p>
+      <p n="426">A lying-down bivy, only our second so far, passed in a fatigued haze</p>
+      <p n="427">but I remember getting up in the night to see incredible flashes of lightning from a distant storm.</p>
+      <p n="428">It was as if the sky was tearing itself apart, huge white explosions illuminating thunderheads and boiling clouds.</p>
+      <p n="429">I watched the moon and the storm until sleep welcomed me back.</p>
+      <p n="430">On <date>the fifth day</date>, we endured a bitter cold on the summit slopes, cocooned in al our jackets.</p>
+      <p n="431">Hoping to see the tracks of <name type="person">Will</name>, <name type="person">Uisdean</name> and <name type="person">John</name>, we pushed on, but figured they must have turned back when we found none.</p>
+      <p n="432"><name type="person">Ally</name> and I were completely alone, a pair that had become a single being.</p>
+      <p n="433">Sucking in all the air we could manage, and hyperventilating when we couldn’t, we finally reached the summit around 1pm.</p>
+      <p n="434">I reflected on what had been one of the best, most enjoyable alpine routes I'd ever climbed.</p>
+      <p n="435">Our shouts of triumph were lost to the mountains in the distance.</p>
+      <p n="436">White-capped fangs rose from dark brown valleys as we looked across <placeName type="gpe">Pakistan</placeName> to <placeName type="gpe">China</placeName>, <placeName type="gpe">Tajikistan</placeName> and <placeName type="gpe">Afghanistan</placeName>.</p>
+      <p n="437">We abseiled and down-climbed the mountain’s east face that afternoon, slumping onto the Pechus glacier.</p>
+      <p n="438"><date>The following day</date>, we walked down the broad glacier towards base camp.</p>
+      <p n="439">Sleep-deprived, hungry, but with all the climbing behind us and the end virtually in sight we stomped along through the snow with about 20m of rope separating us.</p>
+      <p n="440">I began to weave around gaping crevasses, occasion- ally crawling over sagging snow-bridges, like ploughing through a minefield.</p>
+      <p n="441">The snow hadn’t frozen overnight.</p>
+      <p n="442">I held my breath in nervous expectation of suddenly falling into a slot; these crevasses looked like monstrous, soulless depths.</p>
+      <p n="443">Then, whilst exploring an alternative route, <name type="person">Ally</name> plunged through the snow, vanishing completely.</p>
+      <p n="444">A bridge had broken.</p>
+      <p n="445">The rope whipped through my gloved hands.</p>
+      <p n="446">The soft snow helped me to hold the fall after 15m or 20m, or else <name type="person">Ally</name> had clattered to a stop.</p>
+      <p n="447">The adrenaline had my heart nearly thumping out of my chest.</p>
+      <p n="448">I could barely move, let alone pull <name type="person">Ally</name> up hand over hand.</p>
+      <p n="449">And I was terrified of being dragged after him.</p>
+    </body>
+  </text>
+</TEI>

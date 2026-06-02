@@ -1,0 +1,1014 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>annotations_1060_Early.corrected</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Generated from Prodigy/spaCy NER annotations.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>British Alpine Corpus annotation export.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p n="1">=== <date>YEAR 1969</date> ===</p>
+      <p n="2">=== Sentences ===</p>
+      <p n="3">Direttissima on the <placeName type="mountain">Piz Badile</placeName></p>
+      <p n="4"><name type="person">Dick Isherwood</name> When you have <date>only three weeks</date> holiday, you have to make the most of it.</p>
+      <p n="5"><name type="person">Mike Kosterlitz</name>, <name type="person">Richard Stewardson</name> and I left <placeName type="gpe">England</placeName> on <date>Friday</date> evening <date>21 June 1968,</date> and reached the V<placeName type="valley">al Bregaglia </placeName>at dusk on S<date>aturday.</date></p>
+      <p n="6">For <date>three days</date> the weather was perfect, and <date>onednesday</date>.</p>
+      <p n="7"><name type="person">Mike</name> and I were prostrate by Lake C' omo after doing the Northwest ridge of the <placeName type="mountain">Sciora di Fuori</placeName> and the North ridge of the <placeName type="mountain">Piz C' engalo</placeName> (the latter a superb slab and groove climb on perfect rock).</p>
+      <p n="8">We had also reconnoitred the route which was my main ambition for <date>the summer</date>, the unrepeated <name type="person">C' orti</name>-<name type="person">Battaglia</name> route on the <placeName type="mountain">Piz Hadilc</placeName>.</p>
+      <p n="9">This climb lies on the big pillar forming the left-hand part of the <name type="person">Hadile</name>’s familiar north-east face.</p>
+      <p n="10">It was first climbed in <date>1953</date> and the only facts on record are that the climbing was largely artificial and the unfortunate <name type="person">Battaglia</name> was struck by lightning on the summit and killed.</p>
+      <p n="11">The face has several cracks and from the Sciora hut it is not clear which is the best line of weakness.</p>
+      <p n="12">Hut we had had a grandstand view of the upper two-thirds of the face from the <placeName type="mountain">C' engalo</placeName> 's North ridge [ 2 ] and we were m no doubt what must be the line.</p>
+      <p n="13">It was a beautiful S-bend crack, slanting slightly to the right, steep at the bottom, easing in the middle, and rearing up at the top to end in a long, straight groove capped by a roof.</p>
+      <p n="14">It reminded us of the Great Wall on <placeName type="mountain">C'logwyn du'r Arddu</placeName>.</p>
+      <p n="15">However, unlike <placeName type="mountain">Cloggy</placeName> 's Ivast Buttress, this face is guarded by a steep snow and ice couloir with an obviously difficult bergschrund.</p>
+      <p n="16">During <date>our day</date> on the <placeName type="mountain">C' engalo</placeName> nothing fell down the couloir;</p>
+      <p n="17">nevertheless its lower section looked unpleasant.</p>
+      <p n="18">In contrast the upper part was quite amiable and we thought of approaching from the <placeName type="gpe">Italian</placeName> side and descending from the col between the <placeName type="mountain">Badile</placeName> and <placeName type="mountain">C' engalo</placeName>.</p>
+      <p n="19">This would probably be as long as the approach from the Sciora hut though less difficult, but its chief advantage was brought home tous late that same afternoon, as after descending from the <placeName type="mountain">Cengalo</placeName>, we waded through knee-deep snow to the <placeName type="valley">Passo di Bondo</placeName> on our return to <placeName type="gpe">Switzerland</placeName>.</p>
+      <p n="20">Neither of us wanted to repeat that.</p>
+      <p n="21">So when the joys of <placeName type="city">Como b</placeName>egan to pall and our wallets to grow thin, instead of returning to Bondo we drove up the Va<placeName type="valley">l Masino to</placeName> the road end and tackled the 1400 m of ascent to the Gianetti Hut.</p>
+      <p n="22">The guardian, <name type="person">Fiorelli</name>, was suitably impressed when we mentioned the <name type="person">Corti r</name>oute and told us that it was, ‘tutto chiodi’, and that it needed lots of ‘cunei di legno’.</p>
+      <p n="23">Privately, we thought we knew better  after all, it was less than vertical, so some of it must be tree.</p>
+      <p n="24">We never thought to ask him w here it went.</p>
+      <p n="25">Bad weather compelled us to wait for <date>two days</date>, though on <date>the second day</date>, a <date>Sunday</date>, the black clouds cleared a little and several routes were done by niRETTISSIMA ON THE <placeName type="mountain">PIZ BADILE</placeName> <date>weekend</date> parties.</p>
+      <p n="26">Despite our ascent of a 400 -ft <placeName type="mountain">Vialnglese</placeName> on an outcrop below the hut, we were a bit demoralised <date>that night</date>.</p>
+      <p n="27">We decided to give it one more day and go on to Chamonix.</p>
+      <p n="28">That night the sky cleared and the morning was fine.</p>
+      <p n="29">We reached the col by an easy snow slope and looking down the couloir we thought how clever we 'd been.</p>
+      <p n="30">It was fairly steep, but obviously it was only 500 ft or so to the foot of the crack line.</p>
+      <p n="31">We wrent down one at a time, kicking big steps in the hard snow.</p>
+      <p n="32">After 1000 ft we realised we 'd underestimated a little, and only after 1500 ft of descent and two hours ' effort did we reach the start.</p>
+      <p n="33">It was now a quarter to nine.</p>
+      <p n="34">Still, it was <date>midsummer</date>, so we hoped to get away without a bivouac.</p>
+      <p n="35"><name type="person">Mike</name> led off up the first pitch, a steep, wide crack.</p>
+      <p n="36">He had a fair amount of d'fficulty and had to use a few pegs  though he found an old ring peg in place, which was encouraging.</p>
+      <p n="37">By the time I followed, I was very cold, and the rock here was wet.</p>
+      <p n="38">A pile of curious jammed flakes supported us both, but a small block which I dislodged higher up sent them all tumbling into the couloir.</p>
+      <p n="39">Hands were numb and the climbing was hard.</p>
+      <p n="40">I grasped the old peg and almost came on the rope </p>
+      <p n="41">he had n't told me he 'd taken it out and stuck it into a clump of moss.</p>
+      <p n="42">I struggled up to the stance wondering how many days the good weather would last.</p>
+      <p n="43">WTe exchanged loads and I went on.</p>
+      <p n="44">The lighter sack was a relief but our thirty pegs and karabiners made the leader 's load as heavy and at least as awkward as the second 's.</p>
+      <p n="45">Fortunately the climbing eased, and the next three pitches were largely scrambling.</p>
+      <p n="46">This was more encouraging  our initial impressions that the lower half would be free were now being confirmed.</p>
+      <p n="47">In fact, wre found only two more difficult pitches before the steep final section.</p>
+      <p n="48">The one I led was a pleasant corner crack, but <name type="person">Mike</name> 's pitch, just below the recess in the middle of the face, was a nasty loose chimney, slanting to the right.</p>
+      <p n="49">Just above my stance he climbed over three blocks jammed abreast, then over a frightening projecting flake, and with considerable skill avoided sending down any rock until he was well out of my line.</p>
+      <p n="50">Then a barrage started  boulders, gravel and <placeName type="gpe">Scottish</placeName> oaths flew down the cliff for minutes on end.</p>
+      <p n="51">The sack seemed to be annoying him particularly.</p>
+      <p n="52">When I followed I saw his point  the chimney was fine if you had nothing to carry.</p>
+      <p n="53">He hauled the big sack as he’d cleverly hauled his own, so I was able to enjoy it, using the rubbish at the back of the chimney as a sort of treadmill.</p>
+      <p n="54">Two easy pitches took us to the pedestal at the foot of the steep top wall.</p>
+      <p n="55">The three parallel cracks leading up from here were thin and obviously it would be DIRETTISSIMA OX THE <placeName type="mountain">PIZ BADILE</placeName> pegging at first.</p>
+      <p n="56">3.</p>
+      <p n="57">Approaching the steep final section on the Pilastro Badile</p>
+      <p n="58">Higher up, the right-hand crack ran into a big dièdre where we hoped to find free climbing.</p>
+      <p n="59">The roof at the top was about 200 ft away, we thought  this proved to be our second underestimate of <date>the day</date>.</p>
+      <p n="60">We ate some chocolate and thought about big spaghettis for supper.</p>
+      <p n="61">Half-past-one my lead first.</p>
+      <p n="62">The pegs had come to seem a reasonable load by now, and it was good to use them after carrying them so far.</p>
+      <p n="63">We were able to free-climb bits of the pitch and we used several jammed nuts to save time and effort.</p>
+      <p n="64">There was no ledge so I took a stance in étriers and <name type="person">Mike</name> led on.</p>
+      <p n="65">Oddly, the roof seemed no closer.</p>
+      <p n="66">After 90 ft of rather loose pegging he stopped at the foot of the dièdre.</p>
+      <p n="67">Above was a huge flake, apparently poised across the crack, and for a few minutes we thought of swinging across into one of the other cracks </p>
+      <p n="68">but these were equally loose and ledgeless.</p>
+      <p n="69">I came up, impressed by the instability of some of the pegs and the general looseness of the area where <name type="person">Mike</name> was belayed, but gratified to hear that this compared to A3 climbing in <placeName type="gpe">Yosemite</placeName>.</p>
+      <p n="70">Very cautiously I approached the big flake.</p>
+      <p n="71">From close range I could see that it was part of a really enormous block  half the face  and that there was no danger.</p>
+      <p n="72">It was a remarkable formation, a tongue of rock four feet deep, a foot thick at its centre, and fifteen feet long, extending across the dièdre with daylight behind it all the way.</p>
+      <p n="73">I mantelshelfed onto it and continued.</p>
+      <p n="74">Sadly, there was no chimney in the dièdre as we had hoped, and not even a hand-jamming crack, so it was pegs all the way, supplemented by nuts.</p>
+      <p n="75">Again the stance was in étriers but the roof did seem closer  40 ft, I suggested to <name type="person">Mike</name>.</p>
+      <p n="76">Eighty at least was his estimate, and by now daylight was getting short.</p>
+      <p n="77">He ran out 130 ft at best Californian speed and he still wasn’t there.</p>
+      <p n="78">He found a ledge, the first since lunch, and suggested we 'd have to bivouac there.</p>
+      <p n="79">Is it big enough to cook on? Wait till you see it.’</p>
+      <p n="80">I still had hopes of reaching the shoulder, but darkness came when I was half way up the pitch.</p>
+      <p n="81">In a way it was a relief  tension was reduced, we knew we 'd have to bivouac there </p>
+      <p n="82">and suddenly I felt really tired.</p>
+      <p n="83">I left three expensive pegs  the first we 'd had to leave  and <name type="person">Mike</name> hauled me bodily onto the ledge, which seemed to be made of wet clay.</p>
+      <p n="84">It was already very dark, but he 'd spied out the ground, such as it was.</p>
+      <p n="85">There was a long flake crack, pointing comfortingly down into the mountain and we put several pegs into this.</p>
+      <p n="86">The ' ledge ' was useless, since it was too small for two, and it was under continuous drip from the roof.</p>
+      <p n="87">We stood partly on a tiny, sloping gangway below the flake but mostly in étriers.</p>
+      <p n="88">I was struggling to stay DIRETTISSIMA ON THE <placeName type="mountain">PIZ BADII</placeName>.</p>
+      <p n="89"><name type="person">E</name> awake, but the fun was only beginning.</p>
+      <p n="90">We dressed up in duvets, cagoules and gloves, but long <name type="person">Johns</name> seemed to be out of the question.</p>
+      <p n="91">Then we decided to move further along the flake since <name type="person">Mike</name> was under a big drip.</p>
+      <p n="92">I banged another peg in and it sounded so good that I transferred both étriers to it.</p>
+      <p n="93">We retied the belays, hung out a pan to catch the biggest drip, and settled down under the bivouac sack.</p>
+      <p n="94">After a few minutes we both felt very thirsty and peered out to see how much water we 'd collected.</p>
+      <p n="95">Unfortunately we both took off the sack simultaneously and it vanished, slithering wetly down the crag into the night.</p>
+      <p n="96">Suddenly it felt cold.</p>
+      <p n="97">We looked at one another, drank the water and tried to sleep again.</p>
+      <p n="98">Although the position was very uncomfortable, I at least was so tired I could sleep.</p>
+      <p n="99">I woke to find myself falling — the ‘good’ peg had come out.</p>
+      <p n="100">I never came onto the belays, for after slipping only a couple of feet I was held, mostly by <name type="person">Mike</name>’s hand on the back of my neck but partly, I swear, by will-power.</p>
+      <p n="101">We put a few more pegs in, doubled the belays and tried again.</p>
+      <p n="102">There were no more incidents, but the morning took a very long time to come.</p>
+      <p n="103">I slept a little, but my legs, pressed against the wet rock, were very cold.</p>
+      <p n="104"><name type="person">Mike</name> was less fortunate — his anorak was less waterproof, he was still under a bigger drip, and he didn’t sleep at all.</p>
+      <p n="105">At first light we began to organise ourselves, but it was a good hour before I started climbing.</p>
+      <p n="106">For one awful moment we were both entirely on one peg, which was n't even fully in, but soon I was close under the roof.</p>
+      <p n="107">Swinging on pegs placed vertically upwards is not my strongest point, so I took a lot of trouble and clipped the ropes into everything.</p>
+      <p n="108">I regretted this when I moved round the very sharp lip and found myself jammed, 15 ft short of a big ledge, in a spectacular position.</p>
+      <p n="109">I had to untie one rope and still needed all my strength to move the other.</p>
+      <p n="110">When <name type="person">Mike</name> came up we saw that one of the ropes was partly severed  it was proving to be an expensive route.</p>
+      <p n="111">He led the last 15 ft to the shoulder and we took off our wet duvets and lay in the sun, delighting in an almost-horizontal world.</p>
+      <p n="112">Two big brews made from a snow patch used up our tea and sugar and reluctantly we began to climb again.</p>
+      <p n="113">There was one difficult pitch on the shoulder where a thin slab led into a bank of steep, soggy snow, but otherwise the climbing was easy.</p>
+      <p n="114">Far below we could see a party on the Cassin route, already approaching the central snow patch.</p>
+      <p n="115">The descent was rapid although our hands, which had been wet all night, were now very painful.</p>
+      <p n="116">When we reached the hut we met <name type="person">Richard</name> and <name type="person">Chris Wood</name> DIRETTISSIMA OX THE <placeName type="mountain">PIZ BADILE</placeName> who had climbed the North ridge <date>the day before</date>.</p>
+      <p n="117">They told us that we had done a new route  something we 'd suspected, since we 'd seen no trace of <name type="person">Corti</name> after the first couple of pitches of our climb.</p>
+      <p n="118"><name type="person">Fiorelli</name> was engaged on his two-way radio and we gathered from snatches overheard that he was talking about us.</p>
+      <p n="119">He had been up on the <placeName type="mountain">Cengalo</placeName> that morning and had seen us finish.</p>
+      <p n="120">On the best photo he had, he indicated that the <name type="person">Corti</name> route started up our line but branched to the left fairly low down and joined a parallel crack system several hundred feet away.</p>
+      <p n="121">The reason for this was not clear to us  perhaps <name type="person">Corti</name> and <placeName type="gpe">Battaglia</placeName> wrere put off by the loose chimney pitch.</p>
+      <p n="122">We paid our bills, and set off for the valley where, it seemed, the whole world was waiting for us.</p>
+      <p n="123">We were very pleased not to have to face the <placeName type="valley">Passo di Bondo</placeName> again, and grateful to the builders of the excellent Gianetti hut path.</p>
+      <p n="124">When we reached the valley there was n't the battery of microphones and TV cameras we had been led to expect, but the local correspondent ofGiorno did us proud.</p>
+      <p n="125">We had free baths in the hotel at <placeName type="city">Bagni del Masino</placeName>, where the water was apparently not only medicinal but radioactive, and dined in style as guests of the management.</p>
+      <p n="126">Before eating we were shown a plaster model of a mountain, recognisable as the <placeName type="mountain">Piz Badile</placeName> only by its labels.</p>
+      <p n="127">We were asked to mark our route with a dotted line like the others.</p>
+      <p n="128">No features could be made out so we put a straight line directly up the centre of the space between the <name type="person">Corti</name> route and the <name type="person">Cassin</name> route.</p>
+      <p n="129">The little group that had gathered was obviously impressed by this, and then someone said the magic word  Direttissima.</p>
+      <p n="130">Wre went in to dinner feeling very pleased with ourselves.</p>
+      <p n="131">Summary <placeName type="valley">Bregaglia</placeName>.</p>
+      <p n="132"><placeName type="mountain">Piz Badile</placeName>, Northeast face by new route.</p>
+      <p n="133">8-9 <date>July 1968</date>.</p>
+      <p n="134"><name type="person">R. J. Isherwood</name> and <name type="person">M. J. Kosterlitz</name>.</p>
+      <p n="135">Standard: ED.</p>
+      <p n="136">Length:</p>
+      <p n="137">c. 2000 ft. Technical description in <date>A.J. 73. 254</date>.</p>
+      <p n="138">Two parties on <placeName type="mountain">Yerupaja</placeName>, <date>1968</date></p>
+      <p n="139">1 <placeName type="mountain">Yerupaja</placeName> traverse:</p>
+      <p n="140">the <placeName type="gpe">New Zealand</placeName> expedition</p>
+      <p n="141"><name type="person">David Adcock</name> My tust thoughts ot, m expedition to the <placeName type="mountain">Andes</placeName> were m I &lt; ;57.</p>
+      <p n="142">w hi 1st m</p>
+      <p n="143">I arrived, when several members of the Mountain Club planned to visit the C<placeName type="mountain">ordillera Blanca.</placeName></p>
+      <p n="144">As a start to preparations I pored through maps and references in the Royal Geographical Society’s library, collected books and maps, and started to revise the Spa<placeName type="gpe">nish I </placeName>had learned in Spa<placeName type="gpe">in f</placeName>ive years earlier.</p>
+      <p n="145">Alas, the team dntted apart and the plans were slicked.</p>
+      <p n="146">In <date>June 1</date>970, after two active climbing seasons</p>
+      <p n="147">seasons in <placeName type="gpe">New Zealand</placeName>, where I now live, it was proposed that the time had come for the W<placeName type="city">ellington </placeName>Section of the New Zealand Alpine Club to promote its own overseas expedition.</p>
+      <p n="148">I supported the idea whole-heartedly, producing maps, books and previous notes I had made tor our proposed trip <date>nine years</date> betöre.</p>
+      <p n="149">I had read ill from it.</p>
+      <p n="150"><name type="person">I had read Emil </name>Schneider’s book Cordillera Blanca, published in 1950, about Yerupajá.</p>
+      <p n="151">They wrote:</p>
+      <p n="152">The southernmost peak marking the end of the Co<placeName type="mountain">rdillera Blanca i</placeName>s the glaciated Rajutuna.’</p>
+      <p n="153">There you fit a view oterupa|a situated to the south, which apart In m hem«. '</p>
+      <p n="154">The second highest peak of Peru is the greatest height yet unscaled in Sou<placeName type="gpe">th America, a</placeName>nd an attraction of the 1957 New Zealand party and mountaineers back <name type="person">row </name>(l to r):</p>
+      <p n="155"><name type="person">David Adcock</name>, <name type="person">Lloyd</name> Gallagher, Peter Ha<name type="person">rry, </name>Re<name type="person">ihan Brooks,</name> J<name type="person">udy Brooks.</name></p>
+      <p n="156"><name type="person">Allan Sheppard</name>, Graeme Dinn. Front row (l to r):</p>
+      <p n="157"><name type="person">Mariano</name>.</p>
+      <p n="158"><name type="person">Julian</name>, Frederico, Hidalgo, Kenner Bates, Sergio — of greatest importance to mountaineers.</p>
+      <p n="159">I had also seen the magnificent photo of <placeName type="mountain">Verupaja</placeName> in <name type="person">David Wall 's</name> hook taken by <name type="person">Vie Walsh</name> from high on Rondo).</p>
+      <p n="160"><placeName type="mountain">Yerupaja</placeName>, I felt, was a worthy objective.</p>
+      <p n="161">Much had probably taken place since <name type="person">Kinzl</name>’s book had been published, so I set about reading up all the climbing history of the C<placeName type="mountain">ordillera Huayhuash,</placeName> which is a small mountain range in central P<placeName type="gpe">eru </placeName>covering approximately 250 square miles.</p>
+      <p n="162">Cordillera Huayhuash</p>
+      <p n="163">It lies thirty-five miles south-east of the better known Cordillera Blanca, and is 100 miles due north of <placeName type="city">Lima</placeName>.</p>
+      <p n="164">C' hicjuian, the nearest town, is only twenty-five miles from the centre of the range, and 170 miles by road from <placeName type="city">Lima</placeName> via the coastal town of <placeName type="gpe">Paramonga</placeName>.</p>
+      <p n="165"><placeName type="mountain">Yerupajá</placeName> 21,765 ft (6634 m) is the highest mountain in the range, and the second highest in<placeName type="gpe"> Per</placeName>u, the highest being<placeName type="mountain"> Huascará</placeName>n 22,205 ft (6768 m) in the <placeName type="mountain">Cordillera Blanca</placeName>.</p>
+      <p n="166">In <date>November 1966,</date> before news of the current season’s attempts had reached us, I presented a report to the Wellington Section committee showing that Ye<placeName type="mountain">rupajá h</placeName>ad been climbed only once, by Ha<name type="person">rrah a</name>nd Ma<name type="person">xwell i</name>n 19<date>50, </date>and that nine expeditions had since been unsuccessful in their attempts at a second ascent!</p>
+      <p n="167">Wellington; Yerupajá</p>
+      <p n="168"><name type="person">Harrah</name> and <name type="person">Maxwell</name> of the Harvard I'niversity team had climbed to the summit on }i <date>July 19,^0</date>, along the left, or western side, of the South-west <placeName type="mountain">YERUPAJA</placeName> TRAVERSE ridge, skirting beneath the South Summit to the col on the South ridge between the Main and South Summits.</p>
+      <p n="169">Comparing photographs published by <name type="person">Harrah</name> 's expedition and our own <date>eighteen years later</date>, the changes in ice conditions are quite considerable.</p>
+      <p n="170">The Northwest spur which then would probably have been a steep but safe climb all the way to the North Summit, now had an ice-fall at 20,000 ft which threatens the lower part of the route.</p>
+      <p n="171">Below the South Summit, on the other hand, the large ice-fall at 20,000 ft across the southern side of which the Americans must have climbed diagonally to reach the col on the South ridge, has now vanished.</p>
+      <p n="172">I have no doubt that <name type="person">Harrah</name> and <name type="person">Maxwell</name> 's claim to the first ascent is entirely authentic.</p>
+      <p n="173">Early in <date>1967</date> I learned the results of the <date>1966</date> climbing season in the <placeName type="mountain">Cordillera Huayhuash</placeName>, where the main summit of <placeName type="mountain">Yerupajá</placeName> had been climbed no less than three times by expeditions following almost in each other’s footsteps, and a further two unsuccessful attempts.</p>
+      <p n="174">Cordillera Huayhuash; Yerupajá</p>
+      <p n="175">Thus I found there had been a total of fifteen attempts since the first ascent in <date>1950</date> (summary on p 253), and that the three successful ascents in <date>1966</date> could almost be described as the combined effort of four expeditions on the original route (<name type="person">Patterson</name> 's magnificent direct ascent to the col excepted), as the Americans used fixed ropes left by the Swiss one month before, and left more ropes themselves, presumably used by the Japanese <date>three weeks later</date>.</p>
+      <p n="176">I proposed an ascent of the unclimbed Northwest or Northeast spurs to the North Summit, thence along the North ridge to the Main Summit of <placeName type="mountain">Yerupaja</placeName>.</p>
+      <p n="177">In addition to four minor unclimbed summits in the area surrounding Base Camp, our scientific programme covered the collection of Collembola and Mayfly insects, and the collection of Compositae (daisy) specimens.</p>
+      <p n="178">Thus the expedition was launched and I was appointed to select and lead the team.</p>
+      <p n="179">I had not mentioned the possibility of a first traverse, though when writing to <name type="person">Leif Patterson</name> about his attempt on the Northwest Spur in <date>1963</date>, I said that we would have sufficient manpower and equipment to try the traverse.</p>
+      <p n="180">On <date>30 March 1968</date>, four members of the expedition, including myself, left <placeName type="gpe">New Zealand</placeName> by sea for <placeName type="gpe">Panama</placeName> on the last voyage of the Rangitane.</p>
+      <p n="181">The 2½ tons of food and equipment was trans-shipped to the southbound <name type="person">Rossini</name> at <placeName type="gpe">Panama</placeName>, from where I flew to <placeName type="city">Lima</placeName> to await its arrival, the other members joining us from <placeName type="gpe">Canada</placeName>.</p>
+      <p n="182">The whole team was assembled in <placeName type="city">Lima</placeName> on <date>2 May</date>, and it took <date>eight days</date> and the lodgement of a £570 bond to secure the release of our gear from customs.</p>
+      <p n="183">On <date>13 May</date> we left <placeName type="city">Lima</placeName> by chartered bus for Chiquián, arriving there at 5 p.m.</p>
+      <p n="184">West spur of Yerupajá, North Summit, and main summit of Yerupajá Glacier</p>
+      <p n="185">iH</p>
+      <p n="186">i 7,Soo tt; <name type="person">C';miji II w.</name></p>
+      <p n="187">is on rinnuKi.1 n &gt; l</p>
+      <p n="188">Ich ot Fro alter a 12 ', hour journey.</p>
+      <p n="189">As the mules were a<date> day late </date>in arriving, we left...</p>
+      <p n="190">hiquian on <date>15 May</date> stopping overnight at Llaniae, and arrived at our Base Camp site near lake Jahuaeoeha just before dark on <date>the 16th</date> in heavy rain.</p>
+      <p n="191">The total weight of our equipment was now down to 4000 lbs, and this was carried by twenty-nine donkeys and seventeen mules.</p>
+      <p n="192">These animals could carry loads of So ami 120 lbs and were hired for us by our camp guard <name type="person">Hidalgo Arbai/a</name>, who also arranged tor se\en an it ins (muleteers) to accompany the animals.</p>
+      <p n="193">YI-Kll'AJA TKAVIiKSli I had allowed a <date>ten-day</date> acclimatisation period, during which time members could prepare food and equipment tor carrying up to the higher camps.</p>
+      <p n="194">On <date>the eighth day</date> alter arrivai at Base, <name type="person">Hates</name> and <name type="person">Brooks</name> made a reconnaissance of the <placeName type="mountain">Verupaja</placeName> glacier and found a suitable site for Camp 1 on the undulating ice due west of ' lam Sur at 17,200 ft.</p>
+      <p n="195">This camp was established on <date>the fourteenth day</date> and occupied by a team of two whose job it was to examine the approaches to the Northeast and Northwest spurs ot the North ridge.</p>
+      <p n="196">The Northeast spur was found to terminate on a steep-sided col with a very difficult approach from the snow-basin beneath the North lace.</p>
+      <p n="197">Though climbable the route to the col appeared neither practical nor sate for packing.</p>
+      <p n="198">There was, on the other hand, a good site for Camp 11 on the spacious shoulder ot the Northwest spur at 18,500 ft.</p>
+      <p n="199">On <date>the eighteenth day</date> a snow-cave was started at Camp I, and by the time of its occupation <date>two days later</date> it was approximately 25 cubic yards and easily accommodated the eight-strong team.</p>
+      <p n="200">A total of 132 man-days was spent occupying this cave and it proved most satisfactory and comfortable.</p>
+      <p n="201">There was little choice now but to tackle the Northwest spur route, so Camp I1 was established and occupied by <name type="person">Barry</name> and <name type="person">Dingle</name> on <date>the twenty-sixth day</date>.</p>
+      <p n="202">During <date>the next nine days</date> Camp III was sited in a crevasse at 20,300 ft on the spur.</p>
+      <p n="203">This was accomplished first by <name type="person">Barry</name> and <name type="person">Dingle</name>, who made a route up the exposed arête to the face, then up diagonally to the left to regain the line of the spur.</p>
+      <p n="204">Then by <name type="person">Bates</name> and <name type="person">Dingle</name>, who continued the route up to Camp III, assisted on <date>the last day</date> by <name type="person">Brooks</name> and <name type="person">Gallagher</name>.</p>
+      <p n="205">Meanwhile the rest of the team were stocking Camp II, with a notable effort by <name type="person">Judy</name>, who not only made more carries than the rest of us, but was always a willing volunteer when others were tired.</p>
+      <p n="206">On <date>20 June</date>, the <date>thirty-fifth day</date> after our arrival at Base, while <name type="person">Bates</name> and <name type="person">Dingle</name> were between Camps II and III, a sérac caused an avalanche to sweep over 700 ft of the route, removing fixed ropes and pitons.</p>
+      <p n="207">They had a miraculous escape and continued on to Camp III, crossing and recrossing the avalanche track, until they reported to me by radio from above the danger zone.</p>
+      <p n="208">At this stage I decided to abandon the Northwest Spur as a route of ascent for the expedition, but as they were now at Camp III, <name type="person">Bates</name> and <name type="person">Dingle</name> elected to attempt the North Summit on <date>the following day</date>, when they reached the virgin 21,500 ft summit at 12.30.</p>
+      <p n="209">and decided to bivouac just beneath and attempt the traverse of the North ridge to the Main Summit on the following day.</p>
+      <p n="210">After a cold and windy night it clouded over by early morning, an<name type="person">d as D</name>ingle was showing signs of slight frostbite they descended to spend a further night at Camp III.</p>
+      <p n="211">Meanwhile <name type="person">Barry</name> and I established a Camp IIIa above <placeName type="mountain">Rasac Col</placeName> at 18,800 ft to prepare for the possibility of a traverse by <name type="person">Bates</name> and <name type="person">Dingle</name>.</p>
+      <p n="212">\|.\, 6 X and also as a first move tor the new plan to approach the Mam Summit via the South-west ridge and South Summit.</p>
+      <p n="213">When I learned by radio that <name type="person">Bates</name> and <name type="person">Dingle</name> were descending from Camp III to Camp II, we also returned to Camp II, arriving only a few minutes after them.</p>
+      <p n="214">Now the whole expedition was assembled at Camp II, and within half an hour a second major avalanche swept the Northwest spur.</p>
+      <p n="215"><name type="person">Dingle</name> had suffered superficial frostbite in both sets of toes, and returned to Base Camp <date>the following day</date>, while <name type="person">Brooks</name> and <name type="person">Gallagher</name> left for Camp IIIa to reconnoitre the route on the south-west ridge.</p>
+      <p n="216">The expedition now concentrated on ascending by the South-west ridge and South Summit, and to assist this the rest of us shifted Camp 11 to a more favour-able site 600 ft below, on the glacier due west of the Main Summit.</p>
+      <p n="217">This job took <date>two days</date> to complete, and as we were using ropes to lower loads down the steep snow, it meant a lot ot standing around, and I got superficial frost-bite in both big toes.</p>
+      <p n="218">I then returned to join <name type="person">Dingle</name> at Base Camp on <date>26 June</date> (<date>forty-first day</date>) whilst the others stocked the new Camp IIIa above <placeName type="mountain">Rasac Col</placeName>, and the recce team above made a route to just over 20,000 ft.</p>
+      <p n="219">On <date>the following day</date> <name type="person">Bates</name> and <name type="person">Gallagher</name> reached the 21,375 ft South Summit, returning to Camp IIIa.</p>
+      <p n="220">And <date>two days later</date> <name type="person">Bates</name> and <name type="person">Gallagher</name>, <name type="person">Barry</name> and <name type="person">Sheppard</name>, and<name type="person"> R</name>. and<name type="person"> J. Brook</name>s established Camp IV on a good site at 21,300 ft, after which the two last parties completed the 75 ft climb to the South Summit, and then returned to Camp IIIa, leaving<name type="person"> Bate</name>s and<name type="person"> Gallaghe</name>r to attempt the Main Summit on the morrow.</p>
+      <p n="221">From Base Camp <name type="person">Dingle</name> and I maintained good radio contact with the high camps, though we had to climb 1000 ft on the northern slopes of the valley to get these results.</p>
+      <p n="222">The weather had been good, with a fresh easterly breeze and occasional cloud high on the mountain.</p>
+      <p n="223">At }pm on <date>30 June</date> (<date>forty-fifth day</date>), after a magnificent piece of route-finding through and around delicate cornices and in soft snow conditions, <name type="person">Bates</name> and <name type="person">Gallagher</name> reached the 21,765 ft Main Summit after spending nearly three hours on the steep 300 ft broken rock section immediately below the summit.</p>
+      <p n="224">They returned to Camp IV, while <name type="person">Dingle</name> and I went from Base to Camp Ha</p>
+      <p n="225">And I continued on to Camp IIIa for the evening radio contact at 6, when we excitedly learned from <name type="person">Bates</name> and <name type="person">Gallagher</name> of their successful climb.</p>
+      <p n="226">I returned immediately to Camp Ha.</p>
+      <p n="227">On the following day <name type="person">Barry</name> and <name type="person">Sheppard</name> and <name type="person">R.</name> and <name type="person">J. Brooks</name> climbed to Camp IV, while <name type="person">Bates</name>, <name type="person">Gallagher</name>, <name type="person">Dingle</name> and I occupied Camp IIIa.</p>
+      <p n="228">Whilst a more protracted summit assault would have avoided overcrowding the single mountain tent at Camp IV, it was also apparent that the weather would not hold for <date>more than a few days</date>, so the occupants of Camp IV gallantly sacrificed a chance of getting some sleep on the eve of their summit climb, and faced the prospect of having to go straight down to Camp IIIa when they returned.</p>
+      <p n="229">On <date>2 July</date> (<date>forty-seventh day</date>), <name type="person">Dingle</name> and I climbed 7 I ti'i nnrth Iront Main Shnuuit IVaks in st-qufiK't1:</p>
+      <p n="230">North Summit, unnamed peak (5,800 m), Yerupajá Chico (extreme right), twin peaks of Jirishhanca, Rondoy (extreme left in background), Ninasha<placeName type="mountain">nca; from C</placeName>amp IIIa to the South Summit and then down to Camp IV, where we were able to greet Barry, Sh<name type="person">eppar</name>d <name type="person">and R. and J. B</name>rooks<name type="person"> on their</name> return from the Main Summit.</p>
+      <p n="231">On the following day <name type="person">Dingle</name> and I set out for the Main Summit, which we reached at 11 a.m., appreciating at every step the magnificent effort made b<name type="person">y Bat</name>es an<name type="person">d Gallaghe</name>r<date> three day</date>s before.</p>
+      <p n="232"><name type="person">Even</name> though it had started to cloud over we decided to descend<placeName type="mountain"> the virgin North </placeName>Ridge, choosing the safest path between the delicate cornices on our left (one of these vanished quite alarmingly when tested from a safe position), and windslab on our right.</p>
+      <p n="233">We reached the North Summit at i.^opm, ami having taken the ^00</p>
+      <p n="234">It fixed rope that <name type="person">Bates</name> and <name type="person">Gallagher</name> left on the difficult section on the south side of the Main Summit, we used this to commence our descent ot the Northwest spur at 2 pin.</p>
+      <p n="235">The descent to Camp III was tedious, as no fixed ropes were placed during the first ascent <date>twelve days</date> before; thereafter all fixed ropes were in place but needed a lot of effort to free them from grooves they had formed in the ice.</p>
+      <p n="236"><name type="person">Dingle</name>, whose descent technique was fast and sure, did all the work on our way down to the old Camp II site, where we arrived 8½ hours later just as it got dark. We had a torch with us, though I knew the route down through the icefall to Camp IIIa, where we were greeted by the Camp IV quartet who had laboured throughout<date> the da</date>y striking Camp IIIa and taking down the stores that remained.</p>
+      <p n="237">It was j.^pm, exactly twelve hours after we had set out from Camp I\.</p>
+      <p n="238">The western side ot the mountain had been in S l 11 &lt; l cast fnn/i Mam Sun/tu/1 I.ookin down tin- K;ist</p>
+      <p n="239">rulucMain</p>
+      <p n="240">Summit of Yerupajá.</p>
+      <p n="241">Iront (' amp II, iulou South Summit.</p>
+      <p n="242">Continued bad weather, including stratus cloud for<date> most o</date>f the day, and elsewhere it was overcast.</p>
+      <p n="243">Meanwhile, <name type="person">Bates</name> and <name type="person">Gallagher </name>had decided to complete the traverse also, and were at Camp IV hoping the weather would hold.</p>
+      <p n="244">On <date>4 July</date>, <name type="person">Bates</name> and <name type="person">Gallagher </name>successfully completed the second traverse in nine hours, without the benefit of a fixed rope on the south side of the Main Summit, whilst Ha<name type="person">rry a</name>nd Br<name type="person">ooks s</name>et out from Camp IIIa, climbed to the South Summit, packed Camp IV, and returned again to Camp IIIa — a fine effort in rapidly deteriorating conditions.</p>
+      <p n="245">I went on down to Base Camp <date>later that day</date>, and on <date>5 July</date> (fiftieth day), the weather really broke with snow down to Base Camp at 13,300 ft, where the rest of the team arrived during the afternoon.</p>
+      <p n="246"><name type="person">Dingle</name> shot a goose, a duck, and caught six trout, so we enjoyed a really line celebration dinner.</p>
+      <p n="247">For <date>the next three weeks</date> we travelled and climbed in the area (see p 255 below), and visited Caruacocha to photograph <placeName type="mountain">Yerupaja</placeName> Irom the north-east.</p>
+      <p n="248">We were also interested to know how the Americans were progressing on the Northeast face, as two of their party had called at our Base Camp on <date>26 June</date> on their way from I.lamac to Caruacocha.</p>
+      <p n="249">They were making slow progress from then-second camp beneath the face when we saw them, though two of the party reached the summit later.</p>
+      <p n="250">We left our <name type="person">Base Camp</name> at <placeName type="valley">Jahuacocha</placeName> on <date>29 July</date> (<date>seventy-fourth day</date>), with twelve donkeys, eight mules and four arrieros, stopping overnight at Llamac, where the expedition had been invited to inaugurate five new water fountains and become patrons of the project.</p>
+      <p n="251">We were entertained to a bullfight following Y!Rri'.\|.\: -nu-:</p>
+      <p n="252">ama/ox ian:</p>
+      <p n="253">the ceremony, and in tending one of the less fortunate bullfighters this was the onlv occasion we used our comprehensive medical kit tor injuries.</p>
+      <p n="254">We left for <placeName type="city">Lima</placeName> on I <date>August</date>.</p>
+      <p n="255">No porters were used on the expedition, only one camp guard was employed and the team members carried all stores to the high camps amounting to approximately 1500 lbs to Camp I, 900 lbs to Camp II (of which 400 lbs was moved to become Camp IIIa), about 160 lbs to Camp III, 250 lbs to Camp IIIa, and 60 lbs to Camp IV.</p>
+      <p n="256">All team members were healthy throughout the expedition, and there were no accidents or injuries.</p>
+      <p n="257">Two of us were affected by superficial frost-bite, but most ot the effects had worn off by the time we reached <placeName type="city">Lima</placeName>.</p>
+      <p n="258">We were able to treat a number ot local people sullering from infections during our travels 111 the mountains.</p>
+      <p n="259">We are most grateful to the Mount Kvcrest Foundation, and the New Zealand Alpine Club tor their generous financial support.</p>
+      <p n="260">2 The Amazon face:</p>
+      <p n="261">the British-American expedition</p>
+      <p n="262"><name type="person">Chris Jones</name></p>
+      <p n="263">Sometimes I'm asleep when reading, other times my mind 's in neutral.</p>
+      <p n="264">I 'd read the article before, but only now did it register.</p>
+      <p n="265">' The fantastic North-cast f ice, perhaps the finest challenge in all <placeName type="gpe">Peru</placeName>. '</p>
+      <p n="266">I had no idea it</p>
+      <p n="267">it was snow, rock, or both, but I liked the sound of it; I wanted to go.</p>
+      <p n="268">We worked quickly on <placeName type="mountain">Verupaja</placeName>, imagining that everyone had read the article;</p>
+      <p n="269">we just had to be there first.</p>
+      <p n="270"><name type="person">Dean Caldwell</name> and I, in the best <placeName type="gpe">California</placeName> tradition, had made some vague plans to climb in e 'd decided on <date>the year</date>, and no more.</p>
+      <p n="271">He was soon convinced, and after the usual problem</p>
+      <p n="272">ot no cash or climbers we were on the road.</p>
+      <p n="273">Once in <placeName type="city">Lima</placeName> we learned that a dozen Italians were ahead ot us, and had listed their objectives as climbs on the east side of <placeName type="mountain">Yerupaja</placeName>.</p>
+      <p n="274">Dismal news, for the Northeast face, our face, was the obvious climb from the east.</p>
+      <p n="275">But they were a short-lived threat, for once at Chiquian, the <placeName type="gpe">Peruvian</placeName> Chamonix, we heard a different story.</p>
+      <p n="276">The Italians had spent <date>a tew days</date> watching the mountain,  bivouac ionifyujit, Im/n lin t äst, slioïLiH^ tin liritish-.</p>
+      <p n="277">htu ntiin rnutt nu tht \nrth-t ust lac ' l'</p>
+      <p n="278">In s aiul follow um photos:</p>
+      <p n="279"><name type="person">Chris Jours</name> and decided it was n't their style.</p>
+      <p n="280">A <placeName type="gpe">New Zealand</placeName> party was also in the range, attempting <placeName type="mountain">Yerupaja</placeName> from the west suie.</p>
+      <p n="281">This might he a way down for us, so <name type="person">Rotter Hart</name> and I walked over to their Hase Camp.</p>
+      <p n="282">Dishevelled and disorganised, we contrasted sadly with this model expedition, with its tallies, chairs, and typewriters.</p>
+      <p n="283">They had n't done the route yet and were having trouble with cold feet.</p>
+      <p n="284">Total disbelief when we had to admit that, no, two of us did n't have overboots.</p>
+      <p n="285">Feeling rather small, it was only on the way back that we realised that we had n't played our ace  electric socks.</p>
+      <p n="286"><date>Next day</date> we crossed the <placeName type="mountain">Huayhuash</placeName> and saw the unlikely <placeName type="mountain">Jirishhanca</placeName>, and then <placeName type="mountain">Yerupaja</placeName>.</p>
+      <p n="287">This first view was distinctly alarming;</p>
+      <p n="288">it looked like the original unchmbable.</p>
+      <p n="289">We kept telling each other that, of course, though ice climbs always look vertical head on, they simply can’t be ... simply can’t be?</p>
+      <p n="290">Our idea in coming to <placeName type="mountain">Yerupaja</placeName> was to do an Alpine climb, not an expedition.</p>
+      <p n="291">In much climbing that is being done <date>today</date>, it seems that fixed camps and fixed ropes, m all but the most unusual circumstances, are inappropriate.</p>
+      <p n="292">Climbers no longer besiege <name type="person">Yosemite</name> walls, for the idea is to have a go at it, rather than beat the mountain into submission.</p>
+      <p n="293">Similarly, in other climbing areas we adapt to the style ot climbing that applies.</p>
+      <p n="294">No one would go to <placeName type="gpe">Britain</placeName> anil nail up Cenotaph Corner.</p>
+      <p n="295">In <placeName type="mountain">Himalayan</placeName>, <placeName type="mountain">Andean</placeName> and similar mountaineering, this self-imposed discipline is not yet accepted by all climbers;</p>
+      <p n="296">but we must hope it will come.</p>
+      <p n="297">Employing expedition tactics on what is essentially an Alpine route is as absurd as nailing Cenotaph Corner:</p>
+      <p n="298">it attempts to reduce the commit-ment required to one that the climber feels he can face, and thus makes him vi-rci'aja: Tin-:</p>
+      <p n="299"><placeName type="gpe">Amazon</placeName> i au-:</p>
+      <p n="300">ridiculous.</p>
+      <p n="301">This issue is becoming acute, as in the<date> 70</date>s some of the greatest remaining possibilities will be attempted.</p>
+      <p n="302">The incredible faces in <placeName type="gpe">Patagonia</placeName>, <placeName type="gpe">Alaska</placeName> and the <placeName type="mountain">Karakoram</placeName> possibly represent the last new dimension in mountaineering. Will we confront these in the spirit of<name type="person"> Cassin </name>on the G<placeName type="mountain">randes Jorasses,</placeName> J<name type="person">oe Brown </name>on his climbs, and C<name type="person">houinard an</name>d Her<name type="person">bert on</name> the Muir Wall?</p>
+      <p n="303">Or is ' conquest ', no matter how, the sad future of mountaineering?</p>
+      <p n="304">At the moment, the balance, unhappily, may b " going the wrong way.</p>
+      <p n="305">Notwithstanding our supposed ethics, we had brought 1200 ft of thin line;</p>
+      <p n="306">everyone seems to take the stuff.</p>
+      <p n="307">As we got nearer the mountain, the truth of <name type="person">Patterson</name> 's remark, that the main problem lies m getting to the face, became only too apparent.</p>
+      <p n="308">The <placeName type="mountain">Yerupaja</placeName> glacier was an ice-tall, and our way was through it.</p>
+      <p n="309"><name type="person">Malcolm Slesser</name> had led two <placeName type="gpe">Scottish</placeName> parties attempting the Hast ridge, and one of his party recommended we follow their approach.</p>
+      <p n="310"><name type="person">José Fonrouge</name>, on a reconnaissance, had taken the other side and suggested it was much quicker.</p>
+      <p n="311">Would-be believers in the quick dash, we thought this would save time; it did n't.</p>
+      <p n="312">The scheme involved skirting the glacier by rock climbing on <placeName type="mountain">Yerupaja C' hico</placeName>, before starting on the ice-fall.</p>
+      <p n="313">In <date>the next few days</date> we were involved in some improbable manoeuvres as we tried to force a route across glacier polished walls.</p>
+      <p n="314">The only way was into the ice-fall, and it was an unholy place.</p>
+      <p n="315">The weather remained cool and cloudy, the ice-fall relatively quiet, as we wound through the worst mess of séracs any of us had seen.</p>
+      <p n="316"><date>Next day</date> an ice-bridge had collapsed, but I was able to persuade <name type="person">Paul</name> he could jump over at another spot.</p>
+      <p n="317">We put an intermediate camp by the glacier, so that we could start on the ice before sunrise, and hopefully find the route intact.</p>
+      <p n="318">But now the skies were clear, the heat terrible, and the glacier dissolving.</p>
+      <p n="319"><date>A few days later</date> we got up in the dark, yet as soon as the sun arrived the melt began.</p>
+      <p n="320">An improbable ice-fin crossed a vast crevasse, and <date>today</date>, as we were on it, it was splitting apart.</p>
+      <p n="321">Twenty minutes later we heard a thunder behind us; the fin had died.</p>
+      <p n="322">Going on or going down both looked equally bad, so we had some food where we stood, trying not to think about the creaks and groans from under our feet.</p>
+      <p n="323">It really hotted up when a sérac ^o ft away keeled over, crashing through our route, as we ran nowhere looking for shelter.</p>
+      <p n="324">All this spoiled our breakfast and enthusiasm;</p>
+      <p n="325">our world was a shambles, our existence in doubt, and our quick way a slow, unpleasant one.</p>
+      <p n="326">We turned back and began to patch up our route.</p>
+      <p n="327">Xear where the fin had been, I again got <name type="person">Paul  '</name> You 're a specialist '  to slide and leap over, then crawl across an ice-boulder jammed in a crevasse.</p>
+      <p n="328">Down was what interested us, but most crevasses required working on  someday we had to get back up.</p>
+      <p n="329">The collapsed fin had supported an ice-wall, now we ran over the debris, beneath the wall.</p>
+      <p n="330">Next time up, it too had gone.</p>
+      <p n="331">In two more places YKKl'l'AJA:</p>
+      <p n="332">Till t<placeName type="gpe">he Ama</placeName>zon Face, ice bridges had disappeared; it was becoming absurd.</p>
+      <p n="333">Oh at last we grinned at each other and the Gods — it had been a bad day.</p>
+      <p n="334">That we were on the wrong approach was obvious, and it was equallv clear that, with our equipment all over the glacier, this was now the only approach.</p>
+      <p n="335">We made three more dawn starts, but knew better when the sun came up.</p>
+      <p n="336">Finally, the clouds we needed, and we had our camp under the face.</p>
+      <p n="337">The climb looked good, a two- or <date>three-day</date> push;</p>
+      <p n="338">our other problem was how to get off.</p>
+      <p n="339"><placeName type="mountain">Verupaja</placeName> has no voie normale, and climbing back down a mile of stejp ice was n't attractive.</p>
+      <p n="340">We would have to rappel, and, as we could only carry a certain number of pickets and pitons, they would have to be long rappels.</p>
+      <p n="341">Being of the <placeName type="gpe">Yosemite</placeName> mould we had rather strangely brought sixty rock pitons and ten pickets.</p>
+      <p n="342">The thin line was our white hope, and to try it out we had a rapid look-see.</p>
+      <p n="343">The bergschrund was under constant stonefall, very unpleasant.</p>
+      <p n="344">Rock climbing to one side got us onto the face itself.</p>
+      <p n="345">We fixed a rope over the schrund, and <date>the following day</date> were on our way.</p>
+      <p n="346">The dihedral in the face receives all the rockfall from the summit and Fast ridge, and as the sun got up the stones began to come down.</p>
+      <p n="347">' That missed me, too, ' I shouted, as <name type="person">Paul</name>, having avoided a quick one, looked around for some sign of encouragement.</p>
+      <p n="348">Generally moving together, except on the harder pitches, we tried to keep two pitons between us, joining when the leader ran out of hardware.</p>
+      <p n="349">We turned back at midday, hoping to be down tor tea.</p>
+      <p n="350">I had had my doubts about the effectiveness of a 1000 ft rappel line.</p>
+      <p n="351">I did expect, however, that some sort of progress would be possible.</p>
+      <p n="352">It was n't.</p>
+      <p n="353">We wrestled and coaxed, and after two hours were nowhere.</p>
+      <p n="354">The master plan was beginning to crack, had cracked, so we cut the rope in half and tried again.</p>
+      <p n="355">It began to snow, supper was long gone, it got dark, we cursed and fought.</p>
+      <p n="356">Sometime before midnight we dribbled into our tents  up had been faster than down.</p>
+      <p n="357">With bivouac equipment I usually end up bivouacking, and if we 'd carried <date>ten days</date> food I 've no doubt it would have taken <date>ten days</date> to terry it up and down.</p>
+      <p n="358">Theoretically, then, we had a light load, but prusiking over the schrund it did n't seem like that.</p>
+      <p n="359">There was a long w ay to take it, and by midday the climbing was harder, <date>the day</date> hotter, the air getting thinner and the lads tired.</p>
+      <p n="360">We hoped the séracs would be our home, but as time passed the dismal possibility...</p>
+      <p n="361">I1 Scar Ycritfxijti 's East riitge Top part of North -east face- route and summit rocks visible 20 TWO l' AKTI KS ON Yi:iUTA|A, 6 S of a bivouacder II and increased.</p>
+      <p n="362">More time, more front points, finally the séracs, delusion, a head wall </p>
+      <p n="363">no more, ' loo tired to cut a platform, as a last chance I went up;</p>
+      <p n="364">our crevasse was waiting for us.</p>
+      <p n="365">Sleep was a problem, too.</p>
+      <p n="366"><name type="person">Paul</name> had convinced me his pied d' éléphant was shot, so we left them and took a sleeping bag.</p>
+      <p n="367">Worked great at base, not now.</p>
+      <p n="368">It was a one-man bag.</p>
+      <p n="369">A fiasco.</p>
+      <p n="370">Hardly slept, shivering or cooking most of the night.</p>
+      <p n="371">The great red morning sun watched us doing nothing, the golden midday sun saw us turn back.</p>
+      <p n="372">We had tried a few pitches, but it was hopeless, our legs disjointed, our throats as the desert sand.</p>
+      <p n="373">The bivouac sack doubled as a sunshade, while we watched and waited.</p>
+      <p n="374"><date>The day before</date>, <name type="person">Dean</name> and <name type="person">Roger</name> had bivouacked lower, at the top of the rock spur, now with evening came voices.</p>
+      <p n="375">Cloud obscured the schrund, so they were carving a hole in the middle of nothing.</p>
+      <p n="376">Shouts; they joined us;</p>
+      <p n="377"><date>tomorrow</date> we would try again.</p>
+      <p n="378">It was <date>tomorrow</date>, 1200 ft, an ice gully, the summit ridge.</p>
+      <p n="379">Cornices and sad memories of <placeName type="mountain">Rondoy</placeName>.</p>
+      <p n="380">We began by passing the cornices on the face, later walked over them.</p>
+      <p n="381">Had a long way to go.</p>
+      <p n="382">One of those humps had to be it, ca n't all be false summits.</p>
+      <p n="383"><name type="person">Paul</name> 's there, a tricky summit, can see through it.</p>
+      <p n="384">The Scots ' East ridge seems a place to avoid.</p>
+      <p n="385">Look around in clouds, only <placeName type="mountain">Huascaran</placeName> greets us.</p>
+      <p n="386">There 's no reason to hang about, and it 's already late as we begin to rappel off the ridge.</p>
+      <p n="387">We 've got the technique now, yet even so we end up on another night special.</p>
+      <p n="388">In their turn, <name type="person">Dean</name> and <name type="person">Roger</name> had been too tired for the summit.</p>
+      <p n="389"><date>Tomorrow</date> they go;</p>
+      <p n="390">we will wait for them.</p>
+      <p n="391">It snows, they stay.</p>
+      <p n="392">Too late to start the rappel marathon, we sit it out.</p>
+      <p n="393">Early morning again.</p>
+      <p n="394">Snow blows across the face, we sweep down in 250 ft leaps, we 're going home.</p>
+      <p n="395">Pull line, pray, it comes, coil, throw the coil, pay it out, sticks, down anyway, and on, and on.</p>
+      <p n="396">Again it is night, again we are rappelling.</p>
+      <p n="397"><name type="person">Sr. Murra</name>y —<placeName type="gpe"> Per</placeName>u,<placeName type="mountain"> Cordillera Huayhuas</placeName>h.</p>
+      <p n="398">Xetc Zealand Andean Expedition, l &lt; /)S:</p>
+      <p n="399"><name type="person">David Adcock</name> (leader), <name type="person">Peter Harry</name>, <name type="person">Roger Bates</name> (deputy leader), <name type="person">Graeme Dingle</name>, <name type="person">Lloyd Gallagher</name>, <name type="person">Allan Sheppard</name> (all Wellington Section, N.Z.A.C.);</p>
+      <p n="400">Wellington; Roger Bates; Graeme Dingle; David Adcock; Adcock</p>
+      <p n="401"><name type="person">Judy Brooks</name> (X. Z.A.C), <name type="person">Robin Brooks</name>.</p>
+      <p n="402">VA ftfeî1-</p>
+      <p n="403">if</p>
+      <p n="404">13. Allan Sheppard in the foreground, behind Y<placeName type="mountain">erupajá </placeName>Grande. <date>30 June — 21,7</date>65 f<date>t. 2 J</date>uly — 1 p.m., down south-west ridge.</p>
+      <p n="405"><name type="person">Hates</name>, <name type="person">Gallagher</name> Same route: <name type="person">Harry</name>, <name type="person">Sheppard</name>;</p>
+      <p n="406"><name type="person">R.</name> and <name type="person">J.</name></p>
+      <p n="407"><name type="person">Brooks</name> }, , I-1 ist traverse South-west ridge to sum- mit to Nortli ridge to Xortli-west spur:</p>
+      <p n="408"><name type="person">Adcock</name>, <name type="person">Dingle</name> 4, , Second traverse:</p>
+      <p n="409"><name type="person">Hates</name>, <name type="person">Gallagher</name> <placeName type="mountain">Yerupaja</placeName> <placeName type="mountain">Xorte</placeName> 21 JuneNorth-west spur, tust ascent:</p>
+      <p n="410"><name type="person">Bates</name>, 21,500 ft. Dingle and 4<date> July </date>traverse parties. <placeName type="mountain">Yerupajá</placeName> Sur — 27 and 30 Ju<name type="person">ne: B</name>ates, Gallagh<date>er. Ju</date>ly 2–4 traverse parties: Barr<name type="person">y, R.</name> B<name type="person">rooks. Other cl</name>imbs: see p. 225.</p>
+      <p n="411">British-American Ycrupajti Expedition, n/ &gt;</p>
+      <p n="412">S:</p>
+      <p n="413"><name type="person">Dean Caldwell, </name>Pa<name type="person">ul Dix, </name>Ro<name type="person">ger Hart, C</name>hr<name type="person">is Jones. Y</name>e<placeName type="mountain">rupajá G</placeName>rande — 31 July. North-east face, first ascent and descent:</p>
+      <p n="414">21,765 ftI)i\, Jones</p>
+      <p n="415">On men and mountains23</p>
+      <p n="416"><name type="person">Fred Hoy</name>le: ‘Like all the members of your cl<placeName type="gpe">ub I </placeName>have a particular affection for day<date>s sp</date>ent in wild places.’</p>
+      <p n="417">Man is an essentially nomadic animal. We like to be on the move, always looking over the brow of the next hill.</p>
+      <p n="418">Curiously enough, we are happier in the evening it we are moderately tired than if we are brimful ot energy after a day of idleness.</p>
+      <p n="419">We accept the convention that our city trappings are the norm of life but we all know this is not so.</p>
+      <p n="420">It we were asked to recall the dozen most vivid days ot our lite it would be the wild places we would be most inclined to remember.</p>
+      <p n="421">Hut it is not so much about mountains and mountaineers that I wish to speak tonight as about other aspects of life to which the attitude of mountaineers would seem to me to have special relevance.</p>
+      <p n="422">It is perhaps not commonly recognised how similar are the qualities of determination that are essential to achievement in all walks ot lite.</p>
+      <p n="423">These qualities show very obviously on a mountain but in my experience they are ot equal significance whenever human beings try to do anything worth while for the first time.</p>
+      <p n="424">And the necessary determination cannot be forthcoming except through a single-minded dedication to the matter in hand.</p>
+      <p n="425">Just as strength of body will not automatically make a great mountaineer, so intelligence alone will not make a great scientist, for example.</p>
+      <p n="426">There must also be what we might describe as ' inner tires '.</p>
+      <p n="427">This is not sufficiently recognised in our educational system.</p>
+      <p n="428">There is a great need when education is becoming ever more expensive to the community, when the student is becoming ever more dissatisfied, to make this point clear.</p>
+      <p n="429">I'nless the ' inner tires ' are there, at least in some degree, education is just as meaningless as being hauled over one mountain after another is to a man who has no taste tor it.</p>
+      <p n="430">I feel that you as mountaineers must appreciate the strength ot this analogy better than anyone else.</p>
+      <p n="431">Mountaineers are always being asked îcIiy they climb mountains and I am always surprised when they allow themselves to be trapped into offering reasons.</p>
+      <p n="432">The truth ot the matter is surely this.</p>
+      <p n="433">Any purpose that can he precisely explained is always temporary.</p>
+      <p n="434">You might for instance have the worthy purpose of feeding the people of underdeveloped countries.</p>
+      <p n="435">But should you succeed in doing so your purpose will completely disappear.</p>
+      <p n="436">It is a curious paradox ot human existence that purposes which can be clearly defined and explained have a limited life-span.</p>
+      <p n="437">And conversely, the things in life that last indefinitely cannot be explained and defined.</p>
+      <p n="438">Much of the manifest unrest which is now sweeping over the developed 1 I'luniKin Professor of Astronomy, <placeName type="gpe">Cambridge</placeName>.</p>
+      <p n="439">Speech at the Annual Dinner of the Alpine Club, <date>14 December</date> mfiSj.</p>
+      <p n="440">24 ON MEN AND MOUNTAINS countries comes from the pressures of a technological age.</p>
+      <p n="441">This is cliché.</p>
+      <p n="442">What is not cliché is the recognition that the danger of technology lies not so much in the production of devices and gadgets as in trapping us into offering aims, purposes and reasons for everything we do.</p>
+      <p n="443">And so technology traps us into things that are evanescent and of no lasting satisfaction.</p>
+      <p n="444">Here again, the mountaineer should be in a position to see the state of affairs more clearly than most other people.</p>
+      <p n="445">This is not a small matter.</p>
+      <p n="446">We <date>today</date>, in this country, are much concerned with our changed position in the world.</p>
+      <p n="447">For purely logistical reasons we cannot play the same role now that we played in <date>the nineteenth century</date>.</p>
+      <p n="448">So we are given to wondering what the future holds in store for us.</p>
+      <p n="449">The danger, when one tries to look into the future, lies in over-emphasising the present and the past.</p>
+      <p n="450">I do not believe the long-term future of this country is going to be decided by the economic problems which are so much under discussion today.</p>
+      <p n="451">These are problems of the present.</p>
+      <p n="452">Nor do I believe the future will belong to nations with vast armaments —</p>
+      <p n="453">this is indeed to look backwards to the past.</p>
+      <p n="454">The future, I believe, will belong to the nation, or nations, that manage to preserve stability in the face of steadily increasing mental pressure.</p>
+      <p n="455">And mental stability will depend on some form of communal ‘inner fires’.</p>
+      <p n="456">The mountaineer, when he goes for his mountain, because he feels this is what he must do  not because he has a reason that can be documented and computerised  is setting an example of what is needed far beyond the boundaries of mountaineering.</p>
+      <p n="457">He is setting an example of exactly what is needed to maintain the stability of mind of which I have just been speaking.</p>
+      <p n="458">It is therefore not as a matter of form but of sober reflection that I come to your Club.</p>
+      <p n="459">Mountains are important to all of us, but in the attitude of mind which they engender they go far beyond themselves.</p>
+      <p n="460">Mountains and mountaineering have relevance to all walks of life  and perhaps this is the reason why mountaineers come from all walks of life.</p>
+      <p n="461">The first ascent of the South face of <placeName type="mountain">Peak Communism</placeName>, <date>1968</date></p>
+      <p n="462"><name type="person">Anatoli Ovchinnikov</name> l Tr.m^l.it</p>
+      <p n="463">i &lt; &gt;</p>
+      <p n="464">n:</p>
+      <p n="465">AI.m Innirl IV.ik Communism (741) 1 1111.</p>
+      <p n="466">m I lie cintre of the l'.mi us,</p>
+      <p n="467">where the Academy of Sciences and the Peter the Great ranges intersect.</p>
+      <p n="468">has always attracted the attention of mountaineers, but for a long time its remoteness, its difficulty of access, and the fact that it was unexplored did not allow an attempt to climb it to be launched.</p>
+      <p n="469">The itexpedition achic\ed the tust success, one ot its members</p>
+      <p n="470">the outstanding <placeName type="gpe">Soviet</placeName> mountaineers</p>
+      <p n="471">Yevgen<name type="person">y Abalak</name>ov reached the summit on 3 <date>September</date>.</p>
+      <p n="472">/.'/.</p>
+      <p n="473">i. 20^).</p>
+      <p n="474">Thirty-five years have gone by since the first ascent, during which time many mountaineers have climbed the mountain, especially at the end of t<date>he 50s.</date></p>
+      <p n="475">alter the successful expeditions led by <name type="person">Kynl Kw/mm</name>, a talented nioimtaineer ot <date>the present day</date>.</p>
+      <p n="476">Now there are eight different routes on the mountain, graded 5 or 6, the highest grades of difficulty.</p>
+      <p n="477">14 77/ u;tc was 201 -IK.</p>
+      <p n="478">The Ascent of the:</p>
+      <p n="479">SOITII IAITO1-</p>
+      <p n="480">Peak Communism, 90. In 196<date>2 Pe</date>a<placeName type="mountain">k Communism wa</placeName>s climbed by four Bri<placeName type="gpe">tish mou</placeName>ntaineers, who were members of Lord<name type="person"> Hunt’s j</name>oint Briti<placeName type="gpe">sh-Soviet expe</placeName>dition, namely Malco<name type="person">lm Slesser, Joe</name> B<name type="person">rown, Ian</name> M<name type="person">cNaught-Davis, an</name>d Graeme N<name type="person">icol, the ex</name>pedition’s doctor.</p>
+      <p n="481">o.V.</p>
+      <p n="482">243).</p>
+      <p n="483">The expedition also made the first ascent of an unnamed peak.</p>
+      <p n="484">I.'J.</p>
+      <p n="485">M. 96) which at the request ot the climbers concerned was given t lie name ot ' <placeName type="mountain">Peak Soglasi</placeName> ye-Concord by the Presidium ot the Supreme <placeName type="gpe">Soviet</placeName> of the ' l' adzhik <placeName type="gpe">S.S.R.</placeName></p>
+      <p n="486">In <date>196</date> N <placeName type="mountain">Peak Communism</placeName> became very popular with parties trom the sports societies <name type="person">Hurevestnik</name> and <name type="person">Spartak</name>, the Central Council of Physical Culture, the town ot <placeName type="city">Chchabmsk</placeName>, <placeName type="gpe">Czechoslovakia</placeName>, and the Mountaineering Federation of the I.</p>
+      <p n="487"><placeName type="gpe">S.S.R.</placeName></p>
+      <p n="488">, successfully storming it from different sides and by various routes.</p>
+      <p n="489">During <date>the year</date> a total of sixty-two climbers got to the top, among whom was <name type="person">I.yumila Agranovskaya</name> from <placeName type="gpe">Leningrad</placeName>, who thus became the first woman to climb the highest peak in the I.</p>
+      <p n="490">A direct South face route was first thought ot alter a successful assault on the peak in <date>1959</date>, by a party led by <name type="person">K. Kuzmin</name>, which followed a buttress on the South face.</p>
+      <p n="491">However, the first attempt, launched in <date>1962</date> by a party from the Spartak society led by <name type="person">Yitali Abalakov</name> was unsuccessful, due to bad weather conditions.</p>
+      <p n="492">In <date>1965</date>, a Hurevestnik party decided to begin preparations for a new assault on the South face, and a reconnaissance was planned for <date>that summer</date>, to be followed <date>the year</date> after by a comparable route on <placeName type="mountain">Peak Korzhenev</placeName>, and after this by the assault on the South lace.</p>
+      <p n="493">Two climbers, <name type="person">V. Bozhukov</name> and <name type="person">A. Belopukhov</name>, in tact spent <date>the summer</date> on the Belvaev glacier observing conditions and a route of ascent was chosen after a study of photographs.</p>
+      <p n="494">In <date>1966</date> <placeName type="mountain">Peak Korzhcnev</placeName> was climbed by a buttress on the South rib as a test ot the party in roughly similar conditions and as high-altitude training (see l.a Montague it Alpinisme, <date>1967</date>, p. 17}).</p>
+      <p n="495">The odd-number year <date>1967</date> proved to be a non-expedition year for climbers of the <placeName type="gpe">Soviet I'nion</placeName>.</p>
+      <p n="496">A party of climbers from the Burevestnik society however climbed <placeName type="mountain">Peak Lenin</placeName> (7134 m), and found that Pe<placeName type="mountain">ak Communism c</placeName>ould be climbed from the north, from the Fortambek and Walter Glacier side.</p>
+      <p n="497">The Mountaineering Federation ot the I.</p>
+      <p n="498">proposed a joint <placeName type="gpe">Soviet-French</placeName> expedition to <placeName type="mountain">the Pamirs</placeName> in 196 S, with the aim of climbing <placeName type="mountain">Peak Communism</placeName> by the South face.</p>
+      <p n="499">I Iowever, the organisation of the joint expedition was somewhat delayed, and in <date>March 196</date> N we learnt to our disappointment that the French Alpine Club (C.A.F.) was unable to take part.</p>
+      <p n="500">The Presidium of the Mountaineering Federation of the <placeName type="gpe">I.S.S.R.</placeName></p>
+      <p n="501">entrusted the task of organising and carrying out the expedition to the Burevestnik sports society, as they were considered to be better prepared for this route than parties from...</p>
+      <p n="502">South Face of Peak Communism, 1968 — 27 other societies.</p>
+      <p n="503">'l'lie expedition was to consist often men eight climbers, a radio operator, and a man in charge ot administration.</p>
+      <p n="504">I was appointed leader of this small expedition.</p>
+      <p n="505">In spite of the reconnaissance which had been carried out in 196^, there was insufficient information about the face for the size of the assault party to be decided before we left for <placeName type="mountain">the Pamirs</placeName>.</p>
+      <p n="506">The first party of climbers went from Djirgital to the tongue of the Garmo Glacier on 1<date>3 July,</date> where the Base Camp of the British-Soviet expedition had been in 1962.</p>
+      <p n="507">We thought of our climbs together.</p>
+      <p n="508">Where are our <placeName type="gpe">British</placeName> friends now?</p>
+      <p n="509">We know that the ever-smiling <name type="person">Joe Brown</name> is paying a lot of attention to his shop.</p>
+      <p n="510"><name type="person">Lord Hunt</name>, in spite ot being busy, is as before, giving much attention to the development of mountaineering in <placeName type="gpe">Britain</placeName>.</p>
+      <p n="511">The expedition doctor, G<name type="person">raeme Nicol, </name>has married and is doing very well in medicine.</p>
+      <p n="512">We have no news ot our other colleagues on the expedition.</p>
+      <p n="513">The impressions ot the past expedition gave way to <date>the present day</date>, and we began to set up the Base Camp.</p>
+      <p n="514">15 Camp 1111 first siction, during initial preparation I 6 He tat i namps / and =, <date>This year</date> a Czech expedition led by <name type="person">Slavomir Honieli</name> was to combine with us.</p>
+      <p n="515">Sławomir Honiełło</p>
+      <p n="516">Among its members were climbers well known in <placeName type="gpe">Czechoslovakia</placeName>;</p>
+      <p n="517"><name type="person">Ch. Voitsik </name>and P<name type="person">. Baudish,</name> with experience of climbs in t<placeName type="mountain">he Alps </placeName>and t<placeName type="mountain">he Caucasus.</placeName></p>
+      <p n="518">While the Base Camp was being established, tour climbers were sent out to the Belyaev glacier to receive stores landed by helicopter.</p>
+      <p n="519">The helicopter pilots had built up a lot of experience in mountain flying, and were now living bravely to the foot of <placeName type="mountain">Peak Communism</placeName>.</p>
+      <p n="520">But bad weather delayed the landing of the stores, and it was only on i &lt;</p>
+      <p n="521">S</p>
+      <p n="522"><date>July</date> that they were dropped on the Belyaev glacier, in the area of the Georgian Camp, two hours march troni the foot of the South race.</p>
+      <p n="523">Now we could begin to work out our climb.</p>
+      <p n="524">Because of the route 's difficulties, we adopted tactics similar to those used by Himalayan expeditions, by which we established intermediate camps on the proposed route of ascent, and on difficult sections we secured fixed ropes to make climbing with heavy rucksacks easier.</p>
+      <p n="525">On <date>19 July</date> we left the Georgian Camp in two parties ot tour.</p>
+      <p n="526">One party was to work out a route on the South face, and the other to climb <placeName type="mountain">Peak Pravda</placeName> by a new route.</p>
+      <p n="527">Having climbed to the foot of <placeName type="mountain">Peak Pravda</placeName> and <name type="person">Peak Communism</name>, the two parties put up their tents.</p>
+      <p n="528"><name type="person">Kdik Myslovsky</name> ami I set off to work out a route on the face, while the remainder began to look at other routes.</p>
+      <p n="529"><date>That day</date> we did six rope lengths and returned to the plateau in the evening.</p>
+      <p n="530">The rock was found to be rotten and the climbing quite difficult.</p>
+      <p n="531">We realised that the route would be too difficult for a party ot tour climbers.</p>
+      <p n="532">It was essential to terry very many loads.</p>
+      <p n="533">We suggested to the second party that they should take part FIRST ASCENT OF THF SOUTH FACE OF <placeName type="mountain">PEAK COMMUNISM</placeName>, <date>1968 29</date> in making the route and then in the ascent.</p>
+      <p n="534">However, every man of the second party of four said that he was not ready for such a climb and that naturally he could not take part in it.</p>
+      <p n="535">We thus had to resolve the problem of the ascent without anyone 's help.</p>
+      <p n="536"><date>Next day</date> our second pair, <name type="person">Valentine Ivanov</name> and <name type="person">Slava Glukhov</name>, went out to work on the route.</p>
+      <p n="537">We rested and watched <name type="person">Nikolai Alkhutov</name> 's party climbing <placeName type="mountain">Peak Pravda</placeName>.</p>
+      <p n="538">We continued to take turns in making a route and watching our comrades who were doing the climb on <placeName type="mountain">Peak Pravda</placeName>.</p>
+      <p n="539">On resuming our task on <date>the 23rd</date>, it was clear that it was no longer sensible to continue making this route from the plateau.</p>
+      <p n="540">We had to take the tent on to the face.</p>
+      <p n="541">All the essential loads for the climb were carried about 600 m up from the plateau.</p>
+      <p n="542">For the time being there was nothing more to be done.</p>
+      <p n="543">We waited for <name type="person">Alkhutov</name> 's party of four, whose control time for return to the plateau was up <date>that day</date>.</p>
+      <p n="544">There had been no recent contact with them, and if they did not return <date>that day</date>, we would have to go out and look for them <date>the day</date> after.</p>
+      <p n="545">About 6 we saw them descending the snow-ice slopes of the ' <placeName type="mountain">Georgian Couloir</placeName> ', arriving down about 10;</p>
+      <p n="546">very tired but happy, having done a new grade 5b route on <placeName type="mountain">Peak Pravda</placeName>.</p>
+      <p n="547">We questioned our comrades <name type="person">N. Alkhutov</name>, <name type="person">G. Karlov</name>, <name type="person">I. Roschin</name> and <name type="person">V. Shatayev</name> about the difficulties of the route.</p>
+      <p n="548"><date>Next day</date> we got up very early and without our rucksacks went down for a rest to Base Camp where our comrades were waiting impatiently for us.</p>
+      <p n="549">It was <date>24 July</date>, <date>a day</date> of remembrance for <name type="person">Wilfrid Noyce</name> and <name type="person">Robin Smith</name>.</p>
+      <p n="550"><name type="person">l.J.</name></p>
+      <p n="551">67. 384).</p>
+      <p n="552"><name type="person">Nikolai Shalayev</name> and members of the other expeditions had made wreaths from flowers, which we were to place at the foot of the memorial obelisk.</p>
+      <p n="553">Members of the Czech expedition, and the Central Council of Physical Culture and the Mountaineering Federation of the <placeName type="gpe">U.S.S.R.</placeName></p>
+      <p n="554">expeditions observed a minute 's silence in memory of <name type="person">Wilfrid Noyce</name> and <name type="person">Robin Smith</name>.</p>
+      <p n="555">On <date>29 July</date>, after <date>four days</date> rest, our party left Ease Camp again to continue work on the route and complete the ascent.</p>
+      <p n="556"><date>Two days later</date>, our second party led by <name type="person">V. Shatayev</name> left to do the ascent of <placeName type="mountain">Peak Communism</placeName> by the Kuzmin route.</p>
+      <p n="557">(The buttress on the South face of <placeName type="mountain">Peak Communism</placeName>.)</p>
+      <p n="558">On <date>31 July</date> and <date>1 August</date> we did another 200 m of the route.</p>
+      <p n="559">On the morning of <date>2 August</date> we came out of our tents to continue work on the route, but a distress signal from a Central Council of Physical Culture party on <placeName type="mountain">Peak Patriot</placeName> made us descend and hurry to help.</p>
+      <p n="560">It later turned out that on the approach to the summit, one of the climbers, <name type="person">V. Fedorov</name>, had been hit by a loose stone which broke his leg (an open fracture).</p>
+      <p n="561">The Physical Culture Council party were unable to carry the injured man by themselves.</p>
+      <p n="562"><name type="person">E. Myslovsky</name> and <name type="person">N. Altukhov</name> were the first to climb up to the casualty and they arranged 17 Camp î</p>
+      <p n="563">s/ionim; I</p>
+      <p n="564">'.</p>
+      <p n="565">lviinnv</p>
+      <p n="566">i S</p>
+      <p n="567">On the eighth day to get him down.</p>
+      <p n="568"><date>Next day</date> <name type="person">V. Shatayev</name> and <name type="person">I. Roshchin</name> came up to him and on <date>6 August</date> he was brought down to the Marmot Camp at a height of 4000 in.</p>
+      <p n="569">Here an operation was carried out by <name type="person">B. Zhukov</name> and <name type="person">V. Sedlak</name>, the doctor ot the Czech expedition, and the injured man was taken by helicopter to the town of <placeName type="city">Dushanbe</placeName> tor further treatment.</p>
+      <p n="570">On S August we were at the foot of the tace again.</p>
+      <p n="571">We had n't enough time to go on making the route.</p>
+      <p n="572">We had to begin the assault and on <date>the following day</date> we were back on the face.</p>
+      <p n="573">It was easy going, and as a result of all our trips we were well acclimatised.</p>
+      <p n="574">We took only the essentials with us:</p>
+      <p n="575">only 400 g ot foodstuffs per <date>man-day</date>, and a minimum ot warm things.</p>
+      <p n="576">There was no limit only on the number of pegs and the amount of petrol, for without these the climb would be impossible.</p>
+      <p n="577">But the conditions on the face had changed considerably, especially as the snow had completely melted.</p>
+      <p n="578">We climbed ^00 m and there was a line of stone-fall which we had not seen when we were working on the route.</p>
+      <p n="579">The ropes which we had fixed previously were broken in many places.</p>
+      <p n="580">They had to be used with a certain caution.</p>
+      <p n="581">On getting to the first tent, we found that a rock had made a hole in it.</p>
+      <p n="582">We could not stay there.</p>
+      <p n="583">The stone fall increased and it became impossible to go on.</p>
+      <p n="584">We sheltered under an overhang.</p>
+      <p n="585">We were only able to continue the climb after 6, reaching the second tent at 1 ipm.</p>
+      <p n="586">Here also the traces of falling stones could be seen, but there was no stonefall at night, and we fell asleep peacefully after a strenuous day.</p>
+      <p n="587">We had climbed 800 m in a day, which is a lot!</p>
+      <p n="588">i;ikst.\sci-:nt or riir sorm iw 8 31 We lett early on the morning ot <date>10 August</date>, as we needed to get on to safe ground before the stonefall began.</p>
+      <p n="589">The route went up an ice slope of about 50 ".</p>
+      <p n="590">We put on our crampons.</p>
+      <p n="591">It turned out that in the commotion of the rescue operation, <name type="person">Hdik</name> had got the wrong crampons.</p>
+      <p n="592">He could not put them on over his boots, but managed it after a great effort!</p>
+      <p n="593">The front of one of Valva Ivanov’s crampons fell off, and down the slope it went. We went on together, relying on good technique.</p>
+      <p n="594">We could n't wait about for tear of the stones, which began to tly again at about 1 iam.</p>
+      <p n="595">Several went past literally only a few centimetres away from us, but everything turned out all right.</p>
+      <p n="596">Fortune smiled on us!</p>
+      <p n="597">After climbing a buttress ot snow alternating with ice, we realised that we were now out of the stonefall zone.</p>
+      <p n="598">We rested and looked at where the stonefalls began.</p>
+      <p n="599">First ot all, a single stone fell for some unknown reason, bouncing from one ledge to another.</p>
+      <p n="600">Then it gathered speed, dislodging other stones which rushed past us with a crash and a whistle.</p>
+      <p n="601">It was tine to watch, but to get under a stonefall ....</p>
+      <p n="602">There was no point in going any further <date>that day</date>;</p>
+      <p n="603">the face was vertical and there was not a sign of a place to bivouac.</p>
+      <p n="604">We had a look at a rocky ridge, made a space and put up the tent.</p>
+      <p n="605">We exchanged views on the next part of the route.</p>
+      <p n="606">We decided <date>that next day</date> we would make a route on this wall.</p>
+      <p n="607"><date>That day</date> we climbed seven rope lengths, left part of our loads and went down to the tent.</p>
+      <p n="608">Towards evening the weather got worse and it snowed.</p>
+      <p n="609">On <date>12 August</date> we struck the tent and climbed the part of the route which had been made <date>the day before</date>.</p>
+      <p n="610">The snow which had fallen made rock climbing difficult.</p>
+      <p n="611">Our feet were slipping and we put on crampons.</p>
+      <p n="612">The climbing was very hard!</p>
+      <p n="613">The sloping ledges were like tiles, and in several places the walls were overhanging.</p>
+      <p n="614"><date>That day</date> we only climbed fifteen rope lengths.</p>
+      <p n="615">We climbed until it was quite dark, but could not find a place where we could put up the tent.</p>
+      <p n="616">We settled down on a small shoulder, glad that we had all managed to get there.</p>
+      <p n="617">It was a good effort!</p>
+      <p n="618">We covered ourselves with the tent, cold and uncomfortable.</p>
+      <p n="619">The weather got worse.</p>
+      <p n="620">On it, <date>August</date> we climbed for three rope lengths.</p>
+      <p n="621">We were over the first rock barrier!</p>
+      <p n="622">We were on a snow-névé shoulder on the face.</p>
+      <p n="623">Visibility was nil.</p>
+      <p n="624">Because of the fear of stonefall we decided to stop on the shoulder.</p>
+      <p n="625">We hacked out a space, put up the tent, rested and looked at the next section of the route in the remaining hours of day light.</p>
+      <p n="626">In a break in the clouds we suddenly saw our second party.</p>
+      <p n="627">They had already come onto the shoulder.</p>
+      <p n="628">The technical difficulties were left behind.</p>
+      <p n="629">Now we were no longer anxious about them.</p>
+      <p n="630">They had done their job.</p>
+      <p n="631">As yet we could not say the same tor ourselves.</p>
+      <p n="632">They saw us and waved their hands joyfully.</p>
+      <p n="633">The next instant a cloud appeared, and we did not see them again.</p>
+      <p n="634">The plateau came into view.</p>
+      <p n="635">We could see there the little figures of the six <placeName type="gpe">Czech</placeName> climbers climbing l' eak <placeName type="mountain">Pravda</placeName>.</p>
+      <p n="636">On a difficult.</p>
+      <p n="637">il <name type="person">lin</name> i'rjith « An- route it is pleasant to see other parties anil feel ourselves not alone in the silence around us.</p>
+      <p n="638"><date>14 August</date>.</p>
+      <p n="639"><date>The day</date> bewail with an abseil down to a large sloping ledge of snow and ice.</p>
+      <p n="640">A climb along this ledge brought us to the second rock barrier.</p>
+      <p n="641">We put up the tent on a patch hacked out ot the ice.</p>
+      <p n="642">There was no comfort.</p>
+      <p n="643">In the night, powder snow poured down the lace, burying the tent.</p>
+      <p n="644">The snow weighed us down and we had to crawl out and shovel it away.</p>
+      <p n="645"><date>1 ^ August</date>.</p>
+      <p n="646">It was hard to breathe in the tent.</p>
+      <p n="647"><date>Today</date> we left without breakfast.</p>
+      <p n="648">It was very cold, our feet were freezing, and we were tired; the going was difficult.</p>
+      <p n="649">We climbed a snow shell to avoid the second barrier.</p>
+      <p n="650">The sun which came out at 1 iam warmed us up, and we were able to stop to make tea and prepare some food.</p>
+      <p n="651">The early start and the tension of these days was telling on us.</p>
+      <p n="652">We discussed the route and decided to carry on climbing along the shelf to a snow triangle which we could see from below, and at the beginning of which we could storm the second rock barrier.</p>
+      <p n="653">Tiredness was affecting us all.</p>
+      <p n="654"><name type="person">Kven</name> the tireless hdik became less careful.hilc knocking m a peg, he slipped and tell down a slope of snow and ice of about 40.</p>
+      <p n="655">A jerk, but the belay held.</p>
+      <p n="656">I asked him, ' How are you ?'.</p>
+      <p n="657">I heard him puffing in reply, the rope slackened off, anil I took it in.</p>
+      <p n="658">hdik came up.</p>
+      <p n="659">lie was all right.</p>
+      <p n="660"><name type="person">Slava</name> Glukhov took the lead.</p>
+      <p n="661">A few more rope lengths and we were at the beginning of the snow triangle.</p>
+      <p n="662">Here we spent the night.</p>
+      <p n="663">We had a good rest that night, and in the morning everyone was cheerful and ready to continue the assault.</p>
+      <p n="664">' That day <name type="person">Iùlik</name> continued his rest, anil we changed his position on the rope.</p>
+      <p n="665">Four rope lengths ot difficult climbing brought us to a ledge in front of the third and last barrier.</p>
+      <p n="666">It was 4.</p>
+      <p n="667">We put up the tent in a rock recess under a big overhang.</p>
+      <p n="668">We did another halt rope length on the third barrier.</p>
+      <p n="669"><date>17 August</date>.</p>
+      <p n="670">After one rope length of difficult rock climbing, we went along a ledge to get round the barrier.</p>
+      <p n="671"><name type="person">Iùlik</name> was in the lead again.</p>
+      <p n="672">Here the ledge was covered with snow, and it was slippery.</p>
+      <p n="673">lour rope lengths along the ledge and we began the assault on the third barrier.</p>
+      <p n="674">We were now above 7000 m. <placeName type="mountain">Peaks Russia</placeName>, <placeName type="city">Moscow</placeName> and <placeName type="city">Leningrad</placeName> were left below us.</p>
+      <p n="675">We had a tremendous k (' uimnutiism, /'y6j 20 Tin South Sua us si tit il Ki'printrd from.</p>
+      <p n="676">/.</p>
+      <p n="677">J. h^.</p>
+      <p n="678">[ 35 mit tin Ihitish usant:</p>
+      <p n="679">LNpidition photo desire to overcome the third harrier that day and reach the snow slope near the summit.</p>
+      <p n="680">Four more rope lengths ot difficult climbing, partly on overhanging rock.</p>
+      <p n="681">Hut then I heard <name type="person">Kdik</name> 's happy voice, ' We can go on foot from here! '</p>
+      <p n="682">One more rope length and we were on the snow slope.</p>
+      <p n="683">We had climbed the face; it was v^opm.</p>
+      <p n="684">1 lure was a group of people on the summit, and there were also some climbers ioo m lower down.</p>
+      <p n="685">We found that on the top there was a party from our Hurevcstnik society, led by <name type="person">Y. Borodkin</name>.</p>
+      <p n="686">They had climbed from the north, from the Walter Glacier.</p>
+      <p n="687">Below us were climbers from the Central Council ot Physical Culture.</p>
+      <p n="688">Thev congratulated us on our success.</p>
+      <p n="689">We bor- 21 On tin summit I*rom k-tt to riL'ht:</p>
+      <p n="690">K. Myslovsky, A. Ekhinnikov and V.</p>
+      <p n="691"><name type="person">Ivano\.</name></p>
+      <p n="692">In the background:</p>
+      <p n="693"><name type="person">IVak Kniu</name>-nia <placeName type="mountain">Kor/.liciu-vskaya</placeName>, 7105 m rowed a little food from them, as ours had run out.</p>
+      <p n="694">During <date>the past tew days</date> we had had to reduce even the halt starvation rations on which we had planned.</p>
+      <p n="695">We finished ott the pressed eaviare.</p>
+      <p n="696"><date>Today</date> we were n't going to tie ourselves on to anything.</p>
+      <p n="697">What bliss!</p>
+      <p n="698">1 S August.</p>
+      <p n="699">1 here was no hurry to move ott, the weather was line, all the difficulties were behind us, there were no problems.</p>
+      <p n="700">A rope ot climbers from the Council of Physical Culture came by us.</p>
+      <p n="701">We set out, following tluir tracks.</p>
+      <p n="702">The scree below the summit.</p>
+      <p n="703">The view to the north opens up, over there is <placeName type="mountain">Peak Kor/henev</placeName> and beyond it <placeName type="mountain">Peak I.enin</placeName>.</p>
+      <p n="704">We took the usual still and cine shots.</p>
+      <p n="705">There were no changes here, there was still the sparkle of the scattered iron deposits in the shale.</p>
+      <p n="706">We did not hurry going down, we had been climbing tor such a long time, and now we wanted to enjoy the warm high mountain sun and the beauty and vast ness</p>
+      <p n="707">of <placeName type="mountain">the Pamir</placeName> giants around us. We shared impressions of endless human possibilities in every sphere of activity — science, sport, or mountaineering.</p>
+      <p n="708">The fact was that many people had considered that a route on this face was impossible.</p>
+      <p n="709">Now that was past history.</p>
+      <p n="710">The face is open to all, though there are more difficult routes on it.</p>
+      <p n="711">We had taken the first step in mastering it, we had shown that, ' it would go '.</p>
+      <p n="712">We dedicated our ascent to the memory ot our iriend and comrade <name type="person">Lev Myshlyaev</name>.</p>
+      <p n="713">On <date>20 August</date> we were met at Base Camp on the tongue ot the (îarmo glacier.</p>
+      <p n="714">Summary <placeName type="mountain">Pamirs</placeName>, <placeName type="gpe">Soviet Asia</placeName>.</p>
+      <p n="715"><placeName type="mountain">Peak Communism</placeName> (7495 m), first ascent by the South face.</p>
+      <p n="716">10, 2} <date>July</date> (preparation ot lower section) and o, <date>17 August</date> 10,68.</p>
+      <p n="717">V. Glukhov, V.<name type="person"> Ivanov, </name>K.<placeName type="gpe"> Myslovsky, </placeName>A.<name type="person"> Ovchinnikov (</name>leader).</p>
+      <p n="718"><placeName type="mountain">Peak Communism</placeName>, first ascent by a woman:</p>
+      <p n="719"><name type="person">Lyumila Agranovskaya</name>, io, 6 N.</p>
+      <p n="720"><placeName type="mountain">Peak I'ravila</placeName> (6400 in), new route of ^b standard, c. 22 <date>27 July</date> 106 S.</p>
+      <p n="721"><name type="person">N. Alkhutov</name>, (', .</p>
+      <p n="722"><name type="person">Karlov</name>, <name type="person">I. Roschin</name>, <name type="person">V. Shataev</name>.</p>
+      <p n="723">Stonefall</p>
+      <p n="724">35. All stones we learn as children are dead, inanimate things, but stones falling on mountains are alive with a death that sings. A stone’s song is enchanting and fit for the mountain kings; the pitch is high, then it’s low, yet always of a death it sings. This song is lacrimoso, carried screeching from the strings in fiery voice, playing so alive with the death that sings. If you have heard the stones fall, tried crouching 'neath sheltering wings, you'll know the tune and lyrics and the song of a death it sings. To stand exposed with front points on ice, with arrow or slings in the line of a Spider, is to learn of the death that sings. Of all songs in the mountains, from calm to storm-peeling rings, the one to dread is stonefall, for always of a death it sings.</p>
+      <p n="725"><name type="person">Dennis Gray</name></p>
+      <p n="726">The North face of <name type="person">Monte Agner</name>  a little-known <placeName type="mountain">Dolomite</placeName> classic</p>
+      <p n="727"><name type="person">Michael Mortimer</name> This face, the highest wall in <placeName type="mountain">the Dolomites</placeName>, occupies a dominant position above the <placeName type="valley">Val di San Lucano</placeName>.</p>
+      <p n="728">Because of its size and complexity it has an atmosphere more commonly found in <placeName type="mountain">the Western Alps</placeName>, its problems being as much of route finding as of technical difficulty.</p>
+      <p n="729">While the <placeName type="mountain">Northwest wall of the Civetta</placeName> was plastered <date>last August</date>, <name type="person">Ron Lake</name> and I drove south to inspect the face, which we found to be in good condition, presumably because of its relatively low altitude.</p>
+      <p n="730">After a careful examination we decided to return the following evening prepared to make an attempt.</p>
+      <p n="731">It is possible to drive up the valley to a hamlet immediately beneath the face, with a few chalets and a bar.</p>
+      <p n="732">Here we joined a group of five <placeName type="gpe">Polish</placeName> climbers led by <name type="person">Richard Zawadzki,</name> a very accomplished alpinist, who has not only a number of first ascents in t<placeName type="mountain">he Mont Blanc </placeName>range to his credit but also took part in the second ascent of the north face of the Grand Pilier d’Angle.</p>
+      <p n="733">This team was involved in an unclimbed line to the left of the <placeName type="mountain">Andreoletti-Zanutti-Jori route</placeName> of <date>1921</date> which we were hoping to do.</p>
+      <p n="734">We quickly made friends and it was not long before they persuaded me to take two of them down to <placeName type="city">Belluno</placeName> for some extra gear, most of which turned out to be a large number of micro-pitons and fifty expansion bolts!</p>
+      <p n="735">Next morning the unpleasant approach was rendered a little more easy by the presence of the Poles who had been on the face several times before.</p>
+      <p n="736">At seven o'clock we were wishing them luck before setting off up the huge chimney-gully system which gives the general line of the climb.</p>
+      <p n="737">Having decided to ignore the suspect description in the English guide-book {SelectedClimbs in the Dolomites, <date>1963</date>, p. 95) we made our motto ' always take the easiest line. '</p>
+      <p n="738">The chimney proved to be easy for several hundred feet, enabling us to climb unroped, before a short excursion on to the loose right wall indicated that it was time to tie on.</p>
+      <p n="739">We were soon back in the chimney but it was cold and dark, and the smooth, water-worn rocks bore witness to the many torrents which had passed that way:</p>
+      <p n="740">obviously a place to avoid in wet weather.</p>
+      <p n="741">Eventually the sight of a peg to the left lured us out of the chimney:</p>
+      <p n="742">perhaps we were on route.</p>
+      <p n="743">However, we were soon disillusioned when we found the pitch to be a good VI and very time-consuming.</p>
+      <p n="744">Two more pitches led to a terrace beneath the steepest section of the lower wall.</p>
+      <p n="745">I was worried about our slow progress and as I climbed a steep crack, the only possible break, I realised that we must be off route, my fears increasing with every foot slowly gained.</p>
+      <p n="746">W7e certainly had n't expected such difficulties on a route climbed so long ago and besides, the rock hereabouts gave the impression of being virgin.</p>
+      <p n="747">I belayed under a repulsively rotten crack which appeared to be the only way out, but when <name type="person">Ron</name> reached me he took one look at it and vanished round the corner to THF NORTH F. UF OF MONTI-</p>
+      <p n="748">ACNFR the left.</p>
+      <p n="749">His progress was slow and in my anxious state every minute seemed like an hour.</p>
+      <p n="750">When at last my turn came I was faced with a blank wall decorated by a few runners, the only indication of the line <name type="person">Ron</name> had taken.</p>
+      <p n="751">This pitch was the key to the lower section and led to a stance from which the whole of the upper face could be seen.</p>
+      <p n="752">We surveyed the scene carefully, trying to pick out the line:</p>
+      <p n="753">almost immediately my fears were swept away.</p>
+      <p n="754">A broad rib led easily upwards for over iooo ft before losing itself in an area of steep rock below the summit overhangs.</p>
+      <p n="755">Moreover, the guide-book description fitted in with what we could see.</p>
+      <p n="756">Now it was possible to move together.</p>
+      <p n="757">As we gained height rapidly, the sound of hammer on pegs and the occasional voice from over to the left showed that our <placeName type="gpe">Polish</placeName> friends were making progress.</p>
+      <p n="758">Much more relaxed now, I convinced myself that we should be on top before dark.</p>
+      <p n="759"><name type="person">Ron</name>, however, pointed out that we still had a long way to go.</p>
+      <p n="760">The traverse line mentioned by the guide-book led us back into the chimney for another pitch before we could climb out again by a series of cracks, just as in the description.</p>
+      <p n="761">Thus reassured, we moved up the ' very steep slabs, until the steepening wall forces one back into the main chimney which narrows giving strenuous cracks and many overhangs '.</p>
+      <p n="762">We looked at the dark, cold, slimy chimney, then at the ' steepening wall '  beautifully white and firm.</p>
+      <p n="763">There was no doubt at all, it was the wall for us.</p>
+      <p n="764">This section proved to be the most technically demanding ot the whole route, but with the rock so good and natural protection often available we found the climbing particularly satisfying.</p>
+      <p n="765">Steep walls and slabs, always of firm, white <placeName type="mountain">dolomite</placeName>, followed one after the other until a final pitch in the chimney took us to a cave below the summit overhangs.</p>
+      <p n="766">Unfortunately, a steady drizzle had started and the mist which accompanied it was hiding the summit gully.</p>
+      <p n="767">The dripping roofs combined with the steadily increasing gloom to produce an oppressive atmosphere.</p>
+      <p n="768">It we could n't find the way out soon we would be faced with a very wet bivouac.</p>
+      <p n="769">I heard a waterfall to the left and headed hopefully towards it, wandering about blindly for a full rope length before finding the gully, guarded by a loose, dripping wall.</p>
+      <p n="770">liy the time we had fought our way into it, the darkness was almost total.</p>
+      <p n="771">The prospect of a bivouac in this icy cleft was even less inviting than below the wet roofs.</p>
+      <p n="772">However, luck was with us, for just to the left was a dry comfortable ledge, the ideal place.</p>
+      <p n="773">Next morning dawned cold and grey, but after a steep icy crack and a short snow patch we emerged on a sunlit summit.</p>
+      <p n="774">The valleys were enveloped in mist, our eyes were drawn to the north where the South face of <placeName type="mountain">the Marmolata</placeName> 38 THE NORTH I-'ACE OF MONTI- ACNER stood huge and impressive whilst further east the twin towers of <placeName type="mountain">the C' wetta range</placeName> rose magnificently above a sea of cloud.</p>
+      <p n="775">Already we were thinking of our next route ...</p>
+      <p n="776">the ascent of one climb leads naturally on to hopes for the next.</p>
+      <p n="777">We spent a happy half hour browsing through the summit hook.</p>
+      <p n="778">Although several ascents ot the North ridge were recorded, there was no mention of the North face, and later we were informed that its ascents numbered less than a dozen.</p>
+      <p n="779">Amazed at the neglect of such a fine route, we headed south to the beautiful green meadows above Frassene.</p>
+      <p n="780">Summary  <placeName type="mountain">Pala Dolomites</placeName>, <placeName type="mountain">Monte Agner</placeName> North face by <placeName type="mountain">Andreoletti Zanutti-Jori route</placeName>.</p>
+      <p n="781">First <placeName type="gpe">British</placeName> ascent, <date>31 July 1968</date>.</p>
+      <p n="782"><name type="person">R. J. Lake</name>, <name type="person">M. G..Mortimer</name>.</p>
+      <p n="783">The new English guide-book Dolomites (<date>1969</date>), has a revised description.</p>
+      <p n="784">A visit to the <placeName type="valley">Ishinca</placeName> Valley, <name type="person">Cordillera Blanca</name>, <date>1968</date></p>
+      <p n="785"><name type="person">Walter Amstutz</name></p>
+      <p n="786">Vol. VI.</p>
+      <p n="787">IUI I hi- startmt:</p>
+      <p n="788">point for our visit to the Ishinca Valley.</p>
+      <p n="789">valley.</p>
+      <p n="790">east of the Río Santa, was Monterrey, 20 km north of Huaraz; in pleasant, well-equipped mountain hotel excellently managed by a German couple.</p>
+      <p n="791">I lerr.</p>
+      <p n="792">with Hans Klenk, and built around.</p>
+      <p n="793">1 hot sprint:</p>
+      <p n="794">From this point we travelled by pickup with three porters and baggage, along the worst road in my experience, to Colón (3250 m).</p>
+      <p n="795">hin- we waiteil lor hours lor our ilri\irs.</p>
+      <p n="796">litteen horses, and eoiikeys.</p>
+      <p n="797">The ascent led first of all past small settlements surrounded by eucalyptus trees and planted principally with potatoes and corn.</p>
+      <p n="798">Hardy shrubs up to heights of 4000 m. Que<name type="person">ñua (P</name>olylepis), a sort of small oak.</p>
+      <p n="799">L'lows on the lnt.'h</p>
+      <p n="800">plateaux ©</p>
+      <p n="801">A Visit to the—</p>
+      <p n="802">23 Ahsviltin X trad*</p>
+      <p n="803">Ranrapalca</p>
+      <p n="804">looking clown tile route ot ascent ti &gt; the camp</p>
+      <p n="805">Ishinca Valley</p>
+      <p n="806">I.I-'Y, COKDIl.l.l-KA 111 ANCA, I l/lS41 up to a height of 4500 m often in small clusters.</p>
+      <p n="807">We set up our first tented camp on the evening of <date>23 June</date> at a height of 4190 m and also made a further camp on the south side of the <placeName type="valley">Ishinca </placeName>Valley at 4900 m, where the pack animals left us and returned to the valley.</p>
+      <p n="808">Our first objective was Neva<placeName type="mountain">do Ishinca, 553</placeName>0 m, for acclimatisation purposes.</p>
+      <p n="809">We left our camp at about 6.30.</p>
+      <p n="810">on <date>26 June</date>, set toot on the glacier at about 5000 m and reached the summit without difficulty about 1 iam, whence we had a fine view.</p>
+      <p n="811">The last short ascent to the twin ice summit was steep and forced us to proceed one at a time.</p>
+      <p n="812">I humped my Hasselblad camera and accessories to the top of the mountain, which made me ponder up to what height on a mountain photography can be a pleasure.</p>
+      <p n="813">We set up a high camp on <date>27 June</date> at the foot of <placeName type="mountain">Nevado Ranrapalca</placeName>.</p>
+      <p n="814"><name type="person">Meyer</name> and <name type="person">Naegeli</name> remained in Hase Camp as they were somewhat affected by the height.</p>
+      <p n="815">We thereupon formed two ropes:</p>
+      <p n="816"><name type="person">Luchsinger</name>, <name type="person">Zimmerli</name> and <name type="person">von Rütte</name>, and <name type="person">Grimm</name> and myself.</p>
+      <p n="817"><name type="person">Luchsinger</name> and <name type="person">Zimmerli</name> went on ahead next morning to reconnoitre the route, while the rest of us organised the transport.</p>
+      <p n="818">Just before we set out we were involved in a crisis as our head porter suddenly demanded double pay because the loads had to be carried on the glacier</p>
+      <p n="819">up to 5200 m.</p>
+      <p n="820">This, he said, was not in the contract.</p>
+      <p n="821">A lively and highly comical discussion ensued as none of us either spoke or understood much <placeName type="gpe">Spanish</placeName>.</p>
+      <p n="822">We finally reached what both parties thought was an acceptable compromise, though this eventually proved to be an illusion.</p>
+      <p n="823">Despite this contretemps, we managed to set up camp where we wanted by early afternoon and the porters returned to base.</p>
+      <p n="824">We climbed <placeName type="mountain">Ranrapalca</placeName> (6162 m) on <date>28 June</date>, via the Southeast face of the Northeast ridge.</p>
+      <p n="825">The peak was first ascended by <name type="person">Hrecht</name>, <name type="person">Rohrer</name>, <name type="person">Schmid</name> and <name type="person">Schweizer</name> in <date>1939</date>.</p>
+      <p n="826">The first part was névé and was good for crampons, but towards the end the tropical ice forced us to cut many steps.</p>
+      <p n="827">Rests were taken at <date>8</date> at 5590 m and again at 9.30.</p>
+      <p n="828">at 5700 m. With <name type="person">Luchsinger</name> in the lead we reached the névé plateau and the Northeast summit at about 3.15.</p>
+      <p n="829">, whence an easy but laborious trudge led up to the main peak.</p>
+      <p n="830">We had to consider whether climbing to the top, which included an hour and a halt 's slog up and down, was worth the risk of an unpremeditated bivouac on the face, and rightly decided to go down at once.</p>
+      <p n="831">We had, it is true, brought wooden pegs and aluminium stakes with us for abseiling, but complicated manoeuvres with the rope are often time-consuming even at low altitudes, especially for a party of five.</p>
+      <p n="832">Night descended upon us at about 6.30.</p>
+      <p n="833">on the lower part of the face, fortunately after the abseiling was over.</p>
+      <p n="834">The rest of the descent took place in total darkness.</p>
+      <p n="835"><name type="person">Fritz Luchsinger</name>’s lead off the mountain was masterly. 4. A Visit to the Ishinca Valley</p>
+      <p n="836">24 Pvdks f)5f) " tfl.</p>
+      <p n="837"><placeName type="mountain">Ranrapalca</placeName>.</p>
+      <p n="838">Scu also below</p>
+      <p n="839">-/A'^0- ' ti'kli()to trotn cunip c. 4 &lt; joo ni ;it toot ot</p>
+      <p n="840">28. Nevado Ranrapalca, from Nevado Ishinca, looking north</p>
+      <p n="841">Peru, Cordillera Blanca.</p>
+      <p n="842">ANCA, <date>I968</date> piece of orientation, such as I have seldom or never experienced before.</p>
+      <p n="843">Encompassed by the deceptive darkness, he led us through the maze with the traditional invulnerability of the sleepwalker.</p>
+      <p n="844">It was mainly due to him that we succeeded in eluding an unpleasant forced bivouac at about 5500 m. Hone-weary and wet through we crept into our tent at about 10.30 ..</p>
+      <p n="845">The same party left a camp in the valley with two porters on <date>2 July</date>.</p>
+      <p n="846">We first clambered up a moraine and then along a glacier until we reached a glacier plateau at ^130 m to the west of our objective, the <placeName type="mountain">Xevado Tocllaraju</placeName>, 6032 m. (First climbed by <name type="person">Brecht</name> and <name type="person">Schweizer</name> in <date>1939</date>.</p>
+      <p n="847">)</p>
+      <p n="848">It was very cold in our camp and we left it at 5.</p>
+      <p n="849">In our opinion the bcrgschrund which we encountered at about 5400 m would not go, so we turned away to the north-east and reached the col (5 S10 m) which falls steeply away to the east, at about (Sam.</p>
+      <p n="850">We had some trouble with steep slabs of rather loose formation.</p>
+      <p n="851">The rock itself afforded holds but was smooth and consisted of dioritic granite, similar to the tonalité of <placeName type="mountain">the Bregaglia</placeName>.</p>
+      <p n="852"><name type="person">Luchsinger</name> wormed his way up over some tricky rock and ice pitches, putting in three pitons.</p>
+      <p n="853">Eventually, at about 10 we attained the North face of <placeName type="mountain">Tocllaraju</placeName> via a steep névé slope.</p>
+      <p n="854">Although difficulties were over, unfortunately the weather was obviously breaking up.</p>
+      <p n="855">Soon the summit and ourselves were completely enveloped in cloud, which often occurs on the watershed of<placeName type="mountain"> the Cordiller</placeName>a about<date> mid-da</date>y.</p>
+      <p n="856">This is one good reason why an ascent should be made <date>early in the day</date>.</p>
+      <p n="857">We waited for a good hour, but conditions did not improve and although we were only about 150- 200 m below the top we decided it was wiser to beat a retreat.</p>
+      <p n="858">We abseiled twice down the tricky pitches and regained our tent about 4.</p>
+      <p n="859">In the meantime our two porters had come up again from the valley, and bearing in mind the cold night we had spent we decided to strike camp and go down to Hase Camp <date>the same day</date>.</p>
+      <p n="860">Our decision was right, for <placeName type="mountain">Tocllaraju</placeName> was still shrouded in thick clouds that evening.</p>
+      <p n="861"><date>Next day</date> was an off-day, but not tor <name type="person">Luchsinger</name> and <name type="person">Zimmerli</name>, who spent the time in climbing <placeName type="mountain">Xevado I'rus</placeName> (5495 m).</p>
+      <p n="862">This was a not inconsiderable achievement after the strenuous efforts of <date>the days before</date>.</p>
+      <p n="863">The night of <date>4-5 July</date> was again cold and next morning we found our tents lightly covered with snow, which helped to make our departure from the mountains of <placeName type="gpe">Peru</placeName> less hard to bear.</p>
+      <p n="864">We had only been away thirteen days from <placeName type="city">Monterey</placeName>, our point of departure, which was much too short a time to be able really to enjoy the wonderful mountain scenery.</p>
+      <p n="865">We had not contemplated any first ascents and the four peaks we climbed had all been done before.</p>
+      <p n="866">Our real objective was a glimpse into the mountain world of <placeName type="gpe">Peru</placeName>.</p>
+      <p n="867">We were fortunate in that the weather 44 A VISIT TO <placeName type="valley">TIN- ISHINCA</placeName> VAI.</p>
+      <p n="868">I. KV, COKDII.</p>
+      <p n="869">I. KKA HI.</p>
+      <p n="870">AXCA, IO " &lt; S remained favourable, except in the case of <placeName type="mountain">Tocllaraju</placeName>, and we could n't wish for better than that.</p>
+      <p n="871">The smallest ascent in the <placeName type="mountain">Cordillera Blanca</placeName> requires preparation, for both climate and topography present problems of transport and supply, although they are nothing as great as those in many other overseas mountain areas.</p>
+      <p n="872">The highest mountain in <placeName type="gpe">Peru</placeName>, <placeName type="mountain">Huascarán</placeName>, is 6768 m, which is not as high as the <placeName type="mountain">Himalayan giants</placeName>, although the <placeName type="mountain">Cordillera Blanca</placeName> is one of the greatest continuous mountain chains in the world.</p>
+      <p n="873">Situated as it is on the equator, the days and nights are the same length and twilight is very short.</p>
+      <p n="874">The differences in temperature vary enormously within a few hours and it is said that a day in the mountains ot <placeName type="gpe">Peru</placeName> is equal to a year anywhere else:</p>
+      <p n="875"><date>spring in the morning, summer at mid-day, autumn in the evening and winter at night</date>.</p>
+      <p n="876">There are sometimes temperature differences of up to 60 C within a few hours, which is extremely trying tor the human body at heights of over 5000 m where lack ot oxygen is a problem.</p>
+      <p n="877">Owing to the prevalence of solar radiation from the north and precipitation from the east, it is preferable to attack the sunny side of the mountain, for the north faces in <placeName type="mountain">the Andes</placeName> correspond to the southern faces in <placeName type="mountain">the Alps</placeName>.</p>
+      <p n="878">Also, glaciers tend to be very crevassed.</p>
+      <p n="879">If time is of importance, it is advisable to attempt a relatively easily accessible area.</p>
+      <p n="880">It would be very attractive to attempt one of the many unknown and still unclimbed 5000 m peaks, or one of the twenty-nine 6000 m peaks of <placeName type="gpe">Peru</placeName>, some of which are still unconquered.</p>
+      <p n="881">All equipment for an expedition to <placeName type="gpe">Peru</placeName> must be brought from Europe.</p>
+      <p n="882">Generally speaking the porters are very inadequately equipped and expect to be supplied with boots and clothing.</p>
+      <p n="883">With this in mind it is useful to bring used boots and wind proofs for them.</p>
+      <p n="884">We learned on <placeName type="mountain">Kilimanjaro</placeName> and <placeName type="mountain">Mount Kenya</placeName> that the use of ski sticks up to a height of 5000 m or over can be of great assistance while ascending or descending.</p>
+      <p n="885">The porters are prepared to carry large loads; in general they are decent and willing men, except when they are under the influence of a local ‘shop steward’.</p>
+      <p n="886">It is, however, very advisable to have every detail down in writing before starting out.</p>
+      <p n="887">The excellent general maps of 1 :200,000 and 1 :100,000 by <name type="person">Heckler</name>, <name type="person">Kinzl</name> and <name type="person">Schneider</name> of the Alpenverein, <placeName type="city">Innsbruck</placeName>, are indispensable.</p>
+      <p n="888"><name type="person">Senor Cesar Morales Arnao</name>, head of the Andes Department, as well as some Swiss residents in <placeName type="city">Lima</placeName>, such as <name type="person">Herr Paul Roth</name>, a climber from <placeName type="city">Berne</placeName> and employed by the Quimica Suiza SA ., and Frl.</p>
+      <p n="889"><name type="person">Beatrice Berger</name>, owner of the Travel Bureau Panorama, afforded us considerable assistance.</p>
+      <p n="890">camp of...</p>
+      <p n="891">7 Ihiraju; looking rM-</p>
+      <p n="892">1 2 S Soittli-ïïi st fact nj '</p>
+      <p n="893">I'm Hai-,/jii; trotn.</p>
+      <p n="894">both camps (workshops) with left side—</p>
+      <p n="895">ot</p>
+      <p n="896">A journey to the <placeName type="mountain">Cordillera Blanca</placeName> is a high spot in any climber’s life.</p>
+      <p n="897">The physical effort required, though considerable, is not unreasonable even when one is over 6^, as is the case with me.</p>
+      <p n="898">The exhaustion is soon forgotten after a successful expedition.</p>
+      <p n="899">It is quite another thing as regards the travel to and from the mountains over execrable narrow and winding roads in completely decrepit and antiquated vehicles.</p>
+      <p n="900">In fact it’s enough to give you the willies!</p>
+      <p n="901"><placeName type="mountain">Simmaky — Peruvian Andes</placeName>, <placeName type="mountain">Cordillera Blanca</placeName>, <placeName type="valley">Ishinca Valley</placeName>.</p>
+      <p n="902">Schweizerischer Akademischer Ski Club Expedition, 196 S.</p>
+      <p n="903">Party: \Y.</p>
+      <p n="904">Amstutz; II. Grimm;</p>
+      <p n="905"><name type="person">F. Luchsinger</name>; V..</p>
+      <p n="906"><name type="person">Meyer</name>; \Y.</p>
+      <p n="907"><name type="person">Xaegeli</name>; <name type="person">A. von Rütte</name>;</p>
+      <p n="908"><name type="person">A. Zimmerli</name>.</p>
+      <p n="909">A. Zimmerli</p>
+      <p n="910">Ascents:</p>
+      <p n="911"><date>26 June</date> <name type="person">Xevado Ishinca</name>, 55^0 in.</p>
+      <p n="912">Whole party.</p>
+      <p n="913">2 &lt; S June <name type="person">Xevado Ranrapalca</name>, 6162 m. (Northeast summit by South tace of Northeast ridge.)</p>
+      <p n="914"><name type="person">Amstutz</name>, <name type="person">Grimm</name>, <name type="person">von Rütte</name>, <name type="person">Luchsinger</name>, <name type="person">Zimmerli</name>.</p>
+      <p n="915"><date>3 July</date> <placeName type="mountain">Xevado Tocllaraju</placeName>, 60^2 m. (c. 150_200 in from summit.)</p>
+      <p n="916"><date>4 July</date> <placeName type="mountain">Xevado I'rus</placeName>, Î495 m. <name type="person">Luchsinger</name>, <placeName type="gpe">Zimmerli</placeName>.</p>
+      <p n="917">Main <placeName type="gpe">German</placeName> and <placeName type="gpe">Austrian</placeName> climbers47</p>
+      <p n="918">since <date>1930</date></p>
+      <p n="919"><name type="person">Anderl Heckmair</name> ' Translation:</p>
+      <p n="920"><name type="person">Aiuln-v Salki-M</name>) A complete and chronological assessment ot all the noteworthy climbers since 19^0 would hardly he appropriate, so necessarily subjective though this is I am confining mysclt to those whose efforts could be said to have given alpinism a new impulse.</p>
+      <p n="921">In the first rank was <name type="person">Dr W'ilo Welzenbach</name>, active in <date>the 30s</date>, who applied extreme rock-climbing techniques to ice.</p>
+      <p n="922">lie was a government architect from <placeName type="city">Munich</placeName> and belonged to the Academische Alpenverein (A. A.Y.M.).</p>
+      <p n="923">But he, too, was not without his predecessors;</p>
+      <p n="924">Among them the <placeName type="gpe">Viennese</placeName> climbers G<name type="person">uido Lammer a</name>nd Al<name type="person">fred Horeschowsky, </name>who undertook ice routes which were extremely difficult for the time.</p>
+      <p n="925">A development of crucial significance in the approach to climbing, indeed a turning point, during the <date>30s</date>, was the evaporation ot the deep awe which had been felt for the massive, sheer faces and their difficulties, as the number of good rock and ice climbers increased.</p>
+      <p n="926">Although more mountaineers emerged from non-Alpine areas, particularly from the large towns, fears that the mountains would be degraded to mere climbing gymnasia or playgrounds in fact proved unfounded.</p>
+      <p n="927">Technique and equipment developed further, making easier what had until then been considered the most difficult undertakings and, at the same time, bringing into the field of possibility others which had previously been thought out of the question.</p>
+      <p n="928">At the same time, progress in mountaineering achievement went ahead rapidly.</p>
+      <p n="929">For example, at their first attempt, <name type="person">Toni</name> and <name type="person">Franz Schniid</name> from <placeName type="city">Munich</placeName>, succeeded in 193 1 in conquering the <placeName type="mountain">Matterhorn</placeName> North wall.</p>
+      <p n="930"><name type="person">Toni</name> was 20, about five years younger than his brother <name type="person">Franz</name>, and very tit.</p>
+      <p n="931">He had also made a name for himself skiing, particularly ski-jumping;</p>
+      <p n="932">but it was in their passion for climbing that they achieved their greatest satisfaction.</p>
+      <p n="933">Now the barriers were down, and even the biggest, most inhospitable faces found their attempters and conquerors.</p>
+      <p n="934">A special struggle burned around those ' last problems ', the big icy walls of <placeName type="mountain">the Alps</placeName>  <placeName type="mountain">the Grandes Jorasses</placeName> and the <placeName type="mountain">North wall of the ICiger</placeName>.</p>
+      <p n="935">Looking back, one might gain the impression that the climbers concerned had come afresh to climbing in attempting such faces.</p>
+      <p n="936">But this is not true;</p>
+      <p n="937">each individual was the product of a circle of climbers who had first conceived the method for this climb.</p>
+      <p n="938">Climbers from <placeName type="city">Munich</placeName> and <placeName type="gpe">the Tyrol</placeName> met in <placeName type="mountain">the Wilder Kaiser</placeName>, <placeName type="mountain">the Wetterstein</placeName> and <placeName type="mountain">Karwendel</placeName> mountains and soon the well-known, difficult faces-- which had been first climbed in the 20s by <name type="person">Hans Dülfer</name>, <name type="person">Otto Herzog</name>, <name type="person">Hans Fiehtl</name>, <name type="person">Fritz Wiessner</name> and others came into vogue.</p>
+      <p n="939">Names like <name type="person">Leo Rittler</name>, <name type="person">Hans Brehni</name>, <name type="person">Rudolf</name> I laringer, Rudolf l' eters, <name type="person">Martin Maier</name>, 2trtin~ (nul l'niu Sflimid Taken shortly alter their first ascent of tlu1 North face of the <placeName type="mountain">Mattcrhorn</placeName>, n &gt; ^i.</p>
+      <p n="940">l' hoto: \V.</p>
+      <p n="941">Bellows.</p>
+      <p n="942">Re printed from <name type="person">A.J</name> ....</p>
+      <p n="943">There is a photo of them on the elimh in.</p>
+      <p n="944">\.'J ..</p>
+      <p n="945">(» t <name type="person">Hans Krtl</name> (all from <placeName type="city">Munich</placeName>) were not only known tor the climbs niir.lt1 m their local mountains, hut also named repute tor their exploits m <placeName type="mountain">the Western Alps</placeName> and the mountains outside <placeName type="gpe">Kurope</placeName>.</p>
+      <p n="946">Up till then, climbing—even extreme climbing—had been mainly restricted to those who could afford the ‘sport’.</p>
+      <p n="947">The <placeName type="city">Munich</placeName> climbers were different.</p>
+      <p n="948">They came from poorer circles and it sufficed only to have bread, sausage and an apple in their rucksack, even tor the hardest routes.</p>
+      <p n="949">Lack ot money for travel was ovcrconrj by the bicycle.</p>
+      <p n="950"><name type="person">Leo Rittler</name>, for example, came from a very poor background, but he still managed to spend all his free time in the mountains.</p>
+      <p n="951"><name type="person">Ami</name> in <date>those early days of the 30s</date>, many people had more than enough free time.</p>
+      <p n="952">In <placeName type="gpe">Germany</placeName> there was mass unemployment.</p>
+      <p n="953">Instead ot waiting tor unemployment benefit, these men went into the mountains, earned enough for the basic essentials in the huts by cutting wood, <name type="person">ami</name> undertook such extremely difficult routes in the surrounding mountains that they soon belonged to the ranks of the finest alpinists.</p>
+      <p n="954"><name type="person">I,eo Rittler</name> distinguished himself by climbing great <placeName type="mountain">Dolomite</placeName> faces.</p>
+      <p n="955">But m 193 1 he and <name type="person">Hans Hrelini</name> met their fate on the North Wall of the <placeName type="mountain">Grandes Jorasses</placeName>.</p>
+      <p n="956">Ka<name type="person">rl Hrendl, </name>a man with a touch of bravado, succeeded in climbing the south ridge of the Ai<placeName type="mountain">guille Noire, </placeName>which had already been fruitlessly attempted by Welzenbach.</p>
+      <p n="957"><name type="person">Hans Hrehm</name>, the black sheep ot his family, and <name type="person">Hans Krtl</name> whose 1 See.</p>
+      <p n="958"><name type="person">I.J.</name></p>
+      <p n="959">IS.</p>
+      <p n="960">406.</p>
+      <p n="961">MAIN:RMAN AM) AISTKIAN CI.</p>
+      <p n="962">IMHKKS SINTI:</p>
+      <p n="963">eloquence in writing and speech brought him fame all over the world, together mastered <placeName type="mountain">the Königsspitze</placeName> North wall.</p>
+      <p n="964">At the same time, in 1931, I too came into contact with ice for the first time, with the Tra<name type="person">unstein cl</name>imber, Chr<name type="person">istl Kröner, o</name>n the Grandes Jorasses.</p>
+      <p n="965"><name type="person">Kröner</name> had studied at the Munich Art Academy and painted mountains with the eyes or both climber and artist, much in the same style as <name type="person">Compton</name>.</p>
+      <p n="966">lie was a ' <name type="person">Bohemian</name> ', with long side-whiskers and always ready with a joke.</p>
+      <p n="967"><date>The year</date> before he had made the third ascent of <placeName type="mountain">the Sentinelle Rouge</placeName> and had hail the opportunity of seeing the <placeName type="mountain">Jorasses</placeName>.</p>
+      <p n="968">In <date>the lean years</date> of the First World War, I grew up in an orphanage, and after my apprenticeship as a gardener, won a scholarship to the I Iorticultural College.</p>
+      <p n="969">This gave me a lot of time and opportunity to visit the mountains.</p>
+      <p n="970">30. The Himalaya</p>
+      <p n="971">liul(11 îh (kinair, st tuny</p>
+      <p n="972">Because of a certain aptitude for gymnastics, I did n't find it difficult to join the ranks of " the top climbers ofthat time.</p>
+      <p n="973">In turn I climbed the most difficult rock walls of the northern limestone <placeName type="mountain">Alps</placeName> and the <placeName type="mountain">Dolomites</placeName>.</p>
+      <p n="974">I had no experience of ice, however, and, being young, was presumptuous enough to attempt, very early on, an ice-wall of the nature of the <placeName type="mountain">Grandes Jorasses</placeName>.</p>
+      <p n="975">Fortunately, as a result of a rapid change in the weather, we were turned away whilst still on the lower stages of the climb.</p>
+      <p n="976">By contrast, we were lucky to complete <placeName type="mountain">the Charmoz</placeName> North wall in a single afternoon.</p>
+      <p n="977"><date>Two years later</date> C<name type="person">hristl Kröne</name>r was killed by a stonefall on the north face of the<placeName type="mountain"> Matterhor</placeName>n.</p>
+      <p n="978">Witli him at the time-was <name type="person">Walter Stösser</name>, who was renowned for his competence on rock and ice</p>
+      <p n="979">rt-</p>
+      <p n="980">31 lin siu r.lanu:</p>
+      <p n="981">I k-ckmatr, I.udu il: YorL.1, Int/.</p>
+      <p n="982"><name type="person">Kasparck</name>, I Iunruh 1 larrtr <name type="person">Stösser</name> lumsclt perished in 19^ on ' ' 1 <placeName type="mountain">Morgenhorn</placeName> m tlie <placeName type="mountain">liernese Oberland</placeName>.</p>
+      <p n="983"><name type="person">Paidar</name> known as the Big Silent Man - together with <name type="person">Ludwig Schmaderer</name>, the <placeName type="city">Munich</placeName> climber of mercurial temperament, were among the most extreme <placeName type="mountain">Kaiser</placeName> and <placeName type="mountain">Dolomite</placeName> climbers.</p>
+      <p n="984">They surprised every one with their difficult routes in <placeName type="mountain">the Western Alps</placeName> and became famous for their attempts on <placeName type="mountain">Nanga l' arbat</placeName> and their climbs in the <placeName type="mountain">Sikkim Himalaya</placeName>.</p>
+      <p n="985">Parallel to this development m mountaineering, a rescue service was built up for mountaineers in need.</p>
+      <p n="986">It was called the Bergwacht and owes its beginning to L<name type="person">udwig Gramminger </name>from M<placeName type="city">unich,</placeName> himself a top-flight mountaineer and still active t<date>oday.</date></p>
+      <p n="987">At the same time a parallel service has been developed in <placeName type="gpe">Austria</placeName>, under the inspiration of <name type="person">Wastl Mariner</name> of <placeName type="city">Innsbruck</placeName>.</p>
+      <p n="988">Like <name type="person">Grammmger</name>, he is an active mountaineer and devotes immense effort to furthering mountain rescue interests.</p>
+      <p n="989">Meanwhile new names emerged, such as <name type="person">Rudolf Haringer</name> and <name type="person">Martin Maier</name>, who have already been mentioned, and especially <name type="person">Rudolf Peters</name>, a fine young climber who, despite an unimpressive first appearance, led climbs of unbelievable difficulty and steepness.</p>
+      <p n="990">It was he, who with <name type="person">Martin Maier</name> in <date>1935</date>, finally conquered the <placeName type="mountain">Grandes Jorasses</placeName> North wall, 2 a year after his previous companion, <name type="person">Haringer</name>, was fatally injured under tragic circumstances on the same face.</p>
+      <p n="991">It was in 193 v too, that the struggle for the <placeName type="mountain">Kiger Nordwand</placeName> began, and again it was between men who had previously only climbed in their home mountains.</p>
+      <p n="992"><name type="person">Max Sedlmayer</name> and <name type="person">Karl Mehringer</name> were the first to seek out the one North:</p>
+      <p n="993">Main German and Austrian Club</p>
+      <p n="994">IMEil-KS SINCE-:</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,531 @@
+JSONL Analysis Report
+====================================================================================================
+
+Lines processed: 1060
+No control characters found
+Suspicious lines found: 177
+
+====================================================================================================
+SUSPICIOUS LINES (Need manual review):
+====================================================================================================
+
+
+Line 5
+Text: Mike Kosterlitz, Richard Stewardson and I left England on Friday evening 2iS June 1968, and reached the Val Bregaglia at
+Issues found:
+  - Position 73: '2i' -> possible OCR: digit followed by l/|/I
+
+Line 10
+Text: This climb lies on the big pillar forming the left hand part of the Hadile 's familiar Northeast face.
+Issues found:
+  - Position 28: 'ill' -> possible OCR: multiple l/i/|/I in a row
+  - Position 81: 'ili' -> possible OCR: multiple l/i/|/I in a row
+
+Line 11
+Text: It was first climbed in 1953 and the only facts on record are that the climbing was largely artificial and the unfortuna
+Issues found:
+  - Position 176: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 23
+Text: So when the joys of C' omo began to pall and our wallets to grow thin, instead of returning to Bondo we drove up the \ a
+Issues found:
+  - Position 117: '\ ' -> possible OCR: backslash with space
+
+Line 24
+Text: The guardian, Fiorelli, was suitably impressed when we mentioned the C' orti route and told us that it was, ' tutto chio
+Issues found:
+  - Position 19: 'lli' -> possible OCR: multiple l/i/|/I in a row
+
+Line 36
+Text: Still, it was midsummer, so we hoped, to get away without a bivouac.
+Issues found:
+  - Position 2: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 51
+Text: Just above my stance he climbed over three blocks jammed abreast, then over a frightening projecting flake, and with con
+Issues found:
+  - Position 132: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 55
+Text: He hauled the big sack as he 'd cleverly hauled his own, so I was able to enjoy it, using the rubbish at the back of the
+Issues found:
+  - Position 148: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 59
+Text: IppriMirliiiiji tin slnp final sntimi on t/n l' i~ liatlilr
+Issues found:
+  - Position 8: 'liiii' -> possible OCR: multiple l/i/|/I in a row
+  - Position 55: 'lil' -> possible OCR: multiple l/i/|/I in a row
+
+Line 71
+Text: I came up, impressed by the instability of some of the pegs and the general looseness of the area where Mike was belayed
+Issues found:
+  - Position 34: 'ili' -> possible OCR: multiple l/i/|/I in a row
+
+Line 79
+Text: He ran out 130 ft at best Californian speed and he still was n't there.
+Issues found:
+  - Position 53: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 81
+Text: ' Is it big enough to cook onWait till you see it '.
+Issues found:
+  - Position 35: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 82
+Text: I still had hopes of reaching the shoulder, but darkness came when I was half way up the pitch.
+Issues found:
+  - Position 4: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 101
+Text: I woke to find myself falling  the ' good ' peg had come out.
+Issues found:
+  - Position 24: 'lli' -> possible OCR: multiple l/i/|/I in a row
+
+Line 102
+Text: I never came onto the belays, for after slipping only a couple of feet I was held, mostly by Mike 's hand on the back of
+Issues found:
+  - Position 154: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 106
+Text: Mike was less fortunate  his anorak was less waterproof, he was still under a bigger drip, and he did n't sleep at all.
+Issues found:
+  - Position 67: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 111
+Text: I had to untie one rope and still needed all my strength to move the other.
+Issues found:
+  - Position 30: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 121
+Text: Fiorelli was engaged on his two-way radio and we gathered from snatches overheard that he was talking about us.
+Issues found:
+  - Position 5: 'lli' -> possible OCR: multiple l/i/|/I in a row
+
+Line 125
+Text: We paid our bills, and set off for the valley where, it seemed, the whole world was waiting for us.
+Issues found:
+  - Position 13: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 148
+Text: l'.ML'l.md, when several members ot the Mountain Club planned to \1s1t the Cordillera Bianca.
+Issues found:
+  - Position 79: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 150
+Text: As a start to preparations I pored through maps and relcrcnces m the Royal (ieoL'i.iphical Society 's library, collected
+Issues found:
+  - Position 75: '(ie' -> possible OCR: "({letter}" might be something else
+
+Line 152
+Text: In |une 1 i/ > o, alter two aeti\ e climhmi;
+Issues found:
+  - Position 32: '\ ' -> possible OCR: backslash with space
+
+Line 153
+Text: seasons in New Zealand, w here I now live, it was proposed that the time had come lor the Wellington Section ot the New 
+Issues found:
+  - Position 160: '\ ' -> possible OCR: backslash with space
+  - Position 92: 'lli' -> possible OCR: multiple l/i/|/I in a row
+
+Line 154
+Text: Entities: [Wellington|MOUNTAIN]
+Issues found:
+  - Position 13: 'lli' -> possible OCR: multiple l/i/|/I in a row
+
+Line 156
+Text: I had read ill Km/1.
+Issues found:
+  - Position 11: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 157
+Text: mil Schneider 's bookoitlillan li/tinrti, published 111 11) 50, about 1 > erupaia.
+Issues found:
+  - Position 24: 'lill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 160
+Text: ' The southernmost peak markinu the end of the Cordillera Bianca is the flaciated R.i|utuna.
+Issues found:
+  - Position 51: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 162
+Text: the second highest peak ot l' eru is the greatest height vet imscale.l in South America, and an attraction of the 5 Tin 
+Issues found:
+  - Position 128: 'iliii' -> possible OCR: multiple l/i/|/I in a row
+
+Line 163
+Text: David Adcock, Lloyd (iaHa^'hcr, I'ctcr Harry, Rcihm Hrooks, Judy Brooks.
+Issues found:
+  - Position 20: '(ia' -> possible OCR: "({letter}" might be something else
+
+Line 164
+Text: Allan Shcppard, (iracmc Din l-'ront row (I In rl:
+Issues found:
+  - Position 16: '(ir' -> possible OCR: "({letter}" might be something else
+
+Line 168
+Text: Julian, Kn-dc-rico, llidaluo, Kcm-r Hates, Si-rnio greatest importance to mountaineers '.
+Issues found:
+  - Position 20: 'lli' -> possible OCR: multiple l/i/|/I in a row
+
+Line 171
+Text: Much had probably taken place since Kinzl 's book had been published, so I set about reading up all the climbing history
+Issues found:
+  - Position 132: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 172
+Text: Entities: [Cordillera Huayhuash|MOUNTAIN]
+Issues found:
+  - Position 15: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 173
+Text: It lies thirty-five miles south-east ot the better known Cordillera Hlanea, and is 100 miles due north of Lima.
+Issues found:
+  - Position 61: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 175
+Text: Verupaja 21,765 ft (6634 m) is the highest mountain m the range, and the second highest in Peru, the highest being Huasc
+Issues found:
+  - Position 156: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 177
+Text: In November 10.66, before news ot the current season 's attempts had reached us, I presented a report to the Wellington 
+Issues found:
+  - Position 111: 'lli' -> possible OCR: multiple l/i/|/I in a row
+
+Line 178
+Text: Entities: [Wellington|MOUNTAIN], [Yerupaja|MOUNTAIN]
+Issues found:
+  - Position 13: 'lli' -> possible OCR: multiple l/i/|/I in a row
+
+Line 186
+Text: Early in 1967 I learned the results of the 1966 climbing season in the Cordillera Huayhuash, where the main summit of Ye
+Issues found:
+  - Position 75: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 187
+Text: Entities: [Cordillera Huayhuash|MOUNTAIN], [Yerupaja|MOUNTAIN]
+Issues found:
+  - Position 15: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 192
+Text: I had not mentioned the possibility of a first traverse, though when writing to Leif Patterson about his attempt on the 
+Issues found:
+  - Position 30: 'ili' -> possible OCR: multiple l/i/|/I in a row
+
+Line 196
+Text: The z\ tons of food and equipment was trans-shipped to the southbound Rossini at Panama, from where I flew to Lima to aw
+Issues found:
+  - Position 5: '\ ' -> possible OCR: backslash with space
+
+Line 198
+Text: On 13 May we left Lima by chartered bus for Chiquian, arriving there at 5 l'f (t \nrth~7ii.
+Issues found:
+  - Position 87: '7i' -> possible OCR: digit followed by l/|/I
+
+Line 199
+Text: s7 spur tif) i nifïtii.i, Xmlli Suttnnit, < nul wain summit {n ^ tTiip.tja L' hiticr
+Issues found:
+  - Position 60: '{n ^' -> possible OCR: "{letter} ^" looks suspicious
+  - Position 28: 'lli' -> possible OCR: multiple l/i/|/I in a row
+
+Line 204
+Text: As the mules « ere a day late in arriving, we lelt (. '
+Issues found:
+  - Position 49: 't (.' -> possible OCR: "letter (." might be missing text
+
+Line 217
+Text: During the next nine days Camp III was sited in a crevasse at 20,300 ft on the spur.
+Issues found:
+  - Position 31: 'III' -> possible OCR: multiple l/i/|/I in a row
+
+Line 219
+Text: Then by Bates and Dingle, who continued the route up to Camp III, assisted on the last day by Brooks and Gallagher..
+Issues found:
+  - Position 61: 'III' -> possible OCR: multiple l/i/|/I in a row
+
+Line 220
+Text: Meanwhile the rest of the team were stocking Camp II, with a notable effort by Judy, who not only made more carries than
+Issues found:
+  - Position 155: 'illi' -> possible OCR: multiple l/i/|/I in a row
+
+Line 221
+Text: On 20 June, the thirty-fifth day after our arrival at Base, while Bates and Dingle were between Camps II and III, a séra
+Issues found:
+  - Position 109: 'III' -> possible OCR: multiple l/i/|/I in a row
+
+Line 222
+Text: They had a miraculous escape and continued on to Camp III, crossing and recrossing the avalanche track, until they repor
+Issues found:
+  - Position 54: 'III' -> possible OCR: multiple l/i/|/I in a row
+
+Line 223
+Text: At this stage I decided to abandon the Northwest spur as a route of ascent for the expedition, but as they were now at C
+Issues found:
+  - Position 124: 'III' -> possible OCR: multiple l/i/|/I in a row
+
+Line 225
+Text: After a cold and windy night it clouded by early morning, and as Dingle was showing signs of slight frost-bite they desc
+Issues found:
+  - Position 159: 'III' -> possible OCR: multiple l/i/|/I in a row
+
+Line 226
+Text: Meanwhile Barry and I established a Camp IIla above Rasac Col at 18,800 ft to prepare for the possibility of a traverse 
+Issues found:
+  - Position 41: 'IIl' -> possible OCR: multiple l/i/|/I in a row
+  - Position 100: 'ili' -> possible OCR: multiple l/i/|/I in a row
+
+Line 228
+Text: When I learned by radio that Hates and Dingle were descending from Camp III to Camp II, we also returned to Camp II, arr
+Issues found:
+  - Position 72: 'III' -> possible OCR: multiple l/i/|/I in a row
+
+Line 230
+Text: Dingle had suffered superficial trost-bite m both sets of toes, and returned to Base Camp the following day, while Brook
+Issues found:
+  - Position 150: 'Ili' -> possible OCR: multiple l/i/|/I in a row
+
+Line 233
+Text: I then returned to join Dingle at Base Camp on 26 June (forty-first day) whilst the others stocked the new Camp Ilia abo
+Issues found:
+  - Position 112: 'Ili' -> possible OCR: multiple l/i/|/I in a row
+
+Line 234
+Text: On the following day Bates and Gallagher reached the 21,37s ft South Summit returning to Camp Ilia;
+Issues found:
+  - Position 94: 'Ili' -> possible OCR: multiple l/i/|/I in a row
+
+Line 235
+Text: and two days later Bates and Gallagher, Barry and Sheppard and R. and J. Brooks established Camp IV on a good site at 21
+Issues found:
+  - Position 235: 'Ili' -> possible OCR: multiple l/i/|/I in a row
+
+Line 240
+Text: and I continued on to Camp Ilia for the evening radio contact at 6, when we excitedly learned from Bates and Gallagher o
+Issues found:
+  - Position 27: 'Ili' -> possible OCR: multiple l/i/|/I in a row
+
+Line 242
+Text: On the following day Barry and Sheppard and R. and J. Brooks climbed to Camp IV, while Bates, Gallagher, Dingle and I oc
+Issues found:
+  - Position 132: 'Ili' -> possible OCR: multiple l/i/|/I in a row
+
+Line 243
+Text: Whilst a more protracted summit assault would have avoided overcrowding the single mountain tent at Camp IV, it was also
+Issues found:
+  - Position 363: 'Ili' -> possible OCR: multiple l/i/|/I in a row
+
+Line 245
+Text: North Summit, un-namcd pi-ak (5 X^0 nil, \\rupaia C' hico U-xtrrmr nu'ht), twin pr.iks l [ irishhaiH'a, Rniuloy Uxtivnu-
+Issues found:
+  - Position 124: 'lii' -> possible OCR: multiple l/i/|/I in a row
+  - Position 133: 'iii' -> possible OCR: multiple l/i/|/I in a row
+
+Line 246
+Text: On the following day Dingle and I set out tor the Main Summit, which we reached at 1 iam, appreciating at every step the
+Issues found:
+  - Position 158: '(ia' -> possible OCR: "({letter}" might be something else
+
+Line 247
+Text: Kven though it had started to cloud we decided to descend the virgin North ridge, choosing the sätest path between the d
+Issues found:
+  - Position 149: '(on' -> possible OCR: "({letter}" might be something else
+
+Line 250
+Text: The descent to Camp III was tedious, as no fixed ropes were placed during the first ascent twelve days before, thereafte
+Issues found:
+  - Position 20: 'III' -> possible OCR: multiple l/i/|/I in a row
+
+Line 251
+Text: Dingle, whose descent technique was fast and sure, did all the work on our way down to the old Camp II site, where we ar
+Issues found:
+  - Position 343: 'Ili' -> possible OCR: multiple l/i/|/I in a row
+
+Line 255
+Text: Siiimillt ut) irupaja.
+Issues found:
+  - Position 1: 'iii' -> possible OCR: multiple l/i/|/I in a row
+  - Position 5: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 257
+Text: (init/nu1 I) inük- stiiiuiinu ' cloud for most ot the day, and elsewhere it was overcast.
+Issues found:
+  - Position 0: '(in' -> possible OCR: "({letter}" might be something else
+  - Position 21: 'iii' -> possible OCR: multiple l/i/|/I in a row
+
+Line 258
+Text: Meanwhile, Bates and (iallagher had decided to complete the traverse also, and were at Camp IV hoping the weather would 
+Issues found:
+  - Position 21: '(ia' -> possible OCR: "({letter}" might be something else
+
+Line 259
+Text: On 4 July, Bates and (iallagher successfully completed the second traverse m nine hours, without the benefit ot a fixed 
+Issues found:
+  - Position 21: '(ia' -> possible OCR: "({letter}" might be something else
+  - Position 165: 'liil' -> possible OCR: multiple l/i/|/I in a row
+
+Line 265
+Text: We left our Base Camp at Jahuacocha on 29 July (seventy-fourth day), with twelve donkeys, eight mules and tour arrici'(/
+Issues found:
+  - Position 121: '\\ ' -> possible OCR: backslash with space
+
+Line 270
+Text: No porters were used on the expedition, only one camp guard was employed and the team members carried all stores to the 
+Issues found:
+  - Position 197: '(of' -> possible OCR: "({letter}" might be something else
+  - Position 267: 'III' -> possible OCR: multiple l/i/|/I in a row
+  - Position 288: 'Ili' -> possible OCR: multiple l/i/|/I in a row
+
+Line 299
+Text: Dishevelled and disorganised, we contrasted sadly to this model expedition, with its tallies, chairs, and typewriters.
+Issues found:
+  - Position 87: 'lli' -> possible OCR: multiple l/i/|/I in a row
+
+Line 306
+Text: We kept telling each other that, of course, though ice climbs always look vertical head on, they simply ca n't be ... si
+Issues found:
+  - Position 10: 'lli' -> possible OCR: multiple l/i/|/I in a row
+
+Line 313
+Text: but we must hope it will come.
+Issues found:
+  - Position 21: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 314
+Text: Kmploying expedition tactics on what is essentially an Alpine-route is as absurd as nailing Cenotaph Corner:
+Issues found:
+  - Position 86: 'ili' -> possible OCR: multiple l/i/|/I in a row
+
+Line 318
+Text: This issue is becoming acute, as m the 70s some of the greatest remaining possibilities will be attempted.
+Issues found:
+  - Position 80: 'ili' -> possible OCR: multiple l/i/|/I in a row
+  - Position 89: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 319
+Text: The incredible faces in Patagonia, Alaska and the Karakoram, possibly represent the last new dimension in mountaineering
+Issues found:
+  - Position 121: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 351
+Text: Till- AMAZON 1-ACKlo, ice-bridges had disappeared; it was becoming absurd.
+Issues found:
+  - Position 1: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 352
+Text: Oti at last we grinned at each other and the (Jods  it had been a bad day.
+Issues found:
+  - Position 45: '(Jo' -> possible OCR: "({letter}" might be something else
+
+Line 379
+Text: We hoped the séracs would be our home, but as time passed the dismal possibility
+Issues found:
+  - Position 75: 'ili' -> possible OCR: multiple l/i/|/I in a row
+
+Line 409
+Text: we will wait for them.
+Issues found:
+  - Position 4: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 415
+Text: Again it is night, again we are rappelling.
+Issues found:
+  - Position 37: 'lli' -> possible OCR: multiple l/i/|/I in a row
+
+Line 416
+Text: Sr. MMARV  Peru, Cordillera Huayhuash.
+Issues found:
+  - Position 22: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 418
+Text: David Adcock (leader), Peter Harry, Roger Bates (deputy leader), Graeme Dingle, Lloyd Gallagher, Allan Sheppard (all Wel
+Issues found:
+  - Position 119: 'lli' -> possible OCR: multiple l/i/|/I in a row
+
+Line 419
+Text: Entities: [Wellington|MOUNTAIN], [Roger Bates|PERSON], [Graeme Dingle|PERSON], [David Adcock|PERSON], [Adcock|PERSON]
+Issues found:
+  - Position 13: 'lli' -> possible OCR: multiple l/i/|/I in a row
+
+Line 423
+Text: 13 Ahn amiJiiifi tin hoiischritiitl, in timid Yerupaja Grande 30 June 21,765 Vt 2 July I p ami down South-west riiljje:
+Issues found:
+  - Position 11: 'iii' -> possible OCR: multiple l/i/|/I in a row
+  - Position 112: 'iil' -> possible OCR: multiple l/i/|/I in a row
+
+Line 430
+Text: Hates, 21,500 ftDintrle \ and 4 July Traverse parties Yerupaja Sur27 and ^o June Bates, (ïalla^her July 2 4 JulyTraverse
+Issues found:
+  - Position 24: '\ ' -> possible OCR: backslash with space
+
+Line 434
+Text: Dean C' aldwell, Paul Dix, Rotier Hart, Chris Jonc« Yerupaja (iraiiue ^7 31 JulyNorth-east lace, first ascent ami descen
+Issues found:
+  - Position 61: '(ir' -> possible OCR: "({letter}" might be something else
+
+Line 438
+Text: Fred Hoy le ' I,ike all the members ot your Chili I have a particular affection for days spent in wild places.
+Issues found:
+  - Position 46: 'ili' -> possible OCR: multiple l/i/|/I in a row
+
+Line 440
+Text: Man is an essentially nomadic animal.e like to he on the move, always looking over the brow of the next hill.
+Issues found:
+  - Position 105: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 448
+Text: Just as strength of body will not automatically make a threat mountaineer, so intelligence alone will not make a great s
+Issues found:
+  - Position 26: 'ill' -> possible OCR: multiple l/i/|/I in a row
+  - Position 82: 'lli' -> possible OCR: multiple l/i/|/I in a row
+  - Position 98: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 458
+Text: Hut should yon succeed in doing so your purpose will completely disappear.
+Issues found:
+  - Position 49: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 475
+Text: Nor do I believe the future will belong to nations with vast armaments 
+Issues found:
+  - Position 29: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 477
+Text: The future, I believe, will belong to the nation, or nations, that manages to preserve stability in the face of steadily
+Issues found:
+  - Position 24: 'ill' -> possible OCR: multiple l/i/|/I in a row
+  - Position 91: 'ili' -> possible OCR: multiple l/i/|/I in a row
+
+Line 478
+Text: And mental stability will depend on some form of communal ' inner fires '.
+Issues found:
+  - Position 15: 'ili' -> possible OCR: multiple l/i/|/I in a row
+  - Position 22: 'ill' -> possible OCR: multiple l/i/|/I in a row
+
+Line 480
+Text: He is setting an example of exactly what is needed to maintain the stability of mind of which I have just been speaking.
+Issues found:
+  - Position 71: 'ili' -> possible OCR: multiple l/i/|/I in a row
+
+Line 491
+Text: w Ir re the Academy ot Sciences anil the l' eter the (ireat ranges interseet.
+Issues found:
+  - Position 53: '(ir' -> possible OCR: "({letter}" might be something else
+
+Line 492
+Text: has alwavs attracted the attention ot mountaineers, luit lor a lone time its remoteness, its diliiculty of access, ami t
+Issues found:
+  - Position 94: 'ilii' -> possible OCR: multiple l/i/|/I in a row
+  - Position 182: 'ili' -> possible OCR: multiple l/i/|/I in a row
+
+Line 494
+Text: the outstanding Soviet mountaineere\ >
+Issues found:
+  - Position 35: '\ ' -> possible OCR: backslash with space
+
+Line 495
+Text: jeniy Abalakov readmit, ' the summit on; September (.
+Issues found:
+  - Position 49: 'r (.' -> possible OCR: "letter (." might be missing text
+
+... and 77 more suspicious lines
