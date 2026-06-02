@@ -94,7 +94,7 @@ for ent in doc.ents:
    * Updated using:
 
      * `update_jsonl_from_csv.py`
-     These files serve as the final gold-standard annotation dataset.
+     * Output files serve as the final gold-standard annotation dataset.
 
 6. **XML exports (`*.xml`, `*.corrected.xml`)**
 
