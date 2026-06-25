@@ -67,50 +67,43 @@ for ent in doc.ents:
    * Direct exports from Prodigy.
    * Used as the primary annotation source.
 
-2. **Cleaned annotations (`*.cleaned.jsonl`)**
+2. **Cleaned annotations (`*.cleaned.jsonl`) and Analysis reports (`*.analysis.txt`)**
 
    * Automatically cleaned versions of the original annotations.
+   * Annotation analysis and validation reports generated during the review process.
    * Generated using:
 
      * `analyze_jsonl_conservative.py` 
 
-3. **Analysis reports (`*.analysis.txt`)**
-
-   * Annotation analysis and validation reports generated during the review process.
-   * Generated using:
-
-     * `analyze_jsonl_conservative.py`
-
-4. **Review files (`*.cleaned.review.csv`)**
+3. **Review files (`*.cleaned.review.csv`)**
 
    * Spreadsheet files generated for manual inspection and correction.
    * Generated using:
 
      * `create_review_spreadsheet.py`
     
-5. **Corrected annotations (`*.corrected.jsonl`)**
+4. **Corrected annotations (`*.corrected.jsonl`)**
 
-   * Manually reviewed and corrected annotation files.
+   * After manually reviewing and correcting annotation files.
    * Updated using:
 
      * `update_jsonl_from_csv.py`
      * Output files serve as the final gold-standard annotation dataset.
 
-6. **XML exports (`*.xml`, `*.corrected.xml`)**
+5. **XML exports (`*.xml`, `*.corrected.xml`)**
 
    * Structured XML representations preserving annotation metadata, tokenisation, and span information.
    * Generated using:
 
-     * `convert_jsonl_to_xml_original.py`
      * `convert_corrected_jsonl_to_xml.py`
 
-7. **TEI exports (`*.corrected.tei.xml`)**
+6. **TEI exports (`*.corrected.tei.xml`)**
 
    * TEI-compatible XML versions generated from the corrected annotations.
+   * Intended for corpus publication, interoperability, and digital humanities applications.
    * Generated using:
 
      * `convert_corrected_jsonl_to_tei.py`
-     * Intended for corpus publication, interoperability, and digital humanities applications.
 
 The corrected JSONL files remain the authoritative annotation source used for model development and evaluation.
 
